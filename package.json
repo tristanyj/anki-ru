@@ -1,0 +1,13 @@
+{
+  "name": "russe",
+  "version": "1.0.0",
+  "description": "",
+  "author": "tristanyj",
+  "scripts": {
+    "plop": "plop"
+  },
+  "devDependencies": {
+    "moment": "^2.29.4",
+    "plop": "^4.0.0"
+  }
+}

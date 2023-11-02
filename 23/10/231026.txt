@@ -1,0 +1,64 @@
+про ; à propos de, au sujet de, concernant ; Я хочу поговорить про нашу следующую встречу. ; Je veux parler de notre prochaine rencontre.
+обсуждать / обсудить ; discuter, débattre ; Мы обсуждали этот вопрос вчера. ; Nous avons discuté de cette question hier.
+кстати ; à propos, d'ailleurs, au fait ; Кстати, я хотел спросить тебя о твоем брате. ; Au fait, je voulais te demander à propos de ton frère.
+перечечислять / перечислить ; énumérer ; Я буду перечислять все преимущества этого продукта. ; Je vais énumérer tous les avantages de ce produit.
+проходить / пройти ; passer, se dérouler ; Это мероприятие будет проходить в нашем городе. ; Cet événement se déroulera dans notre ville.
+располагаться / расположиться ; se situer, se trouver ; Этот город располагается на берегу моря. ; Cette ville se situe sur la côte.
+основной ; principal, fondamental ; Это основной вопрос нашего разговора. ; C'est la question principale de notre conversation.
+рода ; genre ; Это вопрос рода "да или нет". ; C'est une question du genre "oui ou non".
+событие ; événement ; Это событие произошло вчера. ; Cet événement s'est produit hier.
+разворачиваться / развернуться ; se dérouler, se passer ; Это событие разворачивается в нашем городе. ; Cet événement se déroule dans notre ville.
+название ; nom, titre ; Какое название у этого фильма? ; Quel est le titre de ce film?
+чесно говоря ; pour être honnête, franchement ; Чесно говоря, я не знаю ответа на этот вопрос. ; Pour être honnête, je ne connais pas la réponse à cette question.
+вызывать / вызвать ; provoquer, susciter ; Эта ситуация вызывает у меня негативные эмоции. ; Cette situation suscite en moi des émotions négatives.
+отзыв ; avis, critique ; Я хочу услышать твой отзыв об этом фильме. ; Je veux entendre ton avis sur ce film.
+стало интересно ; ça m'a intéressé, ça m'a intrigué ; Стало интересно, что будет дальше. ; Ça m'a intéressé ce qui va se passer ensuite.
+меня напрягло ; ça m'a dérangé, ça m'a gêné ; Меня напрягло, что он не пришел. ; Ça m'a dérangé qu'il ne soit pas venu.
+отношение ; attitude, rapport ; Мое отношение к этому вопросу положительное. ; Mon attitude envers cette question est positive.
+действительно ; vraiment, effectivement ; Это действительно интересный фильм. ; C'est vraiment un film intéressant.
+господи ; mon dieu ; Господи, как же я устала. ; Mon dieu, comme je suis fatiguée.
+потрясающий ; incroyable, formidable ; Это потрясающий фильм. ; C'est un film incroyable.
+бесподобен ; incomparable ; Этот фильм бесподобен. ; Ce film est incomparable.
+снимать / снять ; tourner, filmer ; Этот директор снимает очень интересные фильмы. ; Ce réalisateur tourne des films très intéressants.
+действие ; action ; Это действие происходит на кухне. ; Cette action se déroule dans la cuisine.
+колоритный ; pittoresque, coloré ; Это колоритный маленький городок. ; C'est un petit village pittoresque.
+колорит ; couleur locale ; Этот фильм полон колорита. ; Ce film est plein de couleur locale.
+воспронимать / воспринять ; percevoir, comprendre ; Я воспринимаю эту ситуацию как негативную. ; Je perçois cette situation comme négative.
+расследовать дело ; enquêter sur une affaire ; Он расследовал это дело в течение многих лет. ; Il a enquêté sur cette affaire pendant de nombreuses années.
+уснуть / уснуть ; s'endormir ; Я уснул во время этого фильма. ; Je me suis endormi pendant ce film.
+любой ; n'importe quel ; Я любой фильм смотрю с удовольствием. ; Je regarde n'importe quel film avec plaisir.
+пересказать ; raconter, résumer ; Я пересказал ему этот фильм. ; Je lui ai raconté ce film.
+фишка в том что ; le truc c'est que ; Фишка в том, что он не придет. ; Le truc c'est qu'il ne viendra pas.
+но вроде и ; mais en même temps ; Но вроде и не так уж и плохо. ; Mais en même temps ce n'est pas si mal.
+на рубеже ; à la frontière ; Этот город находится на рубеже двух стран. ; Cette ville se trouve à la frontière de deux pays.
+ведущий новостей ; présentateur de nouvelles ; Этот ведущий новостей очень популярен. ; Ce présentateur de nouvelles est très populaire.
+яркий ; vif, brillant ; Это яркий пример того, как надо делать. ; C'est un exemple brillant de la façon de faire.
+отдельный ; séparé, individuel ; Это отдельный случай. ; C'est un cas particulier.
+несмотря на то что ; malgré le fait que ; Несмотря на то, что он не пришел, мы все равно веселились. ; Malgré le fait qu'il ne soit pas venu, nous nous sommes quand même amusés.
+передать ; transmettre, passer ; Я хочу передать тебе привет от своей сестры. ; Je veux te transmettre les salutations de ma sœur.
+казалось бы ; on dirait ; Казалось бы, что все хорошо, но на самом деле нет. ; On dirait que tout va bien, mais en fait non.
+оттуда ; de là ; Оттуда открывается красивый вид. ; De là, il y a une belle vue.
+проявление ; manifestation, expression ; Это проявление негативных эмоций. ; C'est une manifestation d'émotions négatives.
+выхатывать / выхатить ; se manifester, se montrer ; Он выхатил свои негативные эмоции. ; Il a manifesté ses émotions négatives.
+выцеплять / выцепить ; attraper, saisir ; Он выцепил эту мысль из воздуха. ; Il a attrapé cette pensée dans l'air.
+успех ; succès ; Этот фильм имел большой успех. ; Ce film a eu un grand succès.
+однозначно ; sans aucun doute ; Это однозначно лучший фильм года. ; C'est sans aucun doute le meilleur film de l'année.
+понимание ; compréhension ; Это понимание ситуации. ; C'est la compréhension de la situation.
+цитировать ; citer ; Я цитирую его слова. ; Je cite ses mots.
+подходить для того чтобы ; convenir pour ; Этот фильм подходит для того, чтобы посмотреть с друзьями. ; Ce film convient pour regarder avec des amis.
+забота ; souci, préoccupation ; У неё есть забота о своей семье. ; Elle se soucie de sa famille.
+отвлечься ; se distraire ; Я хочу отвлечься от работы. ; Je veux me distraire du travail.
+немножко ; un peu ; Я немножко устал. ; Je suis un peu fatigué.
+сравнение ; comparaison ; Это сравнение двух фильмов. ; C'est une comparaison de deux films.
+мысли ; pensées, idées ; Это мои мысли по этому поводу. ; Ce sont mes pensées à ce sujet.
+то есть ; c'est-à-dire, autrement dit ; Это то есть, я не знаю, что делать. ; C'est-à-dire que je ne sais pas quoi faire.
+прям совсем ; vraiment, complètement ; Это прям совсем не так. ; C'est vraiment pas comme ça.
+восточный ; oriental ; Это восточный город. ; C'est une ville orientale.
+затянутый ; long, traîné ; Это затянутый фильм. ; C'est un film long.
+поворот ; tournant, virage ; Это поворот в сюжете. ; C'est un tournant dans l'intrigue.
+появятся ; apparaître, se montrer ; Этот персонаж появится во второй части. ; Ce personnage apparaîtra dans la deuxième partie.
+удивлять / удивить ; surprendre, étonner; Это удивляет меня. ; Ça m'étonne.
+зарубежный ; étranger ; Это зарубежный фильм. ; C'est un film étranger.
+тюрьма ; prison ; Он сидел в тюрьме 10 лет. ; Il a passé 10 ans en prison.
+отвратительный ; dégoûtant, répugnant ; Это отвратительный фильм. ; C'est un film dégoûtant.
+лагерь ; camp, campement ; Это лагерь для детей. ; C'est un camp pour enfants.
