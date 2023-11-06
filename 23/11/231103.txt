@@ -1,0 +1,44 @@
+расцветать / расцвести ; fleurir ; Весной сад полностью расцвел. ; Au printemps, le jardin a fleuri complètement.
+тюльпан ; tulipe ; В саду рос одинокий тюльпан. ; Dans le jardin poussait une tulipe solitaire.
+полностью ; complètement, totalement, entièrement ; Я полностью согласен с вами. ; Je suis totalement d'accord avec vous.
+собирать / собрать ; rassembler, collecter, assembler ; Он собирает марки из разных стран. ; Il collectionne les timbres de différents pays.
+ставить / поставить ; mettre, poser, installer ; Они поставили новый телевизор в гостиной. ; Ils ont installé une nouvelle télévision dans le salon.
+помещать / поместить ; placer, mettre ; Он помещает книги на полку. ; Il place les livres sur l'étagère.
+любоваться / полюбоваться ; admirer, contempler ; Она любовалась закатом. ; Elle admirait le coucher de soleil.
+слон ; éléphant ; Маленький слон играет в зоопарке. ; Le petit éléphant joue dans le zoo.
+листва ; feuillage ; В осенний период листва становится красной и золотой. ; Pendant la période automnale, le feuillage devient rouge et doré.
+растительный ; végétal ; Растительный мир вокруг нас очень красивый. ; Le monde végétal autour de nous est très beau.
+к краю ; vers le bord ; Он шел к краю пропасти. ; Il allait vers le bord du précipice.
+вес ; poids ; У меня в руках коробка, её вес составляет пять килограмм. ; J'ai une boîte dans mes mains, son poids est de cinq kilogrammes.
+тишина ; silence ; В комнате была полная тишина. ; Dans la pièce, il y avait un silence total.
+овца ; mouton ; Овцы паслись на лугу. ; Les moutons paissaient dans la prairie.
+горе ; chagrin, peine ; Она испытывала горе из-за смерти своего отца. ; Elle éprouvait du chagrin à cause de la mort de son père.
+сапог ; botte ; Он надел сапоги и пошел гулять. ; Il a mis ses bottes et est allé se promener.
+кислород ; oxygène ; Кислород необходим для жизни. ; L'oxygène est nécessaire à la vie.
+необходим ; nécessaire ; Это необходимо для нашей работы. ; C'est nécessaire pour notre travail.
+пыль ; poussière ; В комнате было много пыли. ; Il y avait beaucoup de poussière dans la pièce.
+посуда ; vaisselle ; Она помыла всю посуду. ; Elle a lavé toute la vaisselle.
+спутник ; satellite ; Спутник вращается вокруг Земли. ; Le satellite tourne autour de la Terre.
+гнев ; colère ; Он был в яростном гневе. ; Il était dans une colère furieuse.
+смех ; rire ; Он смеялся над шуткой. ; Il riait de la blague.
+дестсво ; enfance ; В детстве я любил играть в футбол. ; Dans mon enfance, j'aimais jouer au football.
+ножницы ; ciseaux ; Она открыла ящик и достала ножницы. ; Elle a ouvert le tiroir et a sorti les ciseaux.
+сутки ; jour ; Сутки состоят из двенадцати часов. ; La journée se compose de douze heures.
+усовля ; moustache ; У него была длинная усовля. ; Il avait une longue moustache.
+чернила ; encre ; Чернила были черного цвета. ; L'encre était noire.
+сумерки ; crépuscule ; Вечером наступили сумерки. ; Le crépuscule est arrivé le soir.
+свеча ; bougie ; Свеча горит на столе. ; La bougie brûle sur la table.
+рёбра ; côtes ; У него были сломаны рёбра. ; Il avait des côtes cassées.
+цель ; but ; Целью нашей работы является создание нового продукта. ; Le but de notre travail est de créer un nouveau produit.
+кашель ; toux ; У него был сильный кашель. ; Il avait une forte toux.
+скачки ; course de chevaux ; Он любит смотреть скачки. ; Il aime regarder les courses de chevaux.
+сливы ; prunes ; У меня в саду растут сливы. ; Des prunes poussent dans mon jardin.
+сливки ; crème ; Она добавила сливки в кофе. ; Elle a ajouté de la crème dans le café.
+скачок ; saut ; Он сделал большой скачок. ; Il a fait un grand saut.
+число ; nombre ; Число 7 является простым. ; Le nombre 7 est un nombre premier.
+растение ; plante ; Растения нуждаются в воде. ; Les plantes ont besoin d'eau.
+остров ; île ; Остров находится в океане. ; L'île est située dans l'océan.
+капля ; goutte ; Была одна капля воды на листе бумаги. ; Il y avait une goutte d'eau sur la feuille de papier.
+конь ; cheval ; Конь бежал по полю. ; Le cheval courait dans le champ.
+ремень ; ceinture ; Он надел ремень. ; Il a mis une ceinture.
+перо ; plume ; У птицы было красивое перо. ; L'oiseau avait une belle plume.

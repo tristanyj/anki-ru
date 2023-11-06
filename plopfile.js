@@ -20,8 +20,8 @@ module.exports = function (plop) {
         templateFile: "templates/source.md",
         data: {
           date: moment().format("YYMMDD"),
-          title: "Google",
-          url: "https://google.com",
+          title: "x",
+          url: "https://x.com",
         },
       },
     ],

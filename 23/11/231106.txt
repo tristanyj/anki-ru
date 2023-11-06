@@ -1,0 +1,22 @@
+шея ; cou ; У неё была длинная шея. ; Elle avait un long cou.
+кожа ; peau ; У него была белая кожа. ; Il avait la peau blanche.
+внутренный ; intérieur ; Он был внутренним министром. ; Il était ministre de l'intérieur.
+прибор ; appareil ; Это был прибор для измерения температуры. ; C'était un appareil pour mesurer la température.
+зеркало ; miroir ; Мой брат был перед зеркалом. ; Mon frère était devant le miroir.
+зонтик ; parapluie ; Вчера был дождь, поэтому я взял зонтик. ; Hier il pleuvait, alors j'ai pris un parapluie.
+луг ; prairie ; Кони бегали по лугу. ; Les chevaux couraient dans la prairie.
+страница ; page ; Это была последняя страница книги. ; C'était la dernière page du livre.
+чемодан ; valise ; Он был слишком ленив, чтобы собрать чемодан. ; Il était trop paresseux pour faire sa valise.
+мука ; farine ; Он был покрыт мукой. ; Il était couvert de farine.
+осталось ; rester <Quantité restante> ; Осталось два дня до Нового года. ; Il reste deux jours avant le Nouvel An.
+великий ; grand ; Он был великим человеком. ; Il était un grand homme.
+дым ; fumée ; Дом был полон дыма. ; La maison était pleine de fumée.
+вор ; voleur ; В Париже много воров. ; Il y a beaucoup de voleurs à Paris.
+отдавать / отдать ; rendre, donner ; Мне нужно отдать книгу в библиотеку. ; Je dois rendre le livre à la bibliothèque.
+кое-что ; quelque chose ; Мне нужно кое-что сказать. ; J'ai quelque chose à dire.
+совершенно ; complètement ; Он был совершенно прав. ; Il avait complètement raison.
+обязательно ; absolument ; Он был обязательно прав. ; Il avait absolument raison.
+доверять / доверить ; faire confiance / confier ; Мне трудно доверять людям, которых я не знаю. ; Il m'est difficile de faire confiance aux gens que je ne connais pas.
+лгать / солгать ; mentir ; Он любит лгать. ; Il aime mentir.
+поручить / доверять ; confier / faire confiance ; Я поручил ему эту задачу. ; Je lui ai confié cette tâche.
+олень ; cerf ; Он был охотником на оленей. ; Il était chasseur de cerfs.
