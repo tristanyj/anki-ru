@@ -25,7 +25,7 @@
 колорит ; couleur locale ; Этот фильм полон колорита. ; Ce film est plein de couleur locale.
 воспронимать / воспринять ; percevoir, comprendre ; Я воспринимаю эту ситуацию как негативную. ; Je perçois cette situation comme négative.
 расследовать дело ; enquêter sur une affaire ; Он расследовал это дело в течение многих лет. ; Il a enquêté sur cette affaire pendant de nombreuses années.
-уснуть / уснуть ; s'endormir ; Я уснул во время этого фильма. ; Je me suis endormi pendant ce film.
+уснуть ; s'endormir ; Я уснул во время этого фильма. ; Je me suis endormi pendant ce film.
 любой ; n'importe quel ; Я любой фильм смотрю с удовольствием. ; Je regarde n'importe quel film avec plaisir.
 пересказать ; raconter, résumer ; Я пересказал ему этот фильм. ; Je lui ai raconté ce film.
 фишка в том что ; le truc c'est que ; Фишка в том, что он не придет. ; Le truc c'est qu'il ne viendra pas.

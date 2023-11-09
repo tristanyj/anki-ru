@@ -8,3 +8,49 @@
 лодка ; bateau ; Моя лодка находится на озере. ; Mon bateau est sur le lac.
 обалдеть ; être étonné <slang> ; Я обалдел, когда увидел, что он сделал. ; J'étais étonné quand j'ai vu ce qu'il a fait.
 чистить / почистить ; nettoyer ; Я каждый день чищу зубы. ; Je me brosse les dents tous les jours.
+гигант ; géant ; Этот гигант очень большой. ; Ce géant est très grand.
+болеть / заболеть ; tomber malade ; Я заболел, я болею ангиной. ; Je suis tombé malade, j'ai une angine.
+успеть ; avoir le temps ; Я успел сделать всё, что хотел. ; J'ai eu le temps de faire tout ce que je voulais.
+спрашивать / спросить ; demander ; Я спросил у него, где он живёт. ; Je lui ai demandé où il habite.
+просить / попросить ; demander ; Я попросил у него, если он может помочь мне. ; Je lui ai demandé s'il peut m'aider.
+прогулка ; promenade ; Я люблю делать прогулки по лесу. ; J'aime faire des promenades dans la forêt.
+видно ; on voit ; Видно, что он очень устал. ; On voit qu'il est très fatigué.
+свежний ; frais ; Я люблю есть свежние фрукты. ; J'aime manger des fruits frais.
+юноша ; jeune homme ; Этот юноша очень красивый. ; Ce jeune homme est très beau.
+гордитсья / гордитьсь ; être fier ; Я горжусь своими детьми. ; Je suis fier de mes enfants.
+ручьёк ; ruisseau ; В лесу течёт маленький ручьёк. ; Un petit ruisseau coule dans la forêt.
+вишня ; cerise ; Я люблю есть вишни. ; J'aime manger des cerises.
+цвет ; couleur ; Я люблю цвет красный. ; J'aime la couleur rouge.
+свет ; lumière ; В комнате нет света. ; Il n'y a pas de lumière dans la pièce.
+не хватает ; il manque ; Не хватает одного человека. ; Il manque une personne.
+левша ; gaucher ; Я левша. ; Je suis gaucher.
+правша ; droitier ; Я правша. ; Je suis droitier.
+коза ; chèvre ; Коза очень любит есть траву. ; La chèvre aime beaucoup manger de l'herbe.
+вообще-то ; en fait ; Вообще-то, я не знаю, что это такое. ; En fait, je ne sais pas ce que c'est.
+довольно ; assez, plutôt ; Фильм был довольно интересный. ; Le film était assez intéressant.
+тем не менее ; néanmoins ; Я не люблю его, тем не менее, он мой друг. ; Je ne l'aime pas, néanmoins, c'est mon ami.
+достаточно ; assez, suffisant <utilisé pour exprimer la suffisance> ; У меня достаточно денег, чтобы купить эту машину. ; J'ai assez d'argent pour acheter cette voiture.
+распорядок ; emploi du temps ; У меня очень занятой распорядок. ; J'ai un emploi du temps très chargé.
+выгуливать / выгулять ; promener ; Я выгуливаю свою собаку каждый день. ; Je promène mon chien tous les jours.
+отправлять / отправить ; envoyer ; Она отправила письмо своему другу. ; Elle a envoyé une lettre à son ami.
+стажировка ; stage ; Я сейчас на стажировке в этой компании. ; Je suis en stage dans cette entreprise.
+возвращаться / вернуться ; revenir, retourner ; Я всегда люблю возвращаться домой после долгого дня. ; J'aime toujours revenir à la maison après une longue journée.
+учитывая ; compte tenu de ; Учитывая, что он не знает французский, он говорит очень хорошо. ; Compte tenu qu'il ne sait pas le français, il parle très bien.
+веселиться / повеселиться ; s'amuser ; Они всю ночь веселились на вечеринке. ; Ils se sont amusés toute la nuit à la fête.
+принимать / принять ; accepter ; Я принял его предложение. ; J'ai accepté son offre.
+ванна ; baignoire ; Я люблю принимать ванну. ; J'aime prendre un bain.
+приглашать / пригласить ; inviter ; Я пригласил своего друга на ужин. ; J'ai invité mon ami pour le dîner.
+приглашение ; invitation ; Я получил приглашение на свадьбу. ; J'ai reçu une invitation pour le mariage.
+участие ; participation ; Я принял участие в этом проекте. ; J'ai participé à ce projet.
+заказ ; commande ; Я сделал заказ в этом ресторане. ; J'ai fait une commande dans ce restaurant.
+извинение ; excuse ; Я извинился перед ним. ; Je me suis excusé devant lui.
+будильник ; réveil ; Мой будильник звонит каждый день в 7 часов утра. ; Mon réveil sonne tous les jours à 7 heures du matin.
+пробка ; bouchon ; В городе была большая пробка. ; Il y avait un gros bouchon dans la ville.
+звонк ; appel ; Я получил звонок от своего друга. ; J'ai reçu un appel de mon ami.
+сразу ; tout de suite ; Я сделаю это сразу. ; Je vais le faire tout de suite. 
+примерно ; environ ; Это займёт примерно 2 часа. ; Ça prendra environ 2 heures.
+социальные сети ; réseaux sociaux ; Я не люблю социальные сети. ; Je n'aime pas les réseaux sociaux.
+двуязычный ; bilingue ; Я хочу выучить французский и стать двуязычным. ; Je veux apprendre le français et devenir bilingue.
+стараться / постараться ; essayer, s'efforcer, faire de son mieux ; Я всегда стараюсь делать всё правильно. ; J'essaie toujours de faire tout correctement. 
+на данный момент ; pour le moment ; На данный момент, я не могу ответить на этот вопрос. ; Pour le moment, je ne peux pas répondre à cette question.
+в настоящее время ; actuellement ; В настоящее время, я работаю в этой компании. ; Actuellement, je travaille dans cette entreprise.
