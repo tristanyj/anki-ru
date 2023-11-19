@@ -1,0 +1,23 @@
+взрослые ; adultes ; Взрослые люди имеют больше ответственности. ; Les adultes ont plus de responsabilités.
+отправляться / отправиться ; partir, se mettre en route ; Я собираюсь отправляться в путешествие завтра. ; Je prévois de partir en voyage demain.
+длится / продлится ; durer ; Это событие длится уже два дня. ; Cet événement dure déjà deux jours.
+скидка ; réduction ; В этом магазине сейчас скидка на все товары. ; Dans ce magasin, il y a actuellement une réduction sur tous les produits.
+продавец ; vendeur ; Этот продавец не очень вежливый. ; Ce vendeur n'est pas très poli.
+заменять / заменить ; remplacer ; Мне нужно заменить эту лампочку. ; J'ai besoin de remplacer cette ampoule.
+реальность ; réalité <anglicisme> ; Это не реальность, это всего лишь сон. ; Ce n'est pas la réalité, c'est juste un rêve.
+действительность ; réalité <version russe> ; Это не действительность, это всего лишь сон. ; Ce n'est pas la réalité, c'est juste un rêve.
+верность ; fidélité ; Я ценю верность в дружбе. ; J'apprécie la fidélité dans l'amitié.
+преданность ; dévouement ; Её преданность делу вызывает уважение. ; Son dévouement à la cause inspire le respect.
+уважение ; respect ; Я уважаю твоё мнение. ; Je respecte ton opinion.
+презрение ; mépris ; Он смотрел на меня с презрением. ; Il me regardait avec mépris.
+презирать / презреть ; mépriser ; Он всегда презирал ложь. ; Il a toujours méprisé le mensonge.
+почтение ; respect profond, accompagné de vénération, considération ; Я имею к нему большое почтение. ; J'ai beaucoup de considération pour lui.
+благоговение ; vénération, respect profond mêlé de crainte respectueuse ou d'admiration ; Он смотрел на неё с благоговением. ; Il la regardait avec vénération.
+удовольствие ; plaisir ; Я получаю удовольствие от чтения книг. ; Je prends plaisir à lire des livres.
+поколение ; génération ; Моё поколение не знает войны. ; Ma génération ne connaît pas la guerre.
+являться / явиться ; être, se manifester ; Я собираюсь являться на вечеринку. ; Je vais me présenter à la fête. 
+собираться / собраться ; se rassembler, se réunir ; Мы собираемся вместе вечером. ; Nous nous réunissons ensemble le soir.
+выдуманный ; inventé ; Это выдуманная история. ; C'est une histoire inventée.
+величайший ; le plus grand ; Это величайший из всех моих достижений. ; C'est le plus grand de tous mes accomplissements.
+молчаливый ; silencieux ; Он был молчаливым и никогда не говорил ничего лишнего. ; Il était silencieux et ne disait jamais rien de superflu.
+в качестве ; en tant que ; Я работаю в качестве учителя. ; Je travaille en tant que professeur.
