@@ -12,18 +12,18 @@ module.exports = function (plop) {
         )}/${moment().format("YYMMDD")}.txt`,
         templateFile: "templates/notes.txt",
       },
-      {
-        type: "add",
-        path: `${moment().format("YY")}/${moment().format(
-          "MM"
-        )}/source/${moment().format("YYMMDD")}.md`,
-        templateFile: "templates/source.md",
-        data: {
-          date: moment().format("YYMMDD"),
-          title: "x",
-          url: "https://x.com",
-        },
-      },
+      // {
+      //   type: "add",
+      //   path: `${moment().format("YY")}/${moment().format(
+      //     "MM"
+      //   )}/source/${moment().format("YYMMDD")}.md`,
+      //   templateFile: "templates/source.md",
+      //   data: {
+      //     date: moment().format("YYMMDD"),
+      //     title: "x",
+      //     url: "https://x.com",
+      //   },
+      // },
     ],
   });
 };

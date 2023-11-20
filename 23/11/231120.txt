@@ -1,0 +1,32 @@
+ведущее ; principal, meneur ; Ведущее предприятие в этой отрасли производит качественную продукцию. ; L'entreprise leader dans ce secteur produit des produits de qualité.
+определение ; définition ; Это определение очень важно для понимания концепции. ; Cette définition est très importante pour comprendre le concept.
+краткий ; bref, concis ; Я дам вам краткое описание проекта. ; Je vais vous donner une brève description du projet.
+наглядный ; visuel ; Это наглядное пособие поможет вам понять, как работает эта машина. ; Ce guide visuel vous aidera à comprendre comment cette machine fonctionne.
+представитель ; représentant ; Я хочу поговорить с представителем вашей компании. ; Je veux parler à un représentant de votre entreprise.
+средний ; moyen ; Средний возраст населения в этой стране составляет 40 лет. ; L'âge moyen de la population dans ce pays est de 40 ans.
+составлять / составить ; composer, constituer ; Эти два элемента составляют 90% всего состава. ; Ces deux éléments constituent 90% de la composition totale.
+потреблять / потребить ; consommer ; Эта страна потребляет больше энергии, чем производит. ; Ce pays consomme plus d'énergie qu'il n'en produit.
+порция ; portion ; Эта порция еды слишком большая для меня. ; Cette portion de nourriture est trop grande pour moi.
+при этом <1> ; en même temps, dans le même temps, <indique deux situations se produisant simultanément> ; Она готовила ужин, при этом разговаривала по телефону. ; Elle préparait le dîner, en même temps qu'elle parlait au téléphone.
+при этом <2> ; à cet égard, toutefois, cependant, <indique un contraste, une concession> ; Этот фильм очень интересный, при этом он довольно сложный для понимания. ; Ce film est très intéressant, cependant il est assez difficile à comprendre.
+при этом <3> ; dans ce cas, dans ce contexte, <indique une situation> ; Если ты устал, при этом лучше отдохнуть немного. ; Si tu es fatigué, dans ce cas il vaut mieux te reposer un peu.
+отсуствие ; absence ; Отсутствие воды в организме может привести к серьезным проблемам. ; L'absence d'eau dans l'organisme peut entraîner de graves problèmes.
+долгосрочный ; à long terme ; Это долгосрочный проект. ; C'est un projet à long terme.
+поток ; flux ; Этот поток информации слишком большой для меня. ; Ce flux d'informations est trop grand pour moi.
+ощущение ; sensation ; Это ощущение очень странное. ; Cette sensation est très étrange.
+менять / поменять ; changer, remplacer ; Я хочу поменять свой старый телефон на новый. ; Je veux remplacer mon vieux téléphone par un nouveau.
+пояснять / пояснить ; expliquer ; Я не понимаю, поясни мне, пожалуйста. ; Je ne comprends pas, explique-moi, s'il te plaît.
+исследовать / исследовать ; explorer, étudier, rechercher ; Мы исследуем этот вопрос уже несколько лет. ; Nous étudions cette question depuis plusieurs années.
+список ; liste ; Это список вещей, которые тебе нужно купить. ; C'est une liste de choses que tu dois acheter.
+смазан ; flou, brouillé ; Эта фотография смазана. ; Cette photo est floue.
+выстраивать / выстроить ; construire, établir, organiser, <élaboration de quelque chose de non-tangible> ; Мы выстраиваем новую стратегию. ; Nous établissons une nouvelle stratégie.
+ругать / наругать ; gronder, réprimander ; Мама ругала меня за плохие оценки. ; Ma mère m'a grondé pour mes mauvaises notes.
+хвалить / похвалить ; louer, féliciter ; Мой босс похвалил меня за хорошую работу. ; Mon patron m'a félicité pour mon bon travail.
+нежность ; tendresse ; Это письмо написано с такой нежностью. ; Cette lettre est écrite avec tant de tendresse.
+признавать / признать ; reconnaître, admettre ; Он не хотел признавать свою ошибку. ; Il ne voulait pas reconnaître son erreur.
+превосходить / превзойти ; surpasser, dépasser ; Этот фильм превзошел все мои ожидания. ; Ce film a dépassé toutes mes attentes.
+ожидание ; attente ; Ожидание этого фильма было очень большим. ; L'attente de ce film était très grande.
+навык ; compétence, habileté ; Это очень важный навык для менеджера. ; C'est une compétence très importante pour un manager.
+испытывать / испытать ; éprouver, ressentir ; Я испытываю сильную боль в спине. ; Je ressens une forte douleur dans le dos.
+общаться / пообщаться ; communiquer ; Мы любим общаться с друзьями. ; Nous aimons communiquer avec des amis.
+на равных ; à égalité ; Мы работаем на равных. ; Nous travaillons à égalité.
