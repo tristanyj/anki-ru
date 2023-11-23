@@ -1,0 +1,51 @@
+жалеть / пожалеть ; regretter, avoir pitié de ; Я не жалею о своем решении. ; Je ne regrette pas ma décision.
+оказывать / оказать ; fournir, offrir, exercer ; Волонтеры оказывают помощь пострадавшим в результате наводнения. ; Les volontaires apportent leur aide aux victimes des inondations.
+показывать / показать ; montrer, indiquer ; Гид показывает туристам достопримечательности города. ; Le guide montre aux touristes les curiosités de la ville.
+давление ; pression ; Давление воздуха в этой комнате низкое. ; La pression de l'air dans cette pièce est basse.
+взваливать / взвалить ; charger, imposer ; Мне взвалили на себя слишком много работы. ; On m'a imposé trop de travail.
+бытовые ; domestique, ménager ; В бытовых целях я использую только натуральные продукты. ; Pour les besoins domestiques, je n'utilise que des produits naturels.
+нарабатывать / наработать ; acquérir, gagner ; Он наработал большой опыт в этой области. ; Il a acquis une grande expérience dans ce domaine.
+очевидно ; évidemment, manifestement ; Очевидно, что он не хочет говорить об этом. ; Manifestement, il ne veut pas en parler.
+взаимодействие ; interaction, coopération ; Взаимодействие между участниками проекта было очень хорошим. ; L'interaction entre les participants au projet était très bonne.
+на связи ; en ligne ; Я не могу сейчас поговорить, я на связи через 10 минут. ; Je ne peux pas parler maintenant, je serai en ligne dans 10 minutes.
+качество ; qualité ; Качество продукции зависит от квалификации работников. ; La qualité des produits dépend de la qualification des travailleurs.
+ценяться / цениться ; être apprécié, être estimé ; Этот специалист очень ценится в нашей компании. ; Ce spécialiste est très apprécié dans notre entreprise.
+черта ; trait ; Это хорошая черта его характера. ; C'est une bonne qualité de son caractère.
+уверенность ; confiance ; Уверенность в себе - это важное качество лидера. ; La confiance en soi est une qualité importante d'un leader.
+вопреки ; contrairement à, malgré ; Вопреки прогнозам, погода была хорошая. ; Contrairement aux prévisions, le temps était beau.
+самовосприятие ; perception de soi ; Самовосприятие человека зависит от его окружения. ; La perception de soi d'une personne dépend de son environnement.
+зависит от ; dépend de ; Все зависит от того, как вы себя ведете. ; Tout dépend de la façon dont vous vous comportez.
+следовательно ; donc, par conséquent ; Он не пришел на работу, следовательно, он болен. ; Il n'est pas venu au travail, donc il est malade.
+следование ; suivi ; Следование инструкциям поможет вам выполнить работу. ; Le suivi des instructions vous aidera à faire le travail.
+выраженный ; prononcé, exprimé ; У него выраженный акцент. ; Il a un accent prononcé.
+замечать / заметить ; remarquer ; Я заметил, что он не в хорошем настроении. ; J'ai remarqué qu'il n'était pas de bonne humeur.
+объединять / объединить ; unir, combiner ; Эти две компании объединились в одну. ; Ces deux entreprises ont fusionné en une seule.
+разграничение ; distinction ; Разграничение между этими двумя понятиями не всегда очевидно. ; La distinction entre ces deux concepts n'est pas toujours évidente.
+сообщение ; message ; Я получил сообщение от своего начальника. ; J'ai reçu un message de mon patron.
+сотрудник ; employé, collaborateur ; Сотрудники компании получают премию за хорошую работу. ; Les employés de l'entreprise reçoivent une prime pour leur bon travail.
+в честь поддержки ; en soutien ; Я пришел на митинг в честь поддержки своего друга. ; Je suis venu à la manifestation en soutien à mon ami.
+вывод ; conclusion ; Я сделал вывод, что он не хочет работать. ; J'ai conclu qu'il ne voulait pas travailler.
+движение ; mouvement ; Движение на дороге было очень интенсивным. ; Le trafic sur la route était très intense.
+постепенно ; progressivement ; Он постепенно улучшал свои навыки. ; Il a progressivement amélioré ses compétences.
+повреждаться / повредиться ; se blesser, se détériorer ; Мне удалось повредиться, когда я упал с лестницы. ; J'ai réussi à me blesser quand je suis tombé de l'escalier.
+с одной стороны ; d'une part ; С одной стороны, он хочет работать, а с другой - отдыхать. ; D'une part, il veut travailler, d'autre part, il veut se reposer.
+с другой стороны ; d'autre part ; С одной стороны, он хочет работать, а с другой - отдыхать. ; D'une part, il veut travailler, d'autre part, il veut se reposer.
+как задумоно ; comme prévu ; Все прошло как задумано. ; Tout s'est passé comme prévu.
+многочисленные ; nombreux ; Многочисленные проблемы мешают нам работать. ; De nombreux problèmes nous empêchent de travailler.
+внезапно ; soudainement ; Внезапно он понял, что сделал ошибку. ; Soudain, il a réalisé qu'il avait fait une erreur.
+стремительно ; rapidement ; Он стремительно улучшал свои навыки. ; Il a rapidement amélioré ses compétences.
+бунт ; rébellion ; Бунт был подавлен полицией. ; La rébellion a été réprimée par la police.
+свойственный ; inhérent ; Это свойственно всем людям. ; C'est inhérent à tous les gens.
+сопротивление ; résistance ; Сопротивление воздуха влияет на скорость движения. ; La résistance de l'air affecte la vitesse de déplacement.
+разрушение ; destruction ; Разрушение здания произошло из-за пожара. ; La destruction du bâtiment a eu lieu à cause de l'incendie.
+стремяться / стремиться ; aspirer, s'efforcer ; Он всегда стремился к успеху. ; Il a toujours aspiré au succès.
+спокойствие ; calme ; Он всегда сохраняет спокойствие в любой ситуации. ; Il garde toujours son calme dans toutes les situations.
+следовать / следить ; suivre, surveiller ; Вы должны следовать инструкциям. ; Vous devez suivre les instructions.
+поступать / поступить ; agir, se comporter ; Он поступил правильно. ; Il a agi correctement.
+в известность ; au courant ; Я не был в известность о его проблемах. ; Je n'étais pas au courant de ses problèmes.
+установка ; installation ; Установка программного обеспечения заняла несколько часов. ; L'installation du logiciel a pris plusieurs heures.
+поиск ; recherche ; Поиск информации в Интернете очень прост. ; La recherche d'informations sur Internet est très simple.
+ценность ; valeur ; Этот предмет имеет большую ценность. ; Cet objet a une grande valeur.
+запрос ; demande ; Мы получили запрос на информацию от наших клиентов. ; Nous avons reçu une demande d'informations de nos clients.
+означать / обозначить ; signifier, désigner ; Это слово означает "любовь". ; Ce mot signifie "amour".
+неверный ; incorrect ; Это неверный ответ. ; C'est une mauvaise réponse.

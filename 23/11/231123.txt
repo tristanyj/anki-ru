@@ -1,0 +1,24 @@
+признак ; signe, caractéristique, symptôme ; Это признак доброты. ; C'est un signe de gentillesse.
+заявлять / заявить ; déclarer, annoncer ; Я хочу заявить о своих намерениях. ; Je veux annoncer mes intentions.
+состаятельность ; solvabilité ; Состоятельность клиента проверяется банком. ; La solvabilité du client est vérifiée par la banque.
+являться / явиться ; être, apparaître, se manifester ; Он является экспертом в этой области. ; Il est un expert dans ce domaine.
+разочаровать / разочаровывать ; décevoir ; Он не хотел разочаровывать своих родителей. ; Il ne voulait pas décevoir ses parents.
+присутствовать страх ; avoir peur ; Он присутствовал страх перед экзаменом. ; Il avait peur de l'examen.
+необратимость ; irréversibilité ; Необратимость процесса была очевидна. ; L'irréversibilité du processus était évidente.
+затруднение ; difficulté ; Он испытывал затруднение в общении. ; Il avait des difficultés à communiquer.
+так как ; parce que, car, <exprime une raison ou un motif> ; Он не пришел, так как был занят. ; Il n'est pas venu parce qu'il était occupé.
+упрёк ; reproche ; Он не выдержал упрёков. ; Il ne supportait pas les reproches.
+держать / держать ; tenir, garder ; Мама всегда говорила мне держать руки чистыми. ; Maman me disait toujours de garder les mains propres. 
+служить / послужить ; servir ; Это может послужить причиной конфликта. ; Cela peut servir de cause de conflit.
+однообразие ; monotonie, uniformité ; Это однообразие быстро становится утомительным. ; Cette monotonie devient rapidement fatigante.
+нынешний ; actuel, présent ; Нынешний президент не будет баллотироваться на следующих выборах. ; Le président actuel ne se présentera pas aux prochaines élections.
+переживание ; expérience ; Это было очень важным переживанием для него. ; C'était une expérience très importante pour lui.
+впечатление ; impression ; Он произвел на меня хорошее впечатление. ; Il m'a fait une bonne impression.
+пиздеть / пиздануть ; raconter des bobards, dire des conneries, <très vulgaire, slang pour exprimer une surprise ou un choc> ; Он всю ночь пиздел без умолку. ; Il a raconté des bobards toute la nuit sans arrêt.
+иди нахуй ; Va te faire foutre ; Ты можешь идти нахуй. ; Tu peux aller te faire foutre.
+пиздец ; la catastrophe, point extrême de quelque chose <langage familier, vulgaire> ; Всё превратилось в пиздец. ; Tout s'est transformé en catastrophe.
+пугать / напугать ; effrayer ; Он напугал меня. ; Il m'a effrayé.
+одиночество ; solitude ; Он испытывал одиночество. ; Il se sentait seul.
+несоответствие ; inadéquation ; Несоответствие между словами и поступками было очевидно. ; L'inadéquation entre les mots et les actes était évidente.
+поскольку ; puisque, <plus formel, introduit une cause> ; Поскольку он был уставшим, он решил отдохнуть. ; Puisqu'il était fatigué, il a décidé de se reposer.
+непоятность ; incompréhension ; Непоятность была очевидна. ; L'incompréhension était évidente.
