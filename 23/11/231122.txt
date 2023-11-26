@@ -13,3 +13,4 @@
 жажда ; soif ; Я хочу пить. У меня жажда. ; J'ai soif.
 признание ; reconnaissance ; Он получил признание за свою работу. ; Il a reçu une reconnaissance pour son travail.
 похвала ; louange ; Он получил похвалу за свою работу. ; Il a reçu une louange pour son travail.
+в ходе ; au cours de ; Я встретил его в ходе моей поездки. ; Je l'ai rencontré au cours de mon voyage.

@@ -43,7 +43,7 @@
 следовать / следить ; suivre, surveiller ; Вы должны следовать инструкциям. ; Vous devez suivre les instructions.
 поступать / поступить ; agir, se comporter ; Он поступил правильно. ; Il a agi correctement.
 в известность ; au courant ; Я не был в известность о его проблемах. ; Je n'étais pas au courant de ses problèmes.
-установка ; installation ; Установка программного обеспечения заняла несколько часов. ; L'installation du logiciel a pris plusieurs heures.
+установка ; installation, disposition, attitude ; Установка программного обеспечения заняла несколько часов. ; L'installation du logiciel a pris plusieurs heures.
 поиск ; recherche ; Поиск информации в Интернете очень прост. ; La recherche d'informations sur Internet est très simple.
 ценность ; valeur ; Этот предмет имеет большую ценность. ; Cet objet a une grande valeur.
 запрос ; demande ; Мы получили запрос на информацию от наших клиентов. ; Nous avons reçu une demande d'informations de nos clients.
