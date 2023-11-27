@@ -1,0 +1,37 @@
+неожиданно ; soudainement, inopinément ; Всё произошло неожиданно. ; Tout s'est produit soudainement.
+естественно ; naturellement, bien sûr ; Естественно, я не согласен. ; Naturellement, je ne suis pas d'accord.
+связано ; lié, connecté, associé ; Это напрямую связано с его работой. ; Cela est directement lié à son travail.
+личный ; personnel ; Это моё личное дело. ; C'est mon affaire personnelle.
+подпитка ; soutien, aide, assistance ; Он получил подпитку от своих друзей. ; Il a reçu le soutien de ses amis.
+толпа ; foule ; Толпа собралась на площади. ; La foule s'est rassemblée sur la place.
+спешить ; se dépêcher ; Каждый день я спешу на работу. ; Chaque jour, je me dépêche au travail.
+заставлять / заставить ; forcer, obliger ; Никто не заставлял меня это делать. ; Personne ne m'a forcé à le faire.
+везде ; partout ; Он везде ищет свои очки. ; Il cherche ses lunettes partout.
+выступление ; discours, performance ; Его выступление было очень впечатляющим. ; Son discours était très impressionnant.
+всё-таки ; quand même, tout de même, malgré tout ; Всё-таки, я решил поехать на вечеринку. ; Malgré tout, j'ai décidé d'aller à la fête.
+уютный ; confortable, douillet ; У нас очень уютная квартира. ; Nous avons un appartement très confortable.
+народ ; peuple, nation ; Народ не хочет войны. ; Le peuple ne veut pas de guerre.
+зачастую ; souvent, fréquemment ; Зачастую он приходит домой поздно. ; Il rentre souvent tard à la maison.
+посещать / посетить ; visiter ; Я люблю посещать музеи в свободное время. ; J'aime visiter les musées pendant mon temps libre.
+буквально ; littéralement ; Он буквально умер от страха. ; Il est littéralement mort de peur.
+час пик ; heure de pointe ; В час пик в метро очень тесно. ; Le métro est très bondé à l'heure de pointe.
+загрязнение ; pollution ; Загрязнение воздуха в городе очень высокое. ; La pollution de l'air dans la ville est très élevée.
+язва ; ulcère ; У него язва желудка. ; Il a un ulcère à l'estomac.
+творческий ; créatif ; Он очень творческий человек. ; Il est très créatif.
+чинить / починить ; réparer ; Мастер починил мой компьютер. ; Le maître a réparé mon ordinateur.
+напоминать / напомнить ; rappeler ; Он напомнил мне о встрече. ; Il m'a rappelé la réunion.
+не хватать / не хватить ; manquer ; Мне не хватает денег. ; Je n'ai pas assez d'argent.
+ограничение ; restriction, limitation ; Все ограничения были сняты. ; Toutes les restrictions ont été levées.
+остальное ; reste, le reste ; Остальное время я буду работать. ; Je travaillerai le reste du temps.
+пропадать / пропасть ; disparaître ; Он пропал без вести несколько дней назад. ; Il a disparu sans laisser de trace il y a quelques jours.
+попадать / попасть ; tomber, atterrir ; Он часто попадает в неприятные ситуации. ; Il se retrouve souvent dans des situations désagréables.
+столпотворение ; tumulte, confusion ; Во время столпотворения, я потерял свой кошелек. ; Pendant la confusion, j'ai perdu mon portefeuille.
+мговение ; instant, moment ; Я помню чудное мговение. ; Je me souviens de ce moment merveilleux.
+в это время ; à ce moment-là ; В это время я был в отпуске. ; À ce moment-là, j'étais en vacances.
+случайно ; par hasard ; Я случайно встретил его на улице. ; Je l'ai rencontré par hasard dans la rue.
+восхищаться / восхититься ; admirer ; Я восхищаюсь его работой. ; J'admire son travail.
+глядя ; en regardant ; Глядя на него, я понял, что он врёт. ; En le regardant, j'ai compris qu'il mentait.
+задуматься / задумываться ; se demander, réfléchir ; Он задумался о своем будущем. ; Il a réfléchi à son avenir.
+связи ; relations, liens ; У меня есть связи в этой компании. ; J'ai des relations dans cette entreprise.
+всё равно ; quand même, de toute façon ; Я всё равно не пойду. ; Je n'irai pas quand même.
+чудо ; miracle ; Это чудо. ; C'est un miracle.

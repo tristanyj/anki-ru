@@ -21,7 +21,6 @@
 рядовой ; ordinaire ; Это был рядовой день. ; C'était un jour ordinaire.
 приказание ; ordre ; Я не могу выполнить это приказание. ; Je ne peux pas exécuter cet ordre.
 прибыль ; profit ; Мой бизнес приносит мне прибыль. ; Mon entreprise me rapporte des bénéfices.
-выступление ; performance ; Его выступление было великолепным. ; Sa performance était magnifique.
 солянка ; soupe ; Самая популярная солянка в России — это рыбная солянка. ; La soupe la plus populaire en Russie est la soupe de poisson.
 хозяин ; propriétaire ; Я хочу стать хозяином своего собственного ресторана. ; Je veux devenir propriétaire de mon propre restaurant.
 холоп ; esclave ; Я не хочу быть холопом. ; Je ne veux pas être un esclave.
