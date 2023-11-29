@@ -1,0 +1,56 @@
+заодно ; en même temps, simultanément ; Мы можем пойти в магазин и заодно купить хлеб. ; Nous pouvons aller au magasin et en même temps acheter du pain.
+колодец ; puits ; Вода в колодце была чистой. ; L'eau dans le puits était propre.
+крыша ; toit ; У нас есть красивая крыша. ; Nous avons un beau toit.
+нужный ; nécessaire ; Это очень нужная вещь. ; C'est une chose très nécessaire.
+основательно ; à fond ; Я основательно изучил этот вопрос. ; J'ai étudié cette question à fond.
+другое дело ; autre chose ; Другое дело, если бы он был здесь. ; C'est autre chose s'il était ici.
+присутствие ; présence ; Его присутствие здесь было необходимо. ; Sa présence ici était nécessaire.
+пустой ; vide ; Эта комната пуста. ; Cette pièce est vide.
+голосовать / проголосовать ; voter ; Я собираюсь проголосовать на следующих выборах. ; Je vais voter aux prochaines élections.
+оставаться / остаться ; rester ; Она решила остаться дома. ; Elle a décidé de rester à la maison.
+уместно ; approprié ; Это было бы уместно сделать в такой ситуации. ; Ce serait approprié à faire dans une telle situation. 
+ведь ; car, donc, après tout ; Ведь ты обещал помочь мне. ; Après tout, tu as promis de m'aider.
+пожалуй ; peut-être ; Пожалуй, я пойду домой. ; Peut-être que je vais rentrer à la maison.
+как бы ; comme si ; Он говорил, как бы ничего не произошло. ; Il parlait comme si rien ne s'était passé.
+что-то вроде ; quelque chose comme ; Это что-то вроде книги. ; C'est quelque chose comme un livre.
+в плане ; en termes de ; В плане дизайна, это очень хорошо. ; En termes de design, c'est très bien.
+мнение ; opinion ; Я хочу выразить свое мнение. ; Je veux exprimer mon opinion.
+короче говоря ; en bref ; Короче говоря, я не хочу говорить об этом. ; En bref, je ne veux pas en parler.
+груша ; poire ; Я хочу купить грушу. ; Je veux acheter une poire.
+общение ; communication ; Я хочу улучшить свои навыки общения. ; Je veux améliorer mes compétences en communication.
+пустыня ; désert ; В пустыне трудно найти воду. ; Il est difficile de trouver de l'eau dans le désert.
+тесто ; pâte ; Я хочу сделать пиццу с тонким тестом. ; Je veux faire une pizza avec une pâte mince.
+добавлять / добавить ; ajouter ; Я хочу добавить немного соли. ; Je veux ajouter un peu de sel.
+охота ; chasse ; Я хочу пойти на охоту. ; Je veux aller à la chasse.
+записывать / записать ; noter, enregistrer ; Я хочу записать эту информацию. ; Je veux noter cette information.
+подвал ; sous-sol ; Я хочу построить подвал. ; Je veux construire un sous-sol.
+беспокоиться / беспокоить ; se soucier, inquiéter ; Тебе не нужно беспокоиться об этом. ; Tu n'as pas besoin de te soucier de cela.
+весь в ; plein de ; Он был весь в крови. ; Il était plein de sang.
+толк ; sens ; Я не понимаю толк в этом. ; Je ne comprends pas le sens de cela.
+ковёр ; tapis ; Я хочу купить новый ковёр. ; Je veux acheter un nouveau tapis.
+воробей ; moineau ; Воробьи очень милые птицы. ; Les moineaux sont des oiseaux très mignons.
+голод ; faim ; Во время войны, голод был основной проблемой. ; Pendant la guerre, la faim était le problème principal.
+древний ; ancien ; Этот древний город был основан более тысячи лет назад. ; Cette ancienne ville a été fondée il y a plus de mille ans.
+кольцо ; anneau, bague ; У меня есть красивое золотое кольцо. ; J'ai une belle bague en or.
+парус ; voile ; В парусах был сильный ветер. ; Il y avait un vent fort dans les voiles.
+печаль ; tristesse ; Я чувствую глубокую печаль. ; Je ressens une profonde tristesse.
+прощать / простить ; pardonner ; Мама всегда говорит, что нужно уметь прощать. ; Maman dit toujours qu'il faut savoir pardonner.
+отчаянный ; désespéré ; Он был отчаянный, потому что потерял свою работу. ; Il était désespéré parce qu'il avait perdu son travail.
+дворец ; palais ; Этот дворец был построен в 18 веке. ; Ce palais a été construit au 18 ème siècle.
+щерсть ; laine ; Эта шерсть очень мягкая. ; Cette laine est très douce.
+вовремя ; à temps ; Я пришел вовремя. ; Je suis arrivé à temps.
+авария ; accident ; Вчера на дороге произошла серьезная авария. ; Hier, un grave accident s'est produit sur la route.
+позволять / позволить ; permettre ; Мне не позволили войти в здание. ; Je n'ai pas été autorisé à entrer dans le bâtiment.
+расчесать / расчесывать ; peigner ; Я хочу расчесать свои волосы. ; Je veux me peigner les cheveux.
+одеватсья / одеться ; s'habiller ; Ты должен одеться теплее. ; Tu dois t'habiller plus chaudement.
+раздеваться / раздеться ; se déshabiller ; Я хочу раздеться и принять душ. ; Je veux me déshabiller et prendre une douche.
+мыться / помыться ; se laver ; В течение дня я моюсь два раза. ; Pendant la journée, je me lave deux fois.
+умываться / умыться ; se laver le visage ; Я всегда умываюсь перед сном. ; Je me lave toujours le visage avant de me coucher.
+бриться / побриться ; se raser ; Я бреюсь каждый день. ; Je me rase tous les jours.
+краситься / покраситься ; se maquiller ; Когда я выхожу из дома, я всегда крашусь. ; Quand je sors de la maison, je me maquille toujours.
+расчёсываться / расчесаться ; se peigner ; Я расчёсываюсь каждое утро, когда просыпаюсь. ; Je me peigne chaque matin quand je me réveille.
+мыло ; savon ; В этом мыле есть антибактериальные свойства. ; Ce savon a des propriétés antibactériennes.
+помада ; rouge à lèvres ; Я никогда не ношу помаду. ; Je ne porte jamais de rouge à lèvres.
+бодрый ; vif ; Он был очень бодрый и энергичный. ; Il était très vif et énergique.
+вести / провести ; passer, mener, conduire ; Мы провели весь день на пляже. ; Nous avons passé toute la journée à la plage. ; passer ; Я провёл весь день в постели. ; J'ai passé toute la journée au lit.
+повторение ; répétition ; Повторение - мать учения. ; La répétition est la mère de l'apprentissage.
