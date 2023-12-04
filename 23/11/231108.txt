@@ -10,7 +10,7 @@
 чистить / почистить ; nettoyer ; Я каждый день чищу зубы. ; Je me brosse les dents tous les jours.
 гигант ; géant ; Этот гигант очень большой. ; Ce géant est très grand.
 болеть / заболеть ; tomber malade ; Я заболел, я болею ангиной. ; Je suis tombé malade, j'ai une angine.
-успеть ; avoir le temps ; Я успел сделать всё, что хотел. ; J'ai eu le temps de faire tout ce que je voulais.
+успевать / успеть ; avoir le temps ; Я успел сделать всё, что хотел. ; J'ai eu le temps de faire tout ce que je voulais.
 спрашивать / спросить ; demander ; Я спросил у него, где он живёт. ; Je lui ai demandé où il habite.
 просить / попросить ; demander ; Я попросил у него, если он может помочь мне. ; Je lui ai demandé s'il peut m'aider.
 прогулка ; promenade ; Я люблю делать прогулки по лесу. ; J'aime faire des promenades dans la forêt.
