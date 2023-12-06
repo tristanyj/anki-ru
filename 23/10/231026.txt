@@ -55,7 +55,6 @@
 восточный ; oriental ; Это восточный город. ; C'est une ville orientale.
 затянутый ; long, traîné ; Это затянутый фильм. ; C'est un film long.
 поворот ; tournant, virage ; Это поворот в сюжете. ; C'est un tournant dans l'intrigue.
-появятся ; apparaître, se montrer ; Этот персонаж появится во второй части. ; Ce personnage apparaîtra dans la deuxième partie.
 удивлять / удивить ; surprendre, étonner; Это удивляет меня. ; Ça m'étonne.
 зарубежный ; étranger ; Это зарубежный фильм. ; C'est un film étranger.
 тюрьма ; prison ; Он сидел в тюрьме 10 лет. ; Il a passé 10 ans en prison.
