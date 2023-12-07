@@ -1,0 +1,29 @@
+пиджак ; veste ; Я надел пиджак, чтобы не замёрзнуть. ; J'ai mis une veste pour ne pas avoir froid.
+угадывать / угадать ; deviner, deviner ; Он всегда угадывает мои мысли. ; Il devine toujours mes pensées.
+обеспечивать / обеспечить ; assurer, garantir ; Мы обеспечиваем нашим клиентам высокое качество продукции. ; Nous assurons à nos clients une haute qualité de nos produits.
+заранее ; à l'avance ; Я заранее знал, что он не придёт. ; Je savais à l'avance qu'il ne viendrait pas.
+общительный ; sociable ; Он очень общительный человек. ; Il est très sociable.
+под конец ; à la fin ; Под конец вечера мы уже были очень усталы. ; À la fin de la soirée, nous étions déjà très fatigués.
+стесняться / стесниться ; être gêné, être timide ; Мне не стоит стесняться выражать свои чувства. ; Je ne devrais pas être gêné d'exprimer mes sentiments.
+наравне ; à égalité ; Они работают наравне с другими. ; Ils travaillent à égalité avec les autres.
+деятельность ; activité ; Он занимается общественной деятельностью. ; Il s'occupe d'activités sociales.
+сторона ; côté ; С какой стороны ты подошёл к этому вопросу? ; De quel côté as-tu abordé cette question ?
+прямо ; directement ; Он сказал мне прямо, что не хочет больше видеть меня. ; Il m'a dit directement qu'il ne voulait plus me voir.
+дико ; sauvagement ; Он дико ревновал её. ; Il était sauvagement jaloux d'elle.
+иначе ; autrement ; Я не могу сделать это иначе. ; Je ne peux pas faire autrement.
+соответственно ; en conséquence ; Он не пришёл на работу, и, соответственно, его уволили. ; Il n'est pas venu au travail et, en conséquence, il a été licencié.
+соответствовать / соответствовать ; correspondre ; Это не соответствует действительности. ; Cela ne correspond pas à la réalité.
+искренне ; sincèrement ; Я искренне надеюсь, что ты сможешь помочь мне. ; Je te prie sincèrement de m'aider.
+тщательно ; soigneusement ; Он тщательно проверил свою работу. ; Il a soigneusement vérifié son travail.
+поклонник ; admirateur ; Он был поклонником её таланта. ; Il était un admirateur de son talent.
+подписчики ; abonnés ; У меня много подписчиков в социальных сетях. ; J'ai beaucoup d'abonnés sur les réseaux sociaux.
+обряд ; cérémonie, rite ; Обряд свадьбы - это важная часть праздника. ; La cérémonie de mariage est une partie importante de la fête.
+добиваться / добиться ; atteindre, obtenir ; Я всегда добиваюсь своих целей. ; J'atteins toujours mes objectifs.
+преодоление ; surmontement, dépassement ; Преодоление препятствий - это ключ к успеху. ; Le surmontement des obstacles est la clé du succès.
+приносить / принести ; apporter ; Он приносит мне цветы каждый день. ; Il m'apporte des fleurs tous les jours.
+уважаемый ; respecté ; Он был уважаемым человеком. ; Il était un homme respecté.
+очаровательный ; charmant ; Она была очаровательной женщиной. ; Elle était une femme charmante.
+очаровывать / очаровать ; charmer, séduire ; Он смог очаровать её своими манерами. ; Il a réussi à la charmer avec ses manières.
+опускать / опустить ; baisser ; Он опустил голову и заснул. ; Il a baissé la tête et s'est endormi.
+обращать внимание ; faire attention, prêter attention ; Я обращаю внимание на своё здоровье. ; Je fais attention à ma santé.
+творить / растворить ; créer, inventer <dans le sens de créer une œuvre d'art ou produire quelque chose d’unique et de distinctif> ; Он творит чудеса. ; Il crée des miracles.

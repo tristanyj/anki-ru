@@ -1,0 +1,30 @@
+воздух ; air ; Воздух был наполнен ароматом цветов. ; L'air était rempli de l'odeur des fleurs.
+пичаль ; tristesse ; Эта песня наполнена пичалью. ; Cette chanson est remplie de tristesse.
+жестокость ; cruauté ; Жестокость этого мира порой невыносима. ; La cruauté de ce monde est parfois insupportable.
+порой ; parfois ; Порой мне нравится читать книги. ; Parfois, j'aime lire des livres.
+отпускать / отпустить ; laisser partir, libérer ; Мама не хотела отпускать меня одного в лагерь. ; Maman ne voulait pas me laisser partir seul au camp.
+прыгать / прыгнуть ; sauter, faire un saut ; Мальчик любит прыгать на батуте. ; Le garçon aime sauter sur le trampoline.
+справляться / справиться ; se débrouiller, faire face ; Я не смогу справиться с этой задачей. ; Je ne pourrai pas faire face à cette tâche.
+зритель ; spectateur ; Зрители аплодировали актерам. ; Les spectateurs applaudissaient les acteurs.
+дрожать / дрогнуть ; trembler ; Мальчик начал дрожать от холода. ; Le garçon a commencé à trembler de froid.
+всё сразу ; tout à la fois ; Я не могу делать всё сразу. ; Je ne peux pas tout faire à la fois.
+мучение ; torture ; Его мучение продолжалось вечность. ; Sa torture a duré une éternité.
+вечность ; éternité ; Вечность - это концепция, которая превышает понимание человека. ; L'éternité est un concept qui dépasse la compréhension humaine.
+неудачно ; maladroitement ; Он неудачно попытался сделать комплимент. ; Il a maladroitement essayé de faire un compliment.
+восстанавливать / восстановить ; rétablir, restaurer ; Мы должны восстановить этот старый дом. ; Nous devons restaurer cette vieille maison.
+иносказательно ; allusivement ; Он говорил иносказательно, но я понял, что он имел в виду. ; Il parlait allusivement, mais j'ai compris ce qu'il voulait dire.
+иметь в виду ; avoir en vue, avoir à l'esprit ; Я имел в виду другую вещь. ; J'avais une autre chose à l'esprit.
+перелом ; fracture ; У меня перелом руки. ; J'ai une fracture au bras.
+пару раз ; quelques fois ; Я был в этом магазине пару раз. ; J'ai été dans ce magasin quelques fois.
+гипс ; plâtre ; Мне надо носить гипс. ; Je dois porter un plâtre.
+водичка ; eau ; Я хочу пить водичку. ; Je veux boire de l'eau.
+приземление ; atterrissage ; Приземление самолёта прошло успешно. ; L'atterrissage de l'avion s'est bien passé.
+рассматривать / рассмотреть ; examiner, considérer ; Мы рассмотрели этот вопрос. ; Nous avons examiné cette question.
+ответственность ; responsabilité ; Ответственность лежит на его плечах. ; La responsabilité repose sur ses épaules.
+рассеянный ; distrait ; Он был рассеянный и не мог сосредоточиться. ; Il était distrait et ne pouvait pas se concentrer.
+расписание ; horaire ; Я не знаю расписание автобусов. ; Je ne connais pas l'horaire des bus.
+по-любому ; de toute façon ; По-любому, я не смогу прийти. ; De toute façon, je ne pourrai pas venir.
+копиться / накопиться ; s'accumuler ; В моей комнате накопилось много вещей. ; Dans ma chambre, beaucoup de choses se sont accumulées.
+черед ; série, tour, alternance ; Черед обязанностей был очень долгим. ; La série de devoirs était très longue.
+фартук ; tablier ; Я надел фартук, чтобы не испачкать одежду. ; J'ai mis un tablier pour ne pas salir mes vêtements.
+поправляться / поправиться ; se rétablir ; Я поправляюсь после болезни. ; Je me rétablis après la maladie.
