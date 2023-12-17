@@ -1,0 +1,28 @@
+вредный ; nuisible, méchant ; Этот вредный кот всегда царапает мою мебель. ; Ce méchant chat gratte toujours mes meubles.
+удаваться, удаться ; réussir ; Мне не удалось сделать это вовремя. ; Je n'ai pas réussi à faire ça à temps.
+приходиться / прийтись ; devoir, falloir, s'avérer <utilisé pour exprimer l'obligation, la nécessité ou l'éventualité> ; Мне приходится каждый день учиться ; Je dois étudier tous les jours.
+худеть / похудеть ; maigrir ; Я худею, потому что я хочу быть красивой. ; Je maigris parce que je veux être belle.
+больше всего ; le plus ; Мне больше всего нравится читать книги. ; Ce que j'aime le plus, c'est lire des livres.
+удивительный ; étonnant, surprenant ; Этот вид из окна просто удивительный. ; Cette vue depuis la fenêtre est tout simplement étonnante.
+правдивый ; véridique, vrai ; Это правдивая история. ; C'est une histoire vraie.
+хищный ; prédateur ; Я не люблю хищных животных. ; Je n'aime pas les animaux prédateurs.
+глотать / проглотить ; avaler, déglutir ; Я не могу глотать эту еду. ; Je ne peux pas avaler cette nourriture.
+заглатывать / заглотить ; avaler ; Я не могу заглотить эту еду. ; Je ne peux pas avaler cette nourriture.
+зверь ; bête, animal ; Зверь прячется в лесу. ; La bête se cache dans la forêt.
+жертва ; victime ; Он стал жертвой обстоятельств. ; Il est devenu victime des circonstances.
+пища ; nourriture, aliment ; Это пища для моей собаки. ; C'est de la nourriture pour mon chien.
+переваривать / переварить ; digérer ; Я не могу переварить эту еду. ; Je ne peux pas digérer cette nourriture.
+разве ; est-ce que, n'est-ce pas ; Разве это не очевидно? ; N'est-ce pas évident ?
+потерпев ; ayant subi ; Потерпев поражение, он ушёл. ; Ayant subi une défaite, il est parti.
+вера ; foi ; Он потерял веру в человечество. ; Il a perdu la foi en l'humanité.
+утомительный ; épuisant ; Этот рабочий день был утомительным. ; Cette journée de travail a été épuisante.
+чуть ли не ; presque, à peu près, failli ; Я чуть ли не опоздал на поезд. ; J'ai failli rater le train.
+пригождаться / пригодиться ; être utile, servir ; Мой нож пригодился мне, чтобы открыть письмо. ; Mon couteau m'a été utile pour ouvrir la lettre.
+отличаться / отличиться ; différer, se distinguer ; Эти два предложения отличаются друг от друга. ; Ces deux phrases diffèrent l'une de l'autre.
+казаться / показаться ; sembler, paraître ; Мне кажется, что он прав. ; Il me semble qu'il a raison.
+разумный ; raisonnable ; Он сделал разумный выбор. ; Il a fait un choix raisonnable.
+сохранять / сохранить ; conserver, garder ; Я хочу сохранить эту память. ; Je veux conserver ce souvenir.
+применять / применить ; appliquer, utiliser ; Я хочу применить этот метод. ; Je veux appliquer cette méthode.
+посадка ; atterrissage ; Посадка самолёта была очень гладкой. ; L'atterrissage de l'avion a été très doux.
+вынужденный ; contraint, forcé ; Я был вынужденный принять это решение. ; J'ai été contraint de prendre cette décision.
+всякий ; chaque, tout ; Всякий раз, когда она видит кота, она улыбается. ; Chaque fois qu'elle voit un chat, elle sourit.

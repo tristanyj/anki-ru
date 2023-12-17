@@ -9,7 +9,7 @@
 голосовать / проголосовать ; voter ; Я собираюсь проголосовать на следующих выборах. ; Je vais voter aux prochaines élections.
 оставаться / остаться ; rester ; Она решила остаться дома. ; Elle a décidé de rester à la maison.
 уместно ; approprié ; Это было бы уместно сделать в такой ситуации. ; Ce serait approprié à faire dans une telle situation. 
-ведь ; car, donc, après tout ; Ведь ты обещал помочь мне. ; Après tout, tu as promis de m'aider.
+ведь ; car, donc, mais, après tout ; Ведь ты обещал помочь мне. ; Après tout, tu as promis de m'aider.
 пожалуй ; peut-être ; Пожалуй, я пойду домой. ; Peut-être que je vais rentrer à la maison.
 как бы ; comme si ; Он говорил, как бы ничего не произошло. ; Il parlait comme si rien ne s'était passé.
 что-то вроде ; quelque chose comme ; Это что-то вроде книги. ; C'est quelque chose comme un livre.

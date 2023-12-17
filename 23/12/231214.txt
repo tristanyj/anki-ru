@@ -8,3 +8,13 @@
 приключение ; aventure ; Я люблю читать книги о приключениях. ; J'aime lire des livres d'aventure.
 высокомерный ; arrogant, hautain ; Он высокомерный и не любит людей. ; Il est arrogant et n'aime pas les gens.
 швырять / швырнуть ; lancer, jeter ; Он швырнул камень в сторону. ; Il a lancé une pierre sur le côté.
+уборка ; nettoyage ; Уборка квартиры заняла всю субботу. ; Le nettoyage de l'appartement a pris tout le samedi.
+потерянное поколение ; génération perdue ; Потерянное поколение - это поколение, которое выросло во время Первой мировой войны. ; La génération perdue est la génération qui a grandi pendant la Première Guerre mondiale.
+бесполезный ; inutile ; Этот предмет абсолютно бесполезный. ; Cet objet est absolument inutile.
+правило ; règle ; Это общее правило, которое всегда следует соблюдать. ; C'est une règle générale qu'il faut toujours respecter.
+общество ; société ; Общество состоит из людей. ; La société est composée de gens.
+исключение ; exception ; Это исключение из правила. ; C'est une exception à la règle.
+заслуживать / заслужить ; mériter ; Ты заслуживаешь лучшего. ; Tu mérites le meilleur.
+развивать / развить ; développer ; Я хочу развить свои навыки. ; Je veux développer mes compétences.
+не имеет смысла ; ça n'a pas de sens ; Эта фраза не имеет смысла. ; Cette phrase n'a pas de sens.
+пригодиться / пригодиться ; se rendre utile, servir ; Этот навык может пригодиться в будущем. ; Cette compétence peut se rendre utile à l'avenir.
