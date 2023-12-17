@@ -1,1 +1,18 @@
 говно ; merde ; Это говно совершенно бесполезно. ; Cette merde est totalement inutile.
+едва ; à peine ; Едва он открыл дверь, как она закрылась. ; À peine avait-il ouvert la porte qu'elle s'est fermée.
+песок ; sable ; Мы построили замок из песка на берегу моря. ; Nous avons construit un château de sable sur la plage.
+затерянный ; perdu ; Я нашел затерянный брелок. ; J'ai trouvé le porte-clés perdu.
+потерпевший ; victime ; Он был потерпевшим в автокатастрофе. ; Il était une victime d'un accident de voiture.
+кораблекрушение ; naufrage ; Кораблекрушение произошло во время шторма. ; Le naufrage s'est produit pendant la tempête.
+плот ; radeau ; Они построили плот из бревен. ; Ils ont construit un radeau avec des rondins.
+воображать / вообразить ; imaginer ; Мне трудно воображать жизнь без музыки. ; J'ai du mal à imaginer la vie sans musique.
+гром ; tonnerre ; Гром прогремел, и молния ударила в дерево. ; Le tonnerre a grondé et la foudre a frappé l'arbre.
+протирать / протереть ; essuyer ; Она протерла пыль со стола. ; Elle a essuyé la poussière de la table.
+малыш ; bébé ; Малыш плачет. ; Le bébé pleure.
+ничуть ; pas du tout ; Я не устал ни чуть. ; Je ne suis pas fatigué du tout.
+заблуждаться / заблудиться ; se perdre ; Я не хочу заблудиться в этом большом городе. ; Je ne veux pas me perdre dans cette grande ville.
+дар ; cadeau ; Это был дар от Бога. ; C'était un cadeau de Dieu.
+сердито ; en colère ; Она сердито посмотрела на меня. ; Elle m'a regardé en colère.
+внимательно ; attentivement ; Он внимательно слушал мои слова. ; Il écoutait attentivement mes paroles.
+терпение ; patience ; У нее нет терпения к детям. ; Elle n'a pas de patience avec les enfants.
+трава ; herbe ; Моя кошка любит есть траву. ; Mon chat aime manger de l'herbe.
