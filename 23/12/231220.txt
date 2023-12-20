@@ -1,0 +1,76 @@
+водитель ; conducteur ; Водитель внимательно следит за дорогой. ; Le conducteur fait attention à la route.
+подтверждать / подтвердить ; confirmer ; Я всегда подтверждаю свои встречи заранее. ; Je confirme toujours mes rendez-vous à l'avance.
+подтверждение ; confirmation ; Я получил подтверждение моего заказа. ; J'ai reçu la confirmation de ma commande.
+право ; droit ; У меня есть право голоса. ; J'ai le droit de vote. 
+доказательство ; preuve ; У меня есть неопровержимое доказательство твоей вины. ; J'ai une preuve irréfutable de ta culpabilité.
+вина ; culpabilité ; Я не признаю своей вины. ; Je ne reconnais pas ma culpabilité.
+страховка ; assurance ; Я купил страховку на свой автомобиль. ; J'ai acheté une assurance pour ma voiture.
+мрачный ; sombre, morose ; Этот мрачный день заставляет меня думать о прошлом. ; Ce jour sombre me fait penser au passé.
+частично ; partiellement ; Мы частично выполнили задание. ; Nous avons partiellement accompli la tâche.
+не так уж и часто ; pas si souvent ; Я не так уж и часто хожу в кино. ; Je ne vais pas si souvent au cinéma.
+состояние ; état ; Моя машина в плохом состоянии. ; Ma voiture est en mauvais état.
+гораздо ; beaucoup ; Я гораздо лучше понимаю французский, чем английский. ; Je comprends beaucoup mieux le français que l'anglais.
+обращаться / обратиться ; s'adresser ; Я обращаюсь к вам за помощью. ; Je m'adresse à vous pour demander de l'aide.
+обращение ; appel, traitement, adressage ; Ваше обращение будет рассмотрено в ближайшее время. ; Votre demande sera examinée dans les plus brefs délais.
+сударь ; monsieur ; Сударь, вы забыли свой паспорт. ; Monsieur, vous avez oublié votre passeport.
+степень ; degré ; У меня высокая степень ответственности на этой работе. ; J'ai un haut degré de responsabilité dans ce travail.
+ловить / поймать ; attraper, capturer ; Я люблю ловить рыбу на реке. ; J'aime pêcher dans la rivière. 
+закон ; loi ; Этот закон был принят в прошлом году. ; Cette loi a été adoptée l'année dernière.
+отчасти ; en partie ; Я отчасти согласен с тобой. ; Je suis en partie d'accord avec toi.
+совокупность ; ensemble ; Это совокупность различных факторов. ; C'est un ensemble de différents facteurs.
+взаимоотношение ; relation ; Взаимоотношение между двумя странами было трудным. ; La relation entre les deux pays était difficile.
+выражать / выразить ; exprimer ; Я не могу выразить свои чувства словами. ; Je ne peux pas exprimer mes sentiments en mots.
+выражение ; expression ; Это выражение не имеет смысла. ; Cette expression n'a pas de sens.
+выращивать / вырастить ; cultiver ; Я выращиваю овощи в моем саду. ; Je cultive des légumes dans mon jardin.
+жуткий ; effrayant, terrible ; Это жуткий фильм, я не могу смотреть его. ; C'est un film terrible, je ne peux pas le regarder.
+спорить / поспорить ; discuter, débattre ; Мы любим спорить о политике. ; Nous aimons débattre de politique.
+как раз ; justement ; Я как раз хотел позвонить тебе. ; Je voulais justement t'appeler.
+зарплата ; salaire ; Моя зарплата увеличилась на 10 процентов. ; Mon salaire a augmenté de 10 pour cent.
+налоги ; impôts ; Я плачу налоги каждый месяц. ; Je paie des impôts chaque mois.
+мозг ; cerveau ; Мозг человека очень сложный. ; Le cerveau humain est très complexe.
+угадывать / угадать ; deviner, <quelque chose de spécifique, comme la réponse à une question> ; Я не могу угадать, что ты думаешь. ; Je ne peux pas deviner ce que tu penses.
+лестиница ; escalier ; Я спускаюсь по лестнице. ; Je descends l'escalier.
+печатать / напечатать ; imprimer ; Я хочу напечатать эту фотографию. ; Je veux imprimer cette photo.
+страдать / пострадать ; souffrir ; Я страдаю от боли в спине. ; Je souffre de douleurs au dos.
+мужества ; courage ; У него нет мужества сказать ей правду. ; Il n'a pas le courage de lui dire la vérité.
+оценивать / оценить ; évaluer ; Я не могу оценить твою работу. ; Je ne peux pas évaluer ton travail.
+рулить / рулить ; diriger, piloter ; Я люблю рулить машиной. ; J'aime conduire la voiture.
+сбиваться / сбиться ; se désorienter, se perdre ; Я не хотел сбиваться с темы, но это было необходимо. ; Je ne voulais pas me perdre dans le sujet, mais c'était nécessaire.
+отводить / отвести ; détourner, emmener, amener ; Я отвожу глаза от этого ужасного зрелища. ; Je détourne les yeux de cette horrible vue.
+закалять / закалить ; tempérer, endurcir ; Мой отец закалил меня в детстве. ; Mon père m'a endurci dans mon enfance. 
+бороться / побороться ; lutter, combattre ; Я борюсь с этой болезнью. ; Je lutte contre cette maladie.
+шагоман ; podomètre ; Я использую шагоман, чтобы отслеживать, сколько я хожу каждый день. ; J'utilise un podomètre pour suivre combien je marche chaque jour.
+пофигу ; je m'en fiche ; Мне абсолютно пофигу на это. ; Je m'en fiche complètement de ça.
+окружение ; environnement ; Мое окружение очень важно для меня. ; Mon environnement est très important pour moi.
+потасовка ; mêlée, bagarre ; Во время футбольного матча произошла серьезная потасовка. ; Pendant le match de football, une sérieuse mêlée a eu lieu.
+скорость ; vitesse ; Я ехал на машине со скоростью 100 километров в час. ; Je conduisais à 100 kilomètres à l'heure.
+тормозить / затормозить ; freiner, arrêter ; Мы должны тормозить, чтобы избежать аварии. ; Nous devons freiner pour éviter un accident.
+поперёк ; en travers, à travers ; Мы должны идти поперёк леса. ; Nous devons traverser la forêt.
+поражение ; défaite ; Мы потерпели поражение в этой войне. ; Nous avons subi une défaite dans cette guerre.
+терпеть / потерпеть ; supporter, endurer ; Я не могу терпеть этого человека. ; Je ne peux pas supporter cette personne.
+примета ; signe, présage ; Это плохая примета. ; C'est un mauvais présage.
+мнительный ; paranoïaque ; Я не мнительный, я просто осторожный. ; Je ne suis pas paranoïaque, je suis juste prudent.
+крайность ; extrémité ; Она всегда склонна к крайностям. ; Elle a toujours tendance à aller aux extrêmes.
+конёк ; pointe, bout ; Я не могу найти конёк своего карандаша. ; Je ne peux pas trouver la pointe de mon crayon.
+опять-таки ; encore une fois ; Опять-таки, я не согласен с тобой. ; Encore une fois, je ne suis pas d'accord avec toi.
+кумир ; idole ; Мой кумир - это Майкл Джексон. ; Mon idole est Michael Jackson.
+досуг ; loisir ; Мы любим проводить досуг на природе. ; Nous aimons passer notre temps libre dans la nature.
+проводить / провести ; passer, passer du temps ; Я провожу много времени на работе. ; Je passe beaucoup de temps au travail.
+доставка ; livraison ; Доставка этого товара бесплатная. ; La livraison de ce produit est gratuite.
+заражать / заразить ; contaminer, infecter ; Мы не хотим заразить наших друзей. ; Nous ne voulons pas infecter nos amis.
+прокачивать / прокачать ; pomper, gonfler ; Я прокачиваю шины моей машины. ; Je gonfle les pneus de ma voiture.
+именно то что ; exactement ; Это именно то, что я хотел. ; C'est exactement ce que je voulais.
+требовать / потребовать ; exiger ; Я требую, чтобы вы сделали это. ; J'exige que vous le fassiez.
+усложнять / усложнить ; compliquer ; Не усложняйте эту проблему. ; Ne compliquez pas ce problème.
+вне ; en dehors de ; Я не могу выйти вне дома. ; Je ne peux pas sortir de la maison.
+обидно ; c'est dommage ; Обидно, что ты не можешь прийти. ; C'est dommage que tu ne puisses pas venir.
+положительный ; positif ; Я всегда смотрю на положительную сторону жизни. ; Je regarde toujours le côté positif de la vie.
+выделять / выделить ; mettre en évidence ; Я выделяю эту фразу, потому что она важна. ; Je mets cette phrase en évidence parce qu'elle est importante.
+провал ; échec ; Это был полный провал. ; C'était un échec total.
+охотно ; volontiers ; Я охотно помогу тебе. ; Je t'aiderai volontiers.
+править / управить ; gérer, diriger ; Миром правят деньги. ; L'argent dirige le monde.
+многогранно ; polyvalent ; Я многогранная личность. ; Je suis une personne polyvalente. 
+тьфу ; beurk ; Тьфу, какая грязь! ; Beurk, quelle saleté!
+успешно ; avec succès ; Я успешно сдал экзамен. ; J'ai réussi mon examen.
+разминаться / разминуться ; s'échauffer ; Я разминаюсь перед тренировкой. ; Je m'échauffe avant l'entraînement.
+растягиваться / растянуться ; s'étirer ; Я растягиваюсь после тренировки. ; Je m'étire après l'entraînement.
