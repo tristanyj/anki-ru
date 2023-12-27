@@ -1,0 +1,50 @@
+хотеть / захотеть ; vouloir ; Она захотела пойти в кино. ; Elle a voulu aller au cinéma.
+посвящать / посвятить ; consacrer ; Он посвятил всю жизнь науке. ; Il a consacré toute sa vie à la science.
+заводить / завести ; lancer, mettre en marche, démarrer (dans un contexte plus général) ; Мне нужно завести машину, чтобы поехать на работу. ; J'ai besoin de démarrer la voiture pour aller au travail. 
+домохозяйка ; femme au foyer ; Она домохозяйка, у неё двое детей. ; Elle est femme au foyer, elle a deux enfants.
+сложновато ; un peu difficile ; Это задание сложновато для меня. ; Cette tâche est un peu difficile pour moi.
+рисковать / рискнуть ; risquer ; Не рискуйте, это опасно! ; Ne risquez pas, c'est dangereux !
+прорыв ; percée, avancée ; Это был прорыв в науке. ; C'était une percée dans la science.
+достойно ; dignement ; Он достойно выступил на конференции. ; Il a dignement parlé à la conférence.
+выступать / выступить ; intervenir, se produire ; Он любит выступать на публике. ; Il aime se produire en public.
+выпарево ; évaporation ; Вода испаряется при нагревании. ; L'eau s'évapore lorsqu'elle est chauffée.
+пластичный ; plastique ; Этот материал очень пластичный. ; Ce matériau est très plastique.
+эмоциональность ; émotivité ; Она очень эмоциональная. ; Elle est très émotive.
+искренность ; sincérité ; Он говорит с искренностью. ; Il parle avec sincérité.
+к тому же ; de plus ; Он умный, к тому же он красивый. ; Il est intelligent, de plus il est beau.
+рейтинг ; classement ; Этот фильм занял первое место в рейтинге. ; Ce film a pris la première place dans le classement.
+подкатывать / подкатить ; rouler vers, approcher, draguer ; Мама подкатывает коляску к парку. ; Maman roule la poussette vers le parc.
+постарше ; plus âgé ; Он постарше меня. ; Il est plus âgé que moi.
+подсказывать / подсказать ; suggérer ; Он подсказал мне ответ. ; Il m'a suggéré la réponse.
+тушить / потушить ; éteindre, étouffer ; Он тушит свечу. ; Il éteint la bougie.
+имбирь ; gingembre ; Я люблю имбирь в чае. ; J'aime le gingembre dans le thé.
+грубо говоря ; pour parler grossièrement ; Грубо говоря, он лентяй. ; Pour parler grossièrement, il est paresseux.
+лентяй ; paresseux ; Он лентяй, он ничего не делает. ; Il est paresseux, il ne fait rien.
+раздельность ; séparation ; Раздельность мусора - это хорошо. ; La séparation des déchets est une bonne chose.
+продолжение ; suite ; Это продолжение этой истории. ; C'est la suite de cette histoire.
+продолжительность ; durée ; Продолжительность этого фильма - 2 часа. ; La durée de ce film est de 2 heures.
+внесение ; contribution, apport ; Внесение вклада в общее дело очень важно. ; Il est très important de contribuer à une cause commune.
+обучать / обучить ; enseigner ; Он обучает меня английскому языку. ; Il m'enseigne l'anglais.
+обучение ; enseignement ; Обучение английскому языку очень важно. ; L'enseignement de l'anglais est très important.
+противоречивый ; contradictoire ; Его слова противоречивы, он говорит одно, а делает другое. ; Ses paroles sont contradictoires, il dit une chose et fait une autre.
+подсказка ; indice, suggestion ; Мне нужна подсказка, чтобы решить эту задачу. ; J'ai besoin d'un indice pour résoudre ce problème.
+громоздкий ; encombrant ; Этот стол громоздкий, его трудно переносить. ; Cette table est encombrante, elle est difficile à transporter.
+зачёт ; validation, crédit (dans le contexte académique) ; У меня есть зачёт по математике. ; J'ai une validation en mathématiques.
+разряд ; catégorie, classe ; Этот фильм относится к разряду комедий. ; Ce film appartient à la catégorie des comédies.
+дотягивать / дотянуть ; atteindre ; Я не могу дотянуть до этой книги. ; Je ne peux pas atteindre ce livre.
+выкладывать / выложить ; mettre en ligne ; Я выложил новое видео на YouTube. ; J'ai mis une nouvelle vidéo sur YouTube.
+бесячий ; agaçant ; Этот бесячий звук не даёт мне спать. ; Ce bruit agaçant ne me laisse pas dormir.
+награждение ; récompense ; Он получил награждение за свою работу. ; Il a reçu une récompense pour son travail.
+награждать / наградить ; récompenser ; Он награждает своих учеников. ; Il récompense ses élèves.
+прижаться / прижаться ; se blottir ; Я прижался к ней, чтобы согреться. ; Je me suis blotti contre elle pour me réchauffer. 
+орать / наорать ; crier sur ; Он наорал на меня, когда я пришёл домой. ; Il a crié sur moi quand je suis rentré à la maison.
+лютый ; féroce ; Этот пёс лютый, он может укусить. ; Ce chien est féroce, il peut mordre.
+конкурс ; concours ; Я участвую в конкурсе. ; Je participe au concours.
+шить / сшить ; coudre ; Я шью новую рубашку. ; Je couds une nouvelle chemise.
+в отличие от ; contrairement à ; В отличие от тебя, я не люблю кофе. ; Contrairement à toi, je n'aime pas le café.
+спасение ; salut, sauvetage ; Во время пожара, спасение людей стало главной задачей пожарных. ; Pendant l'incendie, le sauvetage des gens est devenu la principale tâche des pompiers.
+запрет ; interdiction ; У нас есть запрет на курение в общественных местах. ; Nous avons une interdiction de fumer dans les lieux publics.
+мудрость ; sagesse ; Он очень мудрый человек. ; Il est très sage.
+живопись ; peinture ; Эта живопись очень красивая. ; Cette peinture est très belle.
+обижать / обидеть ; offenser ; Он обидел меня своими словами. ; Il m'a offensé avec ses mots.
+невероятно ; incroyable ; Это невероятно важно. ; C'est incroyablement important.

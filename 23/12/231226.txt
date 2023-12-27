@@ -1,0 +1,15 @@
+бунтаристый ; rebelle ; Он всегда был бунтаристым. ; Il a toujours été rebelle.
+замерять / замерить ; mesurer ; Он замерил длину стола. ; Il a mesuré la longueur de la table.
+обстоятельство ; circonstance ; В каких обстоятельствах это произошло? ; Dans quelles circonstances cela s'est-il produit ?
+показательный ; démonstratif ; Он сделал показательный жест. ; Il a fait un geste démonstratif.
+общий ; général, commun ; Общий интерес к этой теме привел к формированию новых идей. ; L'intérêt général pour ce sujet a conduit à la formation de nouvelles idées.
+девчачий ; féminin ; Она носит девчачьи вещи. ; Elle porte des vêtements féminins.
+обратно ; de retour ; Я вернулся обратно в Россию. ; Je suis retourné en Russie.
+совместный ; conjoint, commun, collaboratif ; Наш совместный проект стал очень успешным. ; Notre projet conjoint a été très réussi.
+прям сразу ; tout de suite ; Я сделаю это прям сразу. ; Je vais le faire tout de suite.
+нашумевший ; retentissant, qui a fait du bruit ; Этот нашумевший фильм получил множество наград. ; Ce film qui a fait du bruit a reçu de nombreux prix.
+смелость ; courage ; Он проявил смелость и сделал то, что никто не смог бы сделать. ; Il a fait preuve de courage et a fait ce que personne ne pourrait faire.
+вызов ; défi ; Это был вызов для него. ; C'était un défi pour lui.
+лень ; paresse ; Я не хочу ничего делать, у меня лень. ; Je ne veux rien faire, je suis paresseux.
+донимать / донять ; tourmenter ; Он донимал меня весь день. ; Il m'a tourmenté toute la journée.
+острый ; aigu, pointu ; Он остро реагирует на критику. ; Il réagit vivement à la critique.
