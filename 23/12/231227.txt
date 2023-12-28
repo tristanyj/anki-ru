@@ -48,3 +48,26 @@
 живопись ; peinture ; Эта живопись очень красивая. ; Cette peinture est très belle.
 обижать / обидеть ; offenser ; Он обидел меня своими словами. ; Il m'a offensé avec ses mots.
 невероятно ; incroyable ; Это невероятно важно. ; C'est incroyablement important.
+засыпать / заснуть ; s'endormir ; Я засыпаю в 11 часов. ; Je m'endors à 11 heures.
+лишь ; seulement ; Я лишь хотел помочь. ; Je voulais seulement aider.
+мимоходом ; en passant ; Я мимоходом упомянул о том, что он не придёт. ; J'ai mentionné en passant qu'il ne viendrait pas.
+понемногу ; petit à petit ; Я понемногу учу английский язык. ; J'apprends l'anglais petit à petit.
+из случайности ; par hasard ; Я встретил его из случайности. ; Je l'ai rencontré par hasard.
+случайность ; hasard ; Это была чистая случайность. ; C'était un pur hasard.
+смеяться / посмеяться ; rire ; Он смеётся надо мной. ; Il rit de moi.
+досада ; contrariété, vexation ; Это вызвало у меня большую досаду. ; Cela m'a causé une grande contrariété.
+брать / взять ; prendre ; Я всегда беру книгу с собой. ; J'emporte toujours un livre avec moi.
+разгадка ; solution ; Я нашёл разгадку этой задачи. ; J'ai trouvé la solution à ce problème.
+появление ; apparition ; Появление нового фильма - это всегда хорошо. ; L'apparition d'un nouveau film est toujours une bonne chose.
+сокравище ; trésor ; Я нашёл сокровище в этой пещере. ; J'ai trouvé un trésor dans cette grotte.
+творение ; création ; Это его лучшее творение, он потратил на него много времени. ; C'est sa meilleure création, il a passé beaucoup de temps dessus.
+исправлять / исправить ; corriger ; Он исправил свою ошибку. ; Il a corrigé son erreur.
+гибнуть / погибнуть ; périr ; Он погиб в автокатастрофе. ; Il a péri dans un accident de voiture.
+таинственно ; mystérieusement ; Всё вокруг казалось таинственно. ; Tout autour semblait mystérieux.
+таина ; mystère ; Это таина, которую никто не может разгадать. ; C'est un mystère que personne ne peut résoudre.
+неростижимо ; inatteignable ; Эта цель кажется неростижимой. ; Ce but semble inatteignable.
+отказываться / отказаться ; refuser ; Я не могу отказываться от своих принципов. ; Je ne peux pas renoncer à mes principes.
+сметь / посметь ; oser ; Он не посмел сказать ей правду. ; Il n'a pas osé lui dire la vérité.
+доставать / достать ; sortir, prendre, atteindre ; Я достал книгу из полки. ; J'ai sorti le livre de l'étagère.
+на волосок ; de justesse ; Он выжил на волосок, это было очень опасно. ; Il a survécu de justesse, c'était très dangereux.
+карман ; poche ; У меня есть монета в кармане. ; J'ai une pièce de monnaie dans ma poche.
