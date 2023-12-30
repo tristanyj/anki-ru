@@ -1,0 +1,52 @@
+что за херня ; qu'est-ce que c'est que cette connerie ; Что за херня происходит здесь? ; Qu'est-ce que c'est que cette connerie qui se passe ici ?
+преимущество ; avantage ; Я не вижу никакого преимущества в этом. ; Je ne vois aucun avantage à cela.
+фигня ; connerie ; Это была полная фигня, что я сделал. ; C'était une connerie que j'ai faite.
+завидовать / позавидовать ; envier, être jaloux ; Он завидовал успехам своего друга. ; Il enviait les réussites de son ami.
+на основе ; sur la base de ; Этот доклад был составлен на основе исследования. ; Ce rapport a été rédigé sur la base d'une étude.
+осложнение ; complication ; Осложнение состояния больного было неожиданным. ; La complication de l'état du malade était inattendue.
+отбирать / отобрать ; prendre, enlever ; Он отобрал у меня мой паспорт. ; Il m'a pris mon passeport.
+запах ; odeur ; Этот запах мне не нравится. ; Cette odeur ne me plaît pas.
+дышать / подышать ; respirer, inspirer ; Мне нужно глубоко дышать, чтобы успокоиться. ; J'ai besoin de respirer profondément pour me calmer.
+несчастный ; malheureux ; Он был очень несчастным после смерти своей жены. ; Il était très malheureux après la mort de sa femme.
+в обрез ; à ras bord ; Этот стакан наполнен в обрез. ; Ce verre est à ras bord.
+завязывать / завязать ; nouer, attacher ; Он завязал шнурки на своих ботинках. ; Il a noué ses lacets de chaussures.
+траур ; deuil ; Он был в трауре после смерти своего отца. ; Il était en deuil après la mort de son père.
+разделение ; division ; Разделение на две группы было необходимо. ; La division en deux groupes était nécessaire.
+провожать / проводить ; accompagner, conduire ; Мама всегда провожает меня до школы. ; Maman m'accompagne toujours à l'école.
+похороны ; funérailles ; Похороны состоялись в субботу. ; Les funérailles ont eu lieu samedi.
+бурлить / побурлить ; bouillonner, bouillir ; Вода начала бурлить в кастрюле. ; L'eau a commencé à bouillir dans la casserole.
+колесо ; roue ; Это колесо слишком маленькое для этого велосипеда. ; Cette roue est trop petite pour ce vélo.
+оценке ; estimation ; Оценка стоимости этого дома была сделана вчера. ; L'estimation de la valeur de cette maison a été faite hier.
+прощаться / попрощаться ; dire au revoir, dire adieu ; Я попрощался с моими друзьями вчера. ; J'ai dit au revoir à mes amis hier.
+сборна ; équipe ; Эта сборная выиграла чемпионат. ; Cette équipe a gagné le championnat.
+задрот ; nerd, geek, no-life <langage familier> ; Он такой задрот, что проводит все свободное время за компьютером. ; Il est tellement geek qu'il passe tout son temps libre sur l'ordinateur.
+извлечение ; extraction ; Извлечение зуба было очень болезненным. ; L'extraction de la dent était très douloureuse.
+обстановка ; situation, circonstances ; Обстановка была очень напряженной. ; La situation était très tendue.
+кружка ; tasse, mug ; Я хочу пить чай из этой кружки. ; Je veux boire du thé dans cette tasse.
+вступительный ; introductif ; Это вступительное слово было очень коротким. ; L'introduction était très courte.
+трек ; piste, morceau <musique> ; Этот трек был очень популярным. ; Ce morceau était très populaire.
+устраивать / устроить ; organiser, arranger ; Он устроил вечеринку в своем доме. ; Il a organisé une fête chez lui.
+пребывание ; séjour ; Мой пребывание в этом отеле было очень приятным. ; Mon séjour dans cet hôtel était très agréable.
+потрясать / потрясти ; secouer, ébranler ; Мама потрясала кроватку, чтобы уснул малыш. ; Maman a secoué le berceau pour que le bébé s'endorme.
+вплоть до ; jusqu'à ; Он работал вплоть до своей смерти. ; Il a travaillé jusqu'à sa mort.
+дьявол ; diable ; Он был очень злым, как дьявол. ; Il était très méchant comme un diable.
+озвучки ; doublage ; Озвучки этого фильма были сделаны вчера. ; Le doublage de ce film a été fait hier.
+преданный ; fidèle ; Он был преданным своей жене. ; Il était fidèle à sa femme.
+арбус ; pastèque ; Этот арбуз очень вкусный. ; Cette pastèque est très bonne.
+подозрительный ; suspect ; Он был подозрительным в этом деле. ; Il était suspect dans cette affaire.
+болельщик ; supporter ; Он был большим болельщиком этой команды. ; Il était un grand supporter de cette équipe.
+дополнительный ; supplémentaire ; Это дополнительное место было очень удобным. ; Ce siège supplémentaire était très confortable.
+запускать / запустить ; lancer, démarrer ; Он запустил свой компьютер. ; Il a démarré son ordinateur.
+проявлять / проявить ; montrer, manifester, faire preuve de ; Он проявил свою любовь к ней. ; Il a montré son amour pour elle.
+время от времени ; de temps en temps ; Он приходит ко мне время от времени. ; Il vient chez moi de temps en temps.
+дерзкий ; insolent, audacieux ; Он действовал слишком дерзко. ; Il a agi de manière trop audacieuse.
+по-прежнему ; toujours, encore ; Он по-прежнему живет в этом доме. ; Il vit toujours dans cette maison.
+грамотный ; compétent, qualifié ; Он был очень грамотным в этом деле. ; Il était très compétent dans cette affaire.
+между прочим ; d'ailleurs, au fait ; Между прочим, я хочу сказать тебе, что ты очень красивая. ; D'ailleurs, je veux te dire que tu es très belle.
+хирург ; chirurgien ; Этот хирург был очень известным. ; Ce chirurgien était très connu.
+расход ; dépense ; Расходы на этот проект были очень высокими. ; Les dépenses pour ce projet étaient très élevées.
+в среднем ; en moyenne ; В среднем, он зарабатывает 1000 евро в месяц. ; En moyenne, il gagne 1000 euros par mois.
+соотношение ; rapport, proportion ; Соотношение между этими двумя числами было очень высоким. ; Le rapport entre ces deux nombres était très élevé.
+вкладывать / вложить ; investir, placer ; Он вложил все свои деньги в этот проект. ; Il a investi tout son argent dans ce projet.
+допустимый ; autorisé, admissible, permis ; Это было допустимым в этой ситуации. ; C'était admissible dans cette situation.
+хранеине ; conservation ; Хранение этого продукта было очень важным. ; La conservation de ce produit était très importante.
