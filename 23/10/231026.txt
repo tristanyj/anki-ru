@@ -26,7 +26,7 @@
 расследовать дело ; enquêter sur une affaire ; Он расследовал это дело в течение многих лет. ; Il a enquêté sur cette affaire pendant de nombreuses années.
 уснуть ; s'endormir ; Я уснул во время этого фильма. ; Je me suis endormi pendant ce film.
 любой ; n'importe quel ; Я любой фильм смотрю с удовольствием. ; Je regarde n'importe quel film avec plaisir.
-пересказать ; raconter, résumer ; Я пересказал ему этот фильм. ; Je lui ai raconté ce film.
+пересказывать / пересказать ; raconter, résumer ; Я пересказал ему этот фильм. ; Je lui ai raconté ce film.
 фишка в том что ; le truc c'est que ; Фишка в том, что он не придет. ; Le truc c'est qu'il ne viendra pas.
 но вроде и ; mais en même temps ; Но вроде и не так уж и плохо. ; Mais en même temps ce n'est pas si mal.
 на рубеже ; à la frontière ; Этот город находится на рубеже двух стран. ; Cette ville se trouve à la frontière de deux pays.
@@ -43,7 +43,7 @@
 успех ; succès ; Этот фильм имел большой успех. ; Ce film a eu un grand succès.
 однозначно ; sans aucun doute ; Это однозначно лучший фильм года. ; C'est sans aucun doute le meilleur film de l'année.
 понимание ; compréhension ; Это понимание ситуации. ; C'est la compréhension de la situation.
-цитировать ; citer ; Я цитирую его слова. ; Je cite ses mots.
+цитировать / процитировать ; citer ; Я цитирую его слова. ; Je cite ses mots.
 подходить для того чтобы ; convenir pour ; Этот фильм подходит для того, чтобы посмотреть с друзьями. ; Ce film convient pour regarder avec des amis.
 забота ; souci, préoccupation ; У неё есть забота о своей семье. ; Elle se soucie de sa famille.
 отвлечься ; se distraire ; Я хочу отвлечься от работы. ; Je veux me distraire du travail.

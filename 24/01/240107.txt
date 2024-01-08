@@ -1,0 +1,24 @@
+население ; population ; Население этого города составляет 100 тысяч человек. ; La population de cette ville est de 100 000 habitants.
+средство передвижения ; moyen de transport ; Средство передвижения - это то, что позволяет передвигаться. ; Un moyen de transport est ce qui permet de se déplacer.
+внешность ; apparence ; Внешность - это то, как выглядит человек. ; L'apparence est ce à quoi ressemble une personne.
+по внешнему виду ; à l'apparence ; По внешнему виду этот человек кажется очень добрым. ; À l'apparence, cette personne semble très gentille.
+копить / накопить ; épargner ; Я накопил деньги, чтобы купить новый телефон. ; J'ai épargné de l'argent pour acheter un nouveau téléphone.
+источник ; source ; Источник воды - это место, где вода появляется. ; Une source d'eau est un endroit où l'eau apparaît.
+заработок ; salaire, revenu ; Мой заработок составляет 1000 евро в месяц. ; Mon salaire est de 1000 euros par mois.
+крупный ; gros, important ; Это крупный город в центре Франции. ; C'est une grande ville au centre de la France.
+себе позволить ; se permettre ; Я не могу себе позволить купить новый телефон. ; Je ne peux pas me permettre d'acheter un nouveau téléphone.
+поговорка ; proverbe ; Эта поговорка очень популярна в России. ; Ce proverbe est très populaire en Russie.
+похлопывать / похлопать ; tapoter, applaudir ; Мама похлопала малыша по спинке, чтобы его успокоить. ; Maman a tapoté le dos du bébé pour le calmer.
+дословно ; littéralement ; Дословно это означает "привет". ; Littéralement, cela signifie "bonjour".
+виноватый ; coupable ; Он виноват в этом происшествии. ; Il est coupable de cet accident.
+с недавных пор ; récemment ; Я с недавних пор живу во Франции. ; Je vis en France depuis peu.
+причём ; d'ailleurs, en outre, et pourtant ; Он пришёл, причём очень рано. ; Il est venu, et pourtant très tôt.
+затрагивать / затронуть ; toucher, affecter ; Этот вопрос затрагивает все аспекты нашей жизни. ; Cette question touche tous les aspects de notre vie.
+помещение ; local, pièce ; В этом помещении слишком жарко. ; Il fait trop chaud dans cette pièce.
+расстояние ; distance ; Расстояние между этими двумя городами составляет 100 километров. ; La distance entre ces deux villes est de 100 kilomètres.
+зажимать / зажать ; pincer ; Мама зажала меня за щёку. ; Maman m'a pincé la joue.
+произвольный ; arbitraire ; Это было произвольное решение. ; C'était une décision arbitraire.
+набор ; ensemble, kit, set ; У меня есть новый набор для рисования. ; J'ai un nouveau kit de dessin.
+грань между ; la frontière entre ; Грань между добром и злом очень тонкая. ; La frontière entre le bien et le mal est très mince.
+касание ; contact ; Касание - это когда два предмета соприкасаются. ; Le contact est quand deux objets se touchent.
+просто на всякий случай ; juste au cas où ; Я взял зонтик, просто на всякий случай. ; J'ai pris un parapluie, juste au cas où.
