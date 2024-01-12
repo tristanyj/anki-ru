@@ -46,7 +46,6 @@
 цитировать / процитировать ; citer ; Я цитирую его слова. ; Je cite ses mots.
 подходить для того чтобы ; convenir pour ; Этот фильм подходит для того, чтобы посмотреть с друзьями. ; Ce film convient pour regarder avec des amis.
 забота ; souci, préoccupation ; У неё есть забота о своей семье. ; Elle se soucie de sa famille.
-отвлечься ; se distraire ; Я хочу отвлечься от работы. ; Je veux me distraire du travail.
 немножко ; un peu ; Я немножко устал. ; Je suis un peu fatigué.
 сравнение ; comparaison ; Это сравнение двух фильмов. ; C'est une comparaison de deux films.
 мысли ; pensées, idées ; Это мои мысли по этому поводу. ; Ce sont mes pensées à ce sujet.
@@ -60,3 +59,4 @@
 тюрьма ; prison ; Он сидел в тюрьме 10 лет. ; Il a passé 10 ans en prison.
 отвратительный ; dégoûtant, répugnant ; Это отвратительный фильм. ; C'est un film dégoûtant.
 лагерь ; camp, campement ; Это лагерь для детей. ; C'est un camp pour enfants.
+отвлекаться / отвлечься ; se distraire ; Я хочу отвлечься от работы. ; Je veux me distraire du travail.
