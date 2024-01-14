@@ -4,7 +4,7 @@
 личный ; personnel ; Это моё личное дело. ; C'est mon affaire personnelle.
 подпитка ; soutien, aide, assistance ; Он получил подпитку от своих друзей. ; Il a reçu le soutien de ses amis.
 толпа ; foule ; Толпа собралась на площади. ; La foule s'est rassemblée sur la place.
-спешить / поспешить ; se dépêcher ; Мне нужно спешить, чтобы не опоздать на поезд. ; Je dois me dépêcher pour ne pas rater le train.
+спешить / поспешить ; se dépêcher <pressé par le temps> ; Мне нужно спешить, чтобы не опоздать на поезд. ; Je dois me dépêcher pour ne pas rater le train.
 заставлять / заставить ; forcer, obliger ; Никто не заставлял меня это делать. ; Personne ne m'a forcé à le faire.
 везде ; partout ; Он везде ищет свои очки. ; Il cherche ses lunettes partout.
 выступление ; discours, performance ; Его выступление было очень впечатляющим. ; Son discours était très impressionnant.

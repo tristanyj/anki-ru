@@ -23,7 +23,7 @@
 раздельность ; séparation ; Раздельность мусора - это хорошо. ; La séparation des déchets est une bonne chose.
 продолжение ; suite ; Это продолжение этой истории. ; C'est la suite de cette histoire.
 продолжительность ; durée ; Продолжительность этого фильма - 2 часа. ; La durée de ce film est de 2 heures.
-внесение ; contribution, apport ; Внесение вклада в общее дело очень важно. ; Il est très important de contribuer à une cause commune.
+внесение ; contribution, apport, introduction ; Внесение вклада в общее дело очень важно. ; Il est très important de contribuer à une cause commune.
 обучать / обучить ; enseigner ; Он обучает меня английскому языку. ; Il m'enseigne l'anglais.
 обучение ; enseignement ; Обучение английскому языку очень важно. ; L'enseignement de l'anglais est très important.
 противоречивый ; contradictoire ; Его слова противоречивы, он говорит одно, а делает другое. ; Ses paroles sont contradictoires, il dit une chose et fait une autre.
