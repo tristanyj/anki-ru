@@ -1,0 +1,46 @@
+ледник ; glacier ; Ледник движется очень медленно. ; Le glacier se déplace très lentement.
+нести / принести ; apporter, porter, assumer, supporter ; Я несу ответственность за свои поступки. ; J'assume la responsabilité de mes actes.
+хвала небесам ; louange au ciel ; Хвала небесам, что я успел на поезд. ; Louange au ciel, j'ai réussi à attraper le train.
+зараза ; infection, contagion ; Эта зараза не дает мне покоя. ; Cette infection ne me laisse pas tranquille.
+ветка ; branche ; Ветка дерева сломалась от ветра. ; La branche de l'arbre s'est cassée sous le vent.
+хватать / схватить ; saisir, attraper, suffire ; Он схватил меня за руку. ; Il m'a attrapé par la main.
+весло ; rame ; Весло корабля сломалось. ; La rame du bateau s'est cassée.
+еле-еле ; à peine, difficilement ; Он еле-еле добрался до дома. ; Il est à peine arrivé à la maison.
+мешок ; sac ; Мешок с картошкой весит 50 килограмм. ; Le sac de pommes de terre pèse 50 kilos.
+капец ; fin, catastrophe ; Это просто капец! ; C'est tout simplement une catastrophe ! 
+промок ; être mouillé ; Я промок до нитки. ; Je suis trempé jusqu'aux os.
+нитка ; fil ; У меня нет нитки для шитья. ; Je n'ai pas de fil pour coudre.
+прошмандовка ; débauché, débauchée ; Он прошмандовка, он не может жить без женщин. ; C'est un débauché, il ne peut pas vivre sans femmes.
+мокрый ; mouillé ; Мокрый снег лежит на земле. ; La neige mouillée est sur le sol.
+убирать / убрать ; enlever, supprimer, ranger, faire le ménage ; Мне нужно убрать свою комнату. ; J'ai besoin de ranger ma chambre.
+походник ; randonneur ; Походники идут по горам. ; Les randonneurs marchent dans les montagnes.
+поход ; randonnée ; Мы собираемся сделать поход в горы. ; Nous prévoyons de faire une randonnée dans les montagnes.
+походка ; démarche ; Его походка была неуверенной. ; Sa démarche était incertaine.
+хреновый ; mauvais, nul ; Это хреновый фильм, не смотрите его. ; C'est un mauvais film, ne le regardez pas.
+гад ; salaud, saligaud ; Он гад, он обманул меня. ; C'est un salaud, il m'a trompé.
+гадость ; saloperie, cochonnerie ; Это гадость, не ешьте это. ; C'est une saloperie, ne mangez pas ça.
+ползучий ; rampant ; Ползучий тигр напал на меня. ; Un tigre rampant m'a attaqué.
+зной ; chaleur, canicule ; Зной был невыносимым. ; La chaleur était insupportable.
+невыносимый ; insupportable ; Это невыносимо! Оставьте меня в покое! ; C'est insupportable ! Laissez-moi tranquille !
+жалить / ужалить ; piquer ; Пчела ужалила меня в руку. ; L'abeille m'a piqué la main.
+Пчела ; abeille ; Здесь много пчел, будьте осторожны. ; Il y a beaucoup d'abeilles ici, soyez prudent.
+осторожный ; prudent ; Когда ты в горах, будь осторожен. ; Quand tu es dans les montagnes, sois prudent.
+тем временем ; pendant ce temps ; Тем временем, я пошел в магазин. ; Pendant ce temps, je suis allé au magasin.
+со всех сторон ; de tous côtés ; Он был окружен врагами со всех сторон. ; Il était entouré d'ennemis de tous côtés.
+насколько ; à quel point, autant que, combien ; Насколько я понимаю, вы хорошо говорите по-русски. ; Autant que je sache, vous parlez bien russe.
+примечательно ; remarquable, notable ; Это примечательно, что он не пришел. ; Il est remarquable qu'il ne soit pas venu.
+достопримечательность ; curiosité, attraction touristique ; Это достопримечательность, которую нужно посетить. ; C'est une curiosité qu'il faut visiter.
+различный ; différent, divers ; У нас есть различные варианты. ; Nous avons différentes options.
+привкус ; arrière-goût ; У этого вина есть неприятный привкус. ; Ce vin a un arrière-goût désagréable.
+Чёрт возьми ; zut, mince ; Чёрт возьми, я забыл свои ключи! ; Zut, j'ai oublié mes clés !
+чёрт бы его побрал ; que le diable l'emporte (expression) ; Чёрт бы его побрал, я не хочу его видеть. ; Diable l'emporte, je ne veux pas le voir.
+нахрен ; à quoi bon, à quoi ça sert ; Нахрен мне это нужно? ; À quoi ça me sert ?
+веселье ; amusement, divertissement ; Это было веселое мероприятие, мы хорошо провели время. ; C'était une fête amusante, nous avons passé un bon moment.
+ё-моё ; oh mon dieu ; Ё-моё, я забыл свои ключи! ; Oh mon dieu, j'ai oublié mes clés !
+господь ; seigneur, dieu ; Господь дал мне силы. ; Le seigneur m'a donné la force.
+поселение ; colonie, établissement ; Это поселение было основано в 1800 году. ; Cette colonie a été fondée en 1800.
+подходящий ; approprié, convenable ; Это подходящий момент, чтобы поговорить. ; C'est un moment approprié pour parler.
+уединение ; solitude, isolement ; Он живет в уединении. ; Il vit dans la solitude.
+уединяться / уединиться ; s'isoler, se retirer ; Я хочу уединиться, чтобы подумать. ; Je veux m'isoler pour réfléchir.
+собака, а! ; nom d'un chien ! ; Собака, а! Я забыл свои ключи! ; Nom d'un chien ! J'ai oublié mes clés !
+повод ; raison, motif, occasion ; У меня есть повод для радости. ; J'ai une raison d'être heureux. 
