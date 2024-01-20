@@ -32,5 +32,3 @@
 задача ; tâche ; Это задача, которую я должен сделать. ; C'est la tâche que je dois faire.
 выгорание ; épuisement professionnel ; Выгорание - это серьезная проблема для многих людей. ; L'épuisement professionnel est un problème sérieux pour beaucoup de gens.
 спустя ; après, plus tard ; Он вернулся спустя несколько часов. ; Il est revenu après quelques heures.
-
-49:20
