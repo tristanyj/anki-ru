@@ -1,0 +1,39 @@
+сзади ; derrière ; Мой дом находится сзади большого здания. ; Ma maison est derrière un grand bâtiment.
+обнимать / обнять ; embrasser ; Он обнял ее, чтобы утешить ее. ; Il l'a embrassée pour la réconforter.
+склонен к ; enclin, sujet à ; Он склонен к депрессии. ; Il est sujet à la dépression.
+проживать / прожить ; vivre ; Он прожил в этом городе всю свою жизнь. ; Il a vécu dans cette ville toute sa vie.
+вежливость ; politesse ; Он проявил вежливость, поздравив ее с днем рождения. ; Il a fait preuve de politesse en la félicitant pour son anniversaire.
+всерьёз ; sérieusement ; Он всерьёз относится к своей работе. ; Il prend son travail au sérieux.
+гордость ; fierté ; Он испытывает гордость за свою семью. ; Il est fier de sa famille.
+стыдно ; honte ; Мне стыдно за свои поступки. ; J'ai honte de mes actions.
+королёвный ; royal ; Он был королёвным в своём доме. ; Il était royal dans sa maison.
+настрой ; réglage, disposition, configuration ; У меня есть хороший настрой на день. ; J'ai une bonne disposition pour la journée.
+растрачивать / расточить ; dilapider, gaspiller ; Он растрачивает свое время на бессмысленные игры. ; Il gaspille son temps sur des jeux sans sens.
+бодрить / взбодрить ; encourager, remonter le moral ; Он взбодрил ее, когда она была грустной. ; Il l'a encouragée quand elle était triste.
+неизбежно ; inévitable ; Смерть неизбежна для всех. ; La mort est inévitable pour tous.
+заложен в ; inhérent à ; Сила заложена во всех людях. ; La force est inhérente à tous les hommes.
+вовлечен в ; impliqué dans ; Он вовлечен в этот проект с самого начала. ; Il est impliqué dans ce projet depuis le début.
+редкость ; rareté ; Это редкость, когда он приходит так рано. ; C'est rare qu'il vienne si tôt.
+на пользу ; en  faveur de ; Это решение было принято на пользу всех. ; Cette décision a été prise en faveur de tous.
+польза ; utilité, bénéfice ; Здоровое питание приносит большую пользу для здоровья. ; Une alimentation saine apporte de grands bénéfices pour la santé.
+налажен ; établi, installé ; Он налажен в своей новой работе. ; Il est établi dans son nouveau travail.
+с точки зрения ; du point de vue de ; С точки зрения экономики, это было хорошее решение. ; Du point de vue de l'économie, c'était une bonne décision. 
+ссор ; querelle ; Они ссорились из-за денег. ; Ils se sont disputés à cause de l'argent.
+взамен ; en échange de ; Он дал ей цветы взамен ее любви. ; Il lui a donné des fleurs en échange de son amour.
+взаимоотдача ; réciprocité ; Они имеют взаимоотдачу в своих отношениях. ; Ils ont de la réciprocité dans leurs relations.
+недопонимание ; malentendu ; Это было недопонимание, которое привело к их разрыву. ; C'était un malentendu qui a conduit à leur rupture.
+желательно ; souhaitable ; Желательно принести свои заметки на встречу. ; Il serait souhaitable d'apporter vos notes à la réunion.
+взвешивать / взвесить ; peser ; Я всегда взвешиваю все преимущества и недостатки, прежде чем принимать решение. ; Je pèse toujours tous les avantages et les inconvénients avant de prendre une décision. 
+неадекватный ; inadéquat ; Это поведение было неадекватным. ; Ce comportement était inadéquat.
+изящный ; élégant ; Она была изящной в своем новом платье. ; Elle était élégante dans sa nouvelle robe.
+заморочка ; bizarrerie ; У него была заморочка, чтобы собирать марки. ; Il avait une bizarrerie de collectionner des timbres.
+рвение ; zèle ; Он показал рвение в своей работе. ; Il a montré du zèle dans son travail.
+самочувствие ; bien-être ; Он чувствовал себя хорошо после отдыха. ; Il se sentait bien après le repos.
+крест ; croix ; Он носил крест на шее. ; Il portait une croix autour du cou.
+исход ; issue ; Он не знал, каков будет исход этой ситуации. ; Il ne savait pas quelle serait l'issue de cette situation.
+суждение ; jugement ; Он сделал суждение о ней, не зная ее. ; Il a fait un jugement sur elle sans la connaître.
+независимость ; indépendance ; Он хотел независимости от своих родителей. ; Il voulait son indépendance de ses parents.
+волновать / взволновать ; exciter ; Кофе взволновал его. ; Le café l'a excité.
+времяпровождение ; passe-temps ; У него было много временипровождений. ; Il avait beaucoup de passe-temps.
+ухаживание ; cour ; Он сделал ухаживание за ней. ; Il lui a fait la cour.
+боязнь ; crainte ; Он испытывал боязнь перед собаками. ; Il avait peur des chiens.
