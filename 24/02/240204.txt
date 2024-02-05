@@ -1,0 +1,20 @@
+миска ; bol ; В миске лежит суп. ; Il y a de la soupe dans le bol.
+углеводы ; glucides ; Углеводы необходимы для нормального функционирования организма. ; Les glucides sont nécessaires au fonctionnement normal de l'organisme.
+белки ; protéines ; Белки необходимы для роста и развития организма. ; Les protéines sont nécessaires à la croissance et au développement de l'organisme.
+жиры ; graisses ; Мы стараемся избегать лишних жиров в нашем рационе. ; Nous essayons d'éviter les graisses superflues dans notre alimentation.
+клубника ; fraise ; Летом мы часто едим клубнику. ; En été, nous mangeons souvent des fraises.
+кислый ; aigre, acide ; Я не люблю кислый вкус в пище. ; Je n'aime pas le goût aigre dans la nourriture. 
+сладкий ; sucré ; Я предпочитаю сладкие десерты. ; Je préfère les desserts sucrés.
+солёный ; salé ; Эти огурцы слишком солёные. ; Ces concombres sont trop salés.
+осторожнее ; avec plus de prudence ; Будь осторожнее с этим. ; Sois plus prudent avec ça.
+аккуратнее ; plus soigneusement ; Будь аккуратнее с этим вазой. ; Sois plus soigneux avec ce vase.
+аптечка ; trousse de secours ; В машине всегда лежит аптечка. ; Il y a toujours une trousse de secours dans la voiture.
+скатерть ; nappe ; На столе лежит белая скатерть. ; Il y a une nappe blanche sur la table.
+салфетка ; serviette ; Пожалуйста, протри руки салфеткой. ; Essuie-toi les mains avec une serviette, s'il te plaît.
+блюдце ; soucoupe ; На блюдце лежит чашка с кофе. ; Il y a une tasse de café sur la soucoupe.
+сковорода ; poêle ; В этой сковороде мы жарим овощи. ; Nous faisons frire des légumes dans cette poêle.
+кастрюля ; casserole ; В этой кастрюле варится суп. ; La soupe est en train de cuire dans cette casserole.
+доска ; planche ; На этой доске мы режем овощи. ; Nous coupons des légumes sur cette planche.
+чайник ; bouilloire ; В этом чайнике варится чай. ; Le thé est en train de bouillir dans cette bouilloire.  
+лопаточка ; spatule ; С помощью лопаточки мы переворачиваем блины. ; Nous retournons les crêpes avec une spatule.
+переворачивать / перевернуть ; retourner, renverser ; Он любит переворачивать страницы старых книг. ; Il aime tourner les pages des vieux livres.
