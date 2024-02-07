@@ -21,7 +21,6 @@
 сборна ; équipe ; Эта сборная выиграла чемпионат. ; Cette équipe a gagné le championnat.
 задрот ; nerd, geek, no-life <langage familier> ; Он такой задрот, что проводит все свободное время за компьютером. ; Il est tellement geek qu'il passe tout son temps libre sur l'ordinateur.
 извлечение ; extraction ; Извлечение зуба было очень болезненным. ; L'extraction de la dent était très douloureuse.
-обстановка ; situation, circonstances ; Обстановка была очень напряженной. ; La situation était très tendue.
 кружка ; tasse, mug ; Я хочу пить чай из этой кружки. ; Je veux boire du thé dans cette tasse.
 вступительный ; introductif ; Это вступительное слово было очень коротким. ; L'introduction était très courte.
 трек ; piste, morceau <musique> ; Этот трек был очень популярным. ; Ce morceau était très populaire.
