@@ -1,0 +1,14 @@
+баранина ; mouton ; Мы часто готовим баранину на ужин. ; Nous préparons souvent du mouton pour le dîner.
+свинина ; porc ; Мне нравится готовить свинину. ; J'aime cuisiner du porc.
+говядина ; bœuf ; Мы купили говядину для ужина. ; Nous avons acheté du bœuf pour le dîner.
+тельятина ; veau ; У нас на ужин была вкусная тельятина. ; Nous avons eu du veau délicieux pour le dîner.
+ветчина ; jambon ; Я люблю ветчину на завтрак. ; J'aime le jambon pour le petit déjeuner.
+селёдка ; hareng ; Сегодня на ужин у нас селёдка. ; Ce soir, nous avons du hareng pour le dîner.
+дорадо ; dorade ; Мы купили дорадо на ужин. ; Nous avons acheté de la dorade pour le dîner.
+тунец ; thon ; Мы купили тунец для салата. ; Nous avons acheté du thon pour la salade.
+треска ; morue ; Мне нужно купить треску для ужина. ; J'ai besoin d'acheter de la morue pour le dîner.
+осьминог ; poulpe ; Этот осьминог выглядит очень умным. ; Ce poulpe semble très intelligent.
+креветка ; crevette ; Мне нравится креветка в моем салате. ; J'aime la crevette dans ma salade.
+устрица ; huître ; Мне нравится вкус свежих устриц. ; J'aime le goût des huîtres fraîches.
+мидия ; moule ; Мы купили мидии для ужина. ; Nous avons acheté des moules pour le dîner.
+бульон ; bouillon ; Я добавил бульон в мой суп. ; J'ai ajouté du bouillon à ma soupe.

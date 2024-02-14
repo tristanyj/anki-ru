@@ -1,0 +1,11 @@
+урна ; urne ; В музее стояла старинная урна. ; Il y avait une urne antique dans le musée.
+парковка ; parking ; В парке было много машин. ; Il y avait beaucoup de voitures dans le parking.
+пароль ; mot de passe ; Мой пароль - это секрет. ; Mon mot de passe est un secret.
+проезжая часть ; chaussée ; На проезжей части дороги было много машин. ; Il y avait beaucoup de voitures sur la chaussée.
+лавочка ; banc ; На лавочке сидели два человека. ; Deux personnes étaient assises sur le banc.
+светофор ; feu de signalisation ; На светофоре загорелся зеленый свет. ; Le feu de signalisation est passé au vert.
+пешеходный переход ; passage pour piétons ; Мы перешли дорогу по пешеходному переходу. ; Nous avons traversé la route sur le passage pour piétons.
+тротуар ; trottoir ; Я иду по тротуару. ; Je marche sur le trottoir.
+поле ; champ ; На поле росли красивые цветы. ; De belles fleurs poussaient dans le champ.
+рекламные вывески ; panneaux publicitaires ; На улице было много рекламных вывесок. ; Il y avait beaucoup de panneaux publicitaires dans la rue.
+канализация ; canalisation ; Наш дом подключен к центральной канализации. ; Notre maison est connectée au réseau de canalisation central.
