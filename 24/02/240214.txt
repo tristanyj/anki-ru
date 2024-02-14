@@ -9,3 +9,8 @@
 поле ; champ ; На поле росли красивые цветы. ; De belles fleurs poussaient dans le champ.
 рекламные вывески ; panneaux publicitaires ; На улице было много рекламных вывесок. ; Il y avait beaucoup de panneaux publicitaires dans la rue.
 канализация ; canalisation ; Наш дом подключен к центральной канализации. ; Notre maison est connectée au réseau de canalisation central.
+лить / пролить ; verser ; Она налила воду в чашку, чтобы сделать чай. ; Elle a versé de l'eau dans la tasse pour faire du thé.
+подогревать / подогреть ; réchauffer ; Она подогрела еду в микроволновке. ; Elle a réchauffé la nourriture au micro-ondes.
+микроволновка ; micro-onde ; Моя новая микроволновка очень быстрая. ; Mon nouveau micro-onde est très rapide.
+проливаться / пролиться ; se répandre, se déverser ; Вода пролилась по полу. ; L'eau s'est répandue sur le sol.
+беседа ; conversation ; Мы вели беседу на интересующую нас тему. ; Nous avons eu une conversation sur un sujet qui nous intéressait.
