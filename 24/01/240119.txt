@@ -7,7 +7,6 @@
 весло ; rame ; Весло корабля сломалось. ; La rame du bateau s'est cassée.
 еле-еле ; à peine, difficilement ; Он еле-еле добрался до дома. ; Il est à peine arrivé à la maison.
 мешок ; sac ; Мешок с картошкой весит 50 килограмм. ; Le sac de pommes de terre pèse 50 kilos.
-капец ; fin, catastrophe ; Это просто капец! ; C'est tout simplement une catastrophe ! 
 промок ; être mouillé ; Я промок до нитки. ; Je suis trempé jusqu'aux os.
 нитка ; fil ; У меня нет нитки для шитья. ; Je n'ai pas de fil pour coudre.
 прошмандовка ; débauché, débauchée ; Он прошмандовка, он не может жить без женщин. ; C'est un débauché, il ne peut pas vivre sans femmes.
