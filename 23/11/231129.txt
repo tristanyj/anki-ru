@@ -52,5 +52,5 @@
 мыло ; savon ; В этом мыле есть антибактериальные свойства. ; Ce savon a des propriétés antibactériennes.
 помада ; rouge à lèvres ; Я никогда не ношу помаду. ; Je ne porte jamais de rouge à lèvres.
 бодрый ; vif ; Он был очень бодрый и энергичный. ; Il était très vif et énergique.
-вести / провести ; passer, mener, conduire ; Мы провели весь день на пляже. ; Nous avons passé toute la journée à la plage. ; passer ; Я провёл весь день в постели. ; J'ai passé toute la journée au lit.
+вести / провести ; passer, mener, conduire, se comporter ; Мы провели весь день на пляже. ; Nous avons passé toute la journée à la plage. ; passer ; Я провёл весь день в постели. ; J'ai passé toute la journée au lit.
 повторение ; répétition ; Повторение - мать учения. ; La répétition est la mère de l'apprentissage.
