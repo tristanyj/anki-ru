@@ -1,0 +1,30 @@
+прохладно ; frais ; Сегодня прохладно, нужно одеться потеплее. ; Aujourd'hui, il fait frais, il faut s'habiller plus chaudement.
+пасека ; rucher ; У меня есть большая пасека на заднем дворе. ; J'ai un grand rucher dans mon arrière-cour.
+улей ; ruche ; Пчелы живут в улье. ; Les abeilles vivent dans une ruche.
+съедобный ; comestible ; Этот пирог абсолютно съедобный. ; Ce gâteau est absolument comestible.
+черника ; myrtille ; Черника — это мой любимый вид ягоды. ; La myrtille est mon fruit préféré.
+явно ; manifestement ; Он явно не хочет говорить об этом. ; Il ne veut manifestement pas en parler.
+насыщенный ; saturé ; Этот цвет насыщенный и яркий. ; Cette couleur est saturée et vive.
+подниматься / подняться ; monter, se lever ; Мне нужно подняться на вершину этой горы. ; J'ai besoin de monter au sommet de cette montagne.
+происхождение ; origine ; Интересно узнать происхождение этого слова. ; Il est intéressant de connaître l'origine de ce mot.
+хвоя ; aiguille de pin ; В лесу пахло хвоей. ; La forêt sentait les aiguilles de pin.
+великолепный ; magnifique ; Этот великолепный замок был построен в 18 веке. ; Ce magnifique château a été construit au 18 ème siècle.
+переночевывать / переночевать ; passer la nuit ; Мы решили переночевать в гостинице. ; Nous avons décidé de passer la nuit à l'hôtel.
+палатка ; tente ; Мы поставили палатку на берегу озера. ; Nous avons monté la tente au bord du lac.
+совпадение ; coïncidence ; Это не просто совпадение, это судьба. ; Ce n'est pas simplement une coïncidence, c'est le destin.
+совпадать / совпасть ; coïncider ; Наши взгляды полностью совпадают. ; Nos points de vue coïncident totalement.
+принадлежать / принадлежить ; appartenir ; Этот дом принадлежит моему другу. ; Cette maison appartient à mon ami.
+адский ; infernal ; Это был адский день. ; C'était une journée infernale.
+ад ; enfer ; В аду очень жарко. ; Il fait très chaud en enfer.
+влезать / влезть ; grimper, entrer, être impliqué ; Он влез на дерево, чтобы сорвать яблоки. ; Il a grimpé dans l'arbre pour cueillir des pommes.
+незаметно ; imperceptiblement, discrètement ; Время проходит незаметно. ; Le temps passe imperceptiblement.
+опрятно ; soigné, net, propre ; Он всегда выглядит очень опрятно. ; Il a toujours l'air très soigné.
+всё основное ; tout l'essentiel ; Всё основное должно быть выполнено сегодня. ; Tout l'essentiel doit être accompli aujourd'hui.
+подобный ; semblable, pareil ; Этот предмет очень подобный тому, что у меня дома. ; Cet objet est très semblable à celui que j'ai à la maison.
+винтажный ; vintage ; Этот винтажный стул был найден на блошином рынке. ; Cette chaise vintage a été trouvée sur un marché aux puces.
+дарова ; salut (slang) ; Дарова, как дела? ; Salut, comment ça va ?
+наслаждение ; plaisir ; Жизнь полна наслаждений. ; La vie est pleine de plaisirs.
+причудливый ; capricieux, bizarre ; Этот причудливый кот всегда делает что хочет. ; Ce chat capricieux fait toujours ce qu'il veut.
+хамить / нахамить ; être grossier, être impoli ; Он начал нам хамить, когда мы попросили его убрать мусор. ; Il a commencé à être grossier quand nous lui avons demandé de nettoyer les ordures.
+возле ; près de ; Мы остановились возле реки. ; Nous nous sommes arrêtés près de la rivière.
+костер ; feu de camp ; Мы собрались вокруг костра и начали петь песни. ; Nous nous sommes rassemblés autour du feu de camp et avons commencé à chanter des chansons.
