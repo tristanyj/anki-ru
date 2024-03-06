@@ -1,0 +1,32 @@
+порядок ; ordre ; Все идет в соответствии с установленным порядком. ; Tout se déroule conformément à l'ordre établi.
+покрывало ; couvre-lit, couverture ; В ее спальне всегда аккуратно лежит покрывало. ; Dans sa chambre, il y a toujours un couvre-lit soigneusement disposé.
+вход ; entrée ; Вход в музей бесплатный. ; L'entrée au musée est gratuite.
+беспорядок ; désordre ; В комнате царит полный беспорядок. ; La chambre est en désordre total.
+рэпер ; rappeur ; Рэпер записывает новый альбом. ; Le rappeur enregistre un nouvel album.
+колонки ; enceintes, haut-parleurs ; Музыка звучит из колонок. ; La musique provient des enceintes.
+тумбочка ; table de chevet ; На тумбочке стоит лампа. ; Sur la table de chevet, il y a une lampe.
+плед ; plaid ; Мама купила новый плед. ; Maman a acheté un nouveau plaid.
+полка ; étagère ; На полке лежат много книг. ; Il y a beaucoup de livres sur l'étagère.
+вешалка ; porte-manteau, cintre ; Моя новая вешалка для одежды очень стильная. ; Mon nouveau porte-manteau est très stylé.
+опора ; support, base ; Опора для этого здания была построена из бетона. ; Le support de ce bâtiment a été construit en béton.
+вдоль ; le long de ; Мы шли вдоль реки. ; Nous avons marché le long de la rivière.
+рана ; blessure ; У него на руке была большая рана. ; Il avait une grosse blessure à la main.
+посещение ; visite ; Посещение музея было очень интересным. ; La visite du musée a été très intéressante.
+любящий ; aimant ; Он - любящий отец. ; Il est un père aimant. 
+шкатулка ; boîte ; В шкатулке лежат драгоценности. ; Les bijoux sont dans la boîte.
+рукопись ; manuscrit ; Эта рукопись была найдена в старинном замке. ; Ce manuscrit a été trouvé dans un vieux château.
+ранить / поранить ; blesser ; Он случайно ранил своего друга ножом. ; Il a accidentellement blessé son ami avec un couteau.
+гроб ; cercueil ; Гроб был установлен в церкви. ; Le cercueil a été placé dans l'église.
+спальня ; chambre à coucher ; В спальне стоит большая кровать. ; Il y a un grand lit dans la chambre à coucher.
+столовая ; cantine, salle à manger ; В столовой всегда весело и шумно. ; Il y a toujours de l'ambiance et du bruit dans la cantine. 
+прихожая ; entrée, hall ; В нашей прихожей всегда много света. ; Il y a toujours beaucoup de lumière dans notre hall.
+гостиная ; salon ; Мы проводим много времени в гостиной. ; Nous passons beaucoup de temps dans le salon. 
+озабоченный ; préoccupé ; Он был очень озабочен своими долгами. ; Il était très préoccupé par ses dettes.
+долг ; dette ; У меня есть большой долг перед вами. ; J'ai une grande dette envers vous.
+недалёкий ; pas très malin, bête ; Он недалёкий, но очень добрый. ; Il n'est pas très malin, mais très gentil.
+осуждать / осудить ; condamner ; Мы не должны осуждать людей без полного понимания ситуации. ; Nous ne devons pas condamner les gens sans une compréhension complète de la situation.
+неподвижный ; immobile ; Неподвижный человек не может достичь успеха. ; Une personne immobile ne peut pas atteindre le succès.
+записка ; note ; Он оставил мне записку на кухне. ; Il m'a laissé une note sur la table de la cuisine.
+уметь / суметь ; savoir, pouvoir ; Он умеет готовить очень вкусно. ; Il sait cuisiner très bien.
+равнодушный ; indifférent ; Он был равнодушен к ее проблемам. ; Il était indifférent à ses problèmes.
+привычный ; habituel ; Это привычный маршрут для меня. ; C'est un itinéraire habituel pour moi.
