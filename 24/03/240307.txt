@@ -1,0 +1,48 @@
+укрепление ; renforcement ; Укрепление иммунной системы важно для здоровья. ; Le renforcement du système immunitaire est important pour la santé.
+удаление ; suppression, effacement ; В процессе обработки данных произошло удаление важной информации. ; Au cours du traitement des données, une information importante a été supprimée.
+излишек ; excès ; Излишек жира в пище вреден для здоровья. ; L'excès de graisse dans l'alimentation est nuisible à la santé.
+по часам ; dans le sens des aiguilles d'une montre ; Мы двигались по часам вокруг стола. ; Nous nous sommes déplacés dans le sens des aiguilles d'une montre autour de la table. 
+бобовые ; légumineuses ; Бобовые - это ценный источник белка. ; Les légumineuses sont une source précieuse de protéines.
+на ночку ; pour la nuit ; Мы остановились в гостинице на ночку. ; Nous nous sommes arrêtés à l'hôtel pour la nuit.
+гибкий ; flexible ; Гибкий график работы позволяет лучше совмещать работу и личную жизнь. ; Un horaire de travail flexible permet de mieux concilier travail et vie personnelle.
+устои ; principes ; У него свои устои, и он не хочет их менять. ; Il a ses propres principes et ne veut pas les changer.
+непозволительный ; inadmissible ; Такое поведение непозволительно. ; Un tel comportement est inadmissible.
+вести себя ; se comporter ; Он ведет себя так, как будто ничего не случилось. ; Il se comporte comme si rien ne s'était passé.
+повышать / повысить ; augmenter ; Мы планируем повысить зарплату. ; Nous prévoyons d'augmenter les salaires.
+судья ; juge ; Судья вынес решение в пользу обвиняемого. ; Le juge a rendu une décision en faveur de l'accusé.
+неуважительный ; irrespectueux ; Он был неуважительный к своим родителям. ; Il a été irrespectueux envers ses parents.
+приходить в себя ; reprendre conscience ; Он пришел в себя и попросил воды. ; Il a repris conscience et a demandé de l'eau.
+вляпываться / вляпаться ; se fourrer dans ; Он вляпался в неприятную историю. ; Il s'est fourré dans une histoire désagréable.
+обвинять / обвинить ; accuser ; Его обвинили в краже, но он ничего не признал. ; Il a été accusé de vol, mais il n'a rien avoué.
+справедливость ; justice ; Справедливость требует равенства. ; La justice exige l'égalité.
+наказывать / наказать ; punir ; Он был наказан за плохое поведение. ; Il a été puni pour mauvaise conduite.
+обзывать / обозвать ; insulter ; Он обзывал ее, но она не обратила внимания. ; Il l'insultait, mais elle n'y a pas prêté attention.
+обращать / обратить ; adresser, tourner ; Он обращает внимание на детали. ; Il porte attention aux détails. 
+образовываться / образоваться ; se former ; Вода образовывается из водорода и кислорода. ; L'eau se forme à partir d'hydrogène et d'oxygène.
+выпал шанс ; une chance s'est présentée ; У него выпал шанс показать свои способности. ; Il a eu une chance de montrer ses capacités.
+совпадать / совпасть ; coïncider, correspondre ; Наши взгляды полностью совпадают. ; Nos points de vue coïncident totalement.
+лечение ; traitement ; Лечение этого заболевания длительное. ; Le traitement de cette maladie est long.
+заяц ; lièvre ; Заяц - это быстрое животное. ; Le lièvre est un animal rapide.
+сарафан ; robe à bretelles ; Она носила сарафан и футболку. ; Elle portait une robe à bretelles et un t-shirt.
+фонарь ; lanterne, lampadaire ; Улица была освещена яркими фонарями. ; La rue était éclairée par des lanternes brillantes.
+глобус ; globe terrestre ; Глобус показывает все страны мира. ; Le globe terrestre montre tous les pays du monde.
+ракета ; fusée ; Ракета была запущена в космос. ; La fusée a été lancée dans l'espace.
+ведро ; seau ; Мама наполнила ведро водой. ; Maman a rempli le seau d'eau.
+железный ; fer ; Это железный мост через реку. ; C'est un pont en fer au-dessus de la rivière.
+челюсть ; mâchoire ; У меня болит челюсть после похода к стоматологу. ; J'ai mal à la mâchoire après être allé chez le dentiste.
+кусать / прикусить ; mordre ; Собака кусает, если ее беспокоить. ; Le chien mord si on le dérange.
+припев ; refrain ; Этот припев легко запоминается. ; Ce refrain est facile à retenir.
+помойка ; poubelle ; Помойка была переполнена мусором. ; La poubelle était pleine de déchets.
+фуфайка ; pull-over, sweat-shirt ; Мне нужна новая фуфайка для зимы. ; J'ai besoin d'un nouveau pull-over pour l'hiver.
+штаны ; pantalon large ; Мои новые штаны очень удобные. ; Mon nouveau pantalon est très confortable.
+кепи ; casquette ; Он носил кепи во время прогулки. ; Il portait une casquette pendant la promenade.
+галоп ; galop ; Лошадь быстро перешла в галоп. ; Le cheval est rapidement passé au galop.
+щебетать / щебечь ; gazouiller ; Птицы щебечут на деревьях. ; Les oiseaux gazouillent dans les arbres.
+белая полоса ; une période faste ; У него была белая полоса в жизни. ; Il a eu une période faste dans sa vie.
+скамейка ; banc ; Мы сели на скамейку в парке. ; Nous nous sommes assis sur un banc dans le parc.
+семечки ; graines de tournesol ; Я люблю есть семечки во время прогулки. ; J'aime manger des graines de tournesol pendant la promenade.
+гармонь ; accordéon ; Он играл на гармони во время праздника. ; Il jouait de l'accordéon pendant la fête.
+сводят с ума ; rendre fou ; Этот шум сводит меня с ума. ; Ce bruit me rend fou.
+клевер ; trèfle ; Клевер - это символ удачи. ; Le trèfle est un symbole de chance.
+банкомат ; distributeur automatique de billets ; Я снял деньги с банкомата. ; J'ai retiré de l'argent du distributeur automatique de billets.
+едет крыша ; perdre la tête ; Он едет крыша, если он думает, что это возможно. ; Il perd la tête s'il pense que c'est possible.
