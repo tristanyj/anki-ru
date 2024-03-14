@@ -24,7 +24,7 @@
 охота ; chasse ; Я хочу пойти на охоту. ; Je veux aller à la chasse.
 записывать / записать ; noter, enregistrer ; Я хочу записать эту информацию. ; Je veux noter cette information.
 подвал ; sous-sol ; Я хочу построить подвал. ; Je veux construire un sous-sol.
-беспокоиться / беспокоить ; se soucier, inquiéter ; Тебе не нужно беспокоиться об этом. ; Tu n'as pas besoin de te soucier de cela.
+беспокоиться / обеспокоиться ; se soucier, inquiéter ; Тебе не нужно беспокоиться об этом. ; Tu n'as pas besoin de te soucier de cela.
 весь в ; plein de ; Он был весь в крови. ; Il était plein de sang.
 толк ; sens ; Я не понимаю толк в этом. ; Je ne comprends pas le sens de cela.
 ковёр ; tapis ; Я хочу купить новый ковёр. ; Je veux acheter un nouveau tapis.

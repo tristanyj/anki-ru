@@ -1,0 +1,53 @@
+ручной работы ; fait à la main ; Это изделие ручной работы. ; C'est un produit fait à la main.
+изделие ; produit, article ; Это изделие сделано из качественного материала. ; Ce produit est fait d'un matériau de qualité.
+самодельный ; fait maison ; Это самодельный стол, сделанный моим дедушкой. ; C'est une table faite maison, faite par mon grand-père.
+пластилин ; pâte à modeler ; Мы сделали фигурки из пластилина. ; Nous avons fait des figurines en pâte à modeler.
+раскрашивать / раскрасить ; colorier, peindre ; Мама любит раскрашивать картинки с детьми. ; Maman aime colorier des images avec les enfants.
+живца ; appât ; Рыбаки используют живца для ловли рыбы. ; Les pêcheurs utilisent des appâts pour attraper du poisson.
+в цвете ; en couleur ; Эта книга напечатана в цвете. ; Ce livre est imprimé en couleur.
+выжигание ; pyrogravure ; В мастерской идет процесс выжигания на дереве. ; Le processus de pyrogravure sur bois se déroule dans l'atelier.
+вышивка ; broderie ; Эта вышивка выполнена очень аккуратно. ; Cette broderie est faite très soigneusement.
+мастерить / смастерить ; bricoler ; Мы смастерили новую полку для книг. ; Nous avons bricolé une nouvelle étagère pour les livres.
+мастерская ; atelier ; В этой мастерской производят мебель. ; Dans cet atelier, on fabrique des meubles.
+краснеть / покраснеть ; rougir ; Она покраснела от стыда и смущения. ; Elle a rougi de honte et d'embarras.
+дворянский ; nobiliaire ; Этот дворянский замок очень величественный. ; Ce château nobiliaire est très majestueux.
+укрепляться / укрепиться ; se renforcer ; Он укрепился в своем решении и не отступил. ; Il s'est renforcé dans sa décision et n'a pas reculé.
+вскоре ; bientôt ; Вскоре у нас начнутся каникулы. ; Bientôt, nous aurons des vacances.
+показавшись ; apparaissant ; Показавшись на горизонте, корабль направился к берегу. ; Apparaissant à l'horizon, le navire se dirigea vers la côte.
+существо ; créature ; Это существо напоминает мне моего домашнего питомца. ; Cette créature me rappelle mon animal de compagnie.
+положение в свете ; position sociale ; Она занимала высокое положение в свете. ; Elle occupait une position sociale élevée.
+помещик ; propriétaire terrien ; В деревне жил помещик, который владел большими землями. ; Dans le village vivait un propriétaire terrien qui possédait de vastes terres.
+селький ; rural ; Он родился в сельской местности и всю жизнь прожил там. ; Il est né à la campagne et y a vécu toute sa vie.
+строительство ; construction ; Это здание находится в стадии строительства. ; Ce bâtiment est en cours de construction.
+поместье ; domaine ; Это поместье принадлежало знатной семье. ; Ce domaine appartenait à une famille noble.
+сначала ; d'abord, premièrement ; Сначала он не хотел идти, но потом согласился. ; D'abord, il ne voulait pas y aller, mais ensuite il a accepté.
+в начале ; au début de, au commencement de ; В начале урока учитель объяснил новую тему. ; Au début du cours, le professeur a expliqué un nouveau sujet.
+окончательно ; définitivement ; Он окончательно решил уехать в другой город. ; Il a définitivement décidé de partir dans une autre ville.
+в конце ; à la fin de ; В конце урока учитель дал домашнее задание. ; À la fin du cours, le professeur a donné des devoirs.
+в конце концов ; en fin de compte ; В конце концов, они все-таки пришли на вечеринку. ; En fin de compte, ils sont quand même venus à la fête.
+недостижимый ; inatteignable ; Эта цель кажется мне недостижимой. ; Ce but me semble inatteignable.
+бьющееся ; battant ; Он услышал стук бьющихся крыльев. ; Il a entendu le bruit des ailes battantes.
+тотчас же ; immédiatement ; Он тотчас же побежал за ней. ; Il est immédiatement parti à sa poursuite.
+необыкновенный ; extraordinaire ; Этот день был необыкновенным. ; Ce jour était extraordinaire.
+вниз; vers le bas ; Он посмотрел вниз и увидел маленькую деревню. ; Il a regardé vers le bas et a vu un petit village.
+вверх; vers le haut ; Он посмотрел вверх и увидел птицу. ; Il a regardé vers le haut et a vu un oiseau.
+сходить / сойти ; descendre ; Он сходил с горы и устал. ; Il est descendu de la montagne et était fatigué.
+подолгу ; longtemps ; Он читал книгу подолгу. ; Il a lu le livre longtemps.
+избегать / избежать ; éviter ; Он избегал встречи с ней в течение нескольких дней. ; Il a évité de la rencontrer pendant plusieurs jours.
+конькобежец ; patineur de vitesse ; Конькобежец участвует в соревнованиях на длинные дистанции. ; Le patineur de vitesse participe à des compétitions de longue distance.
+кивать / кивнуть ; faire signe de la tête ; Она кивнула в знак согласия. ; Elle a fait signe de la tête pour montrer son accord.
+подъезжать / подъехать ; arriver, approcher ; Мы подъезжаем к станции. ; Nous approchons de la station.
+гладкий ; lisse ; Этот камень очень гладкий. ; Cette pierre est très lisse.
+робость ; timidité ; Его робость мешает ему завести новых друзей. ; Sa timidité l'empêche de se faire de nouveaux amis.
+сжимать / сжать ; serrer ; Он сжал ее руку и поцеловал. ; Il lui a serré la main et l'a embrassée.
+надолго ; pour longtemps ; Он уехал надолго. ; Il est parti pour longtemps.
+поспешно ; précipitamment ; Он поспешно ушел, не сказав ни слова. ; Il est parti précipitamment, sans dire un mot.
+в сторону от ; à côté de ; Он сел в сторону от окна. ; Il s'est assis à côté de la fenêtre.
+славный ; glorieux, beau ; Славный город на берегу реки. ; La belle ville au bord de la rivière.
+догонять / догнать ; rattraper ; Он догнал своего друга и поговорил с ним. ; Il a rattrapé son ami et lui a parlé.
+набок ; de travers ; Он поставил стул набок. ; Il a mis la chaise de travers.
+безрадостный ; triste ; Он был безрадостный после разговора с ней. ; Il était triste après avoir parlé avec elle.
+взял под руку ; pris par la main ; Он взял ее под руку и повел в сторону. ; Il l'a prise par la main et l'a emmenée à l'écart.
+мало того ; non seulement cela ; Мало того, что он опоздал, он еще и забыл свои документы. ; Non seulement il était en retard, mais il a aussi oublié ses documents.
+намерение ; intention ; У меня есть намерение посетить Россию. ; J'ai l'intention de visiter la Russie.
+жених ; fiancé ; Жених купил кольцо для своей невесты. ; Le fiancé a acheté une bague pour sa fiancée.

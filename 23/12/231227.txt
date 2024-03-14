@@ -65,7 +65,7 @@
 гибнуть / погибнуть ; périr ; Он погиб в автокатастрофе. ; Il a péri dans un accident de voiture.
 таинственно ; mystérieusement ; Всё вокруг казалось таинственно. ; Tout autour semblait mystérieux.
 таина ; mystère ; Это таина, которую никто не может разгадать. ; C'est un mystère que personne ne peut résoudre.
-неростижимо ; inatteignable ; Эта цель кажется неростижимой. ; Ce but semble inatteignable.
+неростижимо ; inaccessible ; Эта цель кажется неростижимой. ; Ce but semble inaccessible. 
 отказываться / отказаться ; refuser ; Я не могу отказываться от своих принципов. ; Je ne peux pas renoncer à mes principes.
 сметь / посметь ; oser ; Он не посмел сказать ей правду. ; Il n'a pas osé lui dire la vérité.
 доставать / достать ; sortir, prendre, atteindre ; Я достал книгу из полки. ; J'ai sorti le livre de l'étagère.
