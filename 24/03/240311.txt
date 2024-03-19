@@ -35,7 +35,6 @@
 граф ; comte ; Этот граф очень богат и влиятелен. ; Ce comte est très riche et influent.
 разрешать / разрешить ; autoriser, permettre ; Разрешите мне представить вам моего друга. ; Permettez-moi de vous présenter mon ami.
 дружелюбно ; amicalement ; Он встретил меня очень дружелюбно. ; Il m'a accueilli très amicalement.
-пожать руку ; serrer la main ; Он пожал руку своему другу. ; Il a serré la main de son ami.
 делать вид ; faire semblant ; Он делал вид, что не заметил её. ; Il a fait semblant de ne pas la remarquer.
 тон ; ton ; Он говорил слишком громким тоном. ; Il parlait avec un ton trop fort.
 по себе ; par soi-même ; Он всегда решает все проблемы по себе. ; Il résout toujours tous les problèmes par lui-même.
