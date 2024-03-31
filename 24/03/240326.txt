@@ -1,0 +1,56 @@
+варварство ; barbarie ; Варварство не имеет места в современном обществе. ; La barbarie n'a pas sa place dans la société moderne.
+обнаруживать / обнаружить ; découvrir, déceler ; Я обнаруживаю новые звёзды каждую ночь. ; Je découvre de nouvelles étoiles chaque nuit.
+похоже на ; ressembler à ; Твоя мама похожа на тебя. ; Ta mère te ressemble.
+учение ; doctrine, enseignement ; Учение - это процесс получения знаний. ; L'enseignement est le processus d'acquisition de connaissances.
+преступный ; criminel ; Он был обвинен в преступном деянии. ; Il a été accusé d'un acte criminel.
+унижение ; humiliation ; Он был подвергнут унижению на публике. ; Il a été humilié en public.
+отталкивать / оттолкнуть ; repousser ; Он оттолкнул её, когда она попыталась его поцеловать. ; Il l'a repoussée quand elle a essayé de l'embrasser.
+вступление ; introduction ; Вступление включает в себя краткое описание темы. ; L'introduction comprend une brève description du sujet.
+смесь ; mélange ; Это смесь молока и кофе. ; C'est un mélange de lait et de café.
+отказ ; refus ; Он получил отказ от компании. ; Il a reçu un refus de la part de l'entreprise.
+в первое время ; au début ; В первое время он был очень застенчивым. ; Au début, il était très timide.
+известие ; nouvelle ; Я хочу услышать хорошие новости. ; Je veux entendre de bonnes nouvelles.
+лечить / вылечить ; soigner, guérir ; Он лечит своего пациента с большим вниманием. ; Il soigne son patient avec beaucoup d'attention.
+таять / растаять ; fondre ; Лёд тает при температуре выше нуля градусов Цельсия. ; La glace fond à une température supérieure à zéro degré Celsius.
+плотный ; dense, épais ; Этот материал очень плотный. ; Ce matériel est très dense.
+наутро ; le matin ; Я всегда пью кофе наутро. ; Je bois toujours du café le matin.
+зазеленелый ; verdoyant ; Летом, поля становятся зазеленелыми. ; En été, les champs deviennent verdoyants.
+вылезать / вылезть ; sortir, émerger ; Он вылез из воды после купания. ; Il est sorti de l'eau après s'être baigné.
+крик ; cri ; Она услышала крик и побежала на помощь. ; Elle a entendu un cri et est allée aider.
+гудеть / загудеть ; bourdonner ; Пчёлы гудят вокруг улья. ; Les abeilles bourdonnent autour de la ruche.
+предположение ; supposition, hypothèse ; Мое предположение оказалось верным. ; Mon hypothèse s'est avérée correcte.
+ветви ; branches ; Это дерево имеет много ветвей. ; Cet arbre a beaucoup de branches.
+голодать / проголодаться ; avoir faim ; Я голодаю, давай поедим. ; J'ai faim, allons manger.
+наедаться / наесться ; se rassasier ; Он наелся и почувствовал себя удовлетворённым. ; Il s'est rassasié et s'est senti satisfait.
+усилия ; efforts ; Его усилия были вознаграждены. ; Ses efforts ont été récompensés.
+грустить / погрустить ; être triste ; Она грустила после разрыва отношений. ; Elle était triste après la rupture.
+наступление ; l'offensive ; Во время наступления солдаты проявили героизм. ; Pendant l'offensive, les soldats ont fait preuve d'héroïsme.
+легкомысленный ; frivole ; Её легкомысленное поведение вызывает беспокойство. ; Son comportement frivole suscite de l'inquiétude.
+предполагать / предположить ; supposer ; Я предполагаю, что он придёт завтра. ; Je suppose qu'il viendra demain.
+меры ; mesures ; Необходимо принять меры для предотвращения катастрофы. ; Des mesures doivent être prises pour prévenir la catastrophe.
+обман ; tromperie ; Он был обвинён в обмане. ; Il a été accusé de tromperie.
+переносить / перенести ; supporter, endurer ; Она переносит боль с улыбкой на лице. ; Elle supporte la douleur avec un sourire.
+произносить / произнести ; prononcer ; Он произнёс речь на церемонии. ; Il a prononcé un discours lors de la cérémonie.
+низость ; bassesse ; Он был унижён его низостью. ; Il a été humilié par sa bassesse.
+жертвовать / пожертвовать ; sacrifier ; Он пожертвовал свою жизнь ради других. ; Il a sacrifié sa vie pour les autres.
+внешний ; extérieur ; Внешний вид не всегда отражает внутреннее состояние. ; L'apparence extérieure ne reflète pas toujours l'état intérieur.
+беседка ; kiosque ; Они сидели в беседке и разговаривали. ; Ils étaient assis dans un kiosque et discutaient.
+усиливаться / усилиться ; s'intensifier ; Шум усиливается с каждой минутой и становится невыносимым. ; Le bruit s'intensifie à chaque minute et devient insupportable.
+подстреленный ; blessé par balle ; Он был подстрелен во время охоты. ; Il a été blessé par balle pendant la chasse.
+сдаюсь ; je me rends ; Сдаюсь! ; Je me rends !
+с облегчением ; avec soulagement ; Он вздохнул с облегчением, когда узнал, что его сын жив. ; Il a soupiré de soulagement en apprenant que son fils était vivant.
+пазбежаться / разбежаться ; se disperser, se séparer ; Мы разбежались по парку, чтобы найти потерянного щенка. ; Nous nous sommes dispersés dans le parc pour trouver le chiot perdu.
+разгаворчивость ; loquacité ; Его разговорчивость иногда раздражает. ; Sa loquacité est parfois agaçante.
+разбиваться / разбиться ; se briser ; Она разбилась на куски после падения. ; Elle s'est brisée en morceaux après sa chute.
+замертво ; mort ; Он был найден замертво в своей квартире. ; Il a été retrouvé mort dans son appartement.
+заговоривать / заговорить ; commencer à parler ; Он заговорил о своих планах на будущее. ; Il a commencé à parler de ses projets d'avenir.
+при встрече ; à la rencontre ; Они обнялись при встрече после долгой разлуки. ; Ils se sont embrassés à la rencontre après une longue séparation.
+тревога ; inquiétude ; Его тревога была заметна всем. ; Son inquiétude était visible pour tous.
+заботиться / позаботиться ; se soucier de ; Она заботится о своих детях больше всего. ; Elle se soucie de ses enfants plus que de tout.
+ахать / ахнуть ; s'exclamer ; Она ахнула от удивления при виде подарка. ; Elle s'est exclamée de surprise en voyant le cadeau.
+веер ; éventail ; Она взяла веер, чтобы охладиться. ; Elle a pris un éventail pour se rafraîchir.
+настаивать / настоять ; insister ; Он настаивал на своём мнении. ; Il a insisté sur son point de vue.
+до тех пор ; jusqu'à ce que ; Я буду ждать до тех пор, пока ты не вернёшься. ; J'attendrai jusqu'à ce que tu reviennes.
+подготовка ; préparation ; Подготовка к экзаменам требует много времени и усилий. ; La préparation aux examens nécessite beaucoup de temps et d'efforts.
+записываться / записаться ; s'inscrire ; Я хочу записаться на курсы французского языка. ; Je veux m'inscrire à des cours de français. 
+прибытие ; arrivée ; Время прибытия поезда было задержано. ; L'heure d'arrivée du train a été retardée.

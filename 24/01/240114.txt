@@ -57,7 +57,6 @@
 игнорировать / проигнорировать ; ignorer ; Я предпочитаю игнорировать эту проблему. ; Je préfère ignorer ce problème.
 общественный ; public, social ; Общественный транспорт важен для города. ; Le transport public est important pour la ville.
 сокращать / сократить ; réduire ; Мы сократили расходы на 10%. ; Nous avons réduit les dépenses de 10%.
-тревог ; inquiétude ; Я чувствую тревог по поводу его здоровья. ; Je suis inquiet pour sa santé.
 уставший ; fatigué ; Я очень уставший после долгого рабочего дня. ; Je suis très fatigué après une longue journée de travail.
 раздражение ; irritation ; Я чувствую раздражение от его поведения. ; Je ressens de l'irritation de son comportement.
 зависать / зависнуть ; traîner, glander, squatter ; Он зависал на улице целый день. ; Il traînait dans la rue toute la journée.
