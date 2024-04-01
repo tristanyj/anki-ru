@@ -1,0 +1,19 @@
+умственный ; intellectuel ; Это умственный процесс. ; C'est un processus intellectuel.
+сердечный ; cardiaque ; У меня болит сердечный мускул. ; J'ai mal au muscle cardiaque.
+одарённый ; doué ; Он очень одарённый музыкант. ; Il est un musicien très doué.
+благополучие ; bien-être ; Он заботится о своём благополучии. ; Il prend soin de son bien-être.
+не на речи ; hors de question ; Это не на речи. ; C'est hors de question.
+по-видимому ; apparemment ; По-видимому, он не придёт. ; Apparemment, il ne viendra pas.
+сердиться / рассердиться ; se fâcher ; Он рассердился на меня из-за этого. ; Il s'est fâché contre moi à cause de cela.
+в раздумье ; en réflexion ; Он остался в раздумье после её слов. ; Il resta en réflexion après ses mots.
+ряда ; rangée ; Он сел в первую ряду. ; Il s'est assis dans la première rangée.
+усталость ; fatigue ; Я чувствую усталость после долгого рабочего дня. ; Je ressens de la fatigue après une longue journée de travail.
+спутанный ; embrouillé, confus ; Его мысли были слишком спутанными, чтобы понять их. ; Ses pensées étaient trop embrouillées pour les comprendre.
+просьба ; demande ; Он не мог отказать в просьбе своего друга. ; Il ne pouvait pas refuser la demande de son ami.
+неловко ; mal à l'aise, gêné ; Мне стало неловко, когда она спросила об этом. ; Je me suis senti mal à l'aise quand elle a posé cette question.
+завидно ; avec envie ; Ей завидно смотрела на его успехи. ; Elle regardait ses succès avec envie.
+тоска ; nostalgie, mélancolie ; У меня тоска по родине. ; J'ai la nostalgie de ma patrie.
+лань ; biche ; Лань паслась на поляне. ; Une biche broutait dans la clairière.
+лиса ; renard ; Лиса была очень хитрой. ; Le renard était très rusé.
+осёл ; âne ; Он был упрямым как осёл. ; Il était têtu comme un âne.
+бык ; taureau ; Бык был очень сильным. ; Le taureau était très fort.
