@@ -1,0 +1,34 @@
+сторож ; gardien ; Сторож охраняет здание всю ночь. ; Le gardien surveille le bâtiment toute la nuit.
+лопать / лопнуть ; éclater ; Шар лопнул от избытка воздуха. ; Le ballon a éclaté à cause de l'excès d'air.
+облак ; nuage ; На небе много облаков. ; Il y a beaucoup de nuages dans le ciel.
+шевелить / пошевелить ; remuer ; Не шевелись! ; Ne bouge pas !
+угу ; oui ; — Ты пойдешь на концерт? — Угу. ; — Tu iras au concert ? — Oui.
+восклицать / воскликнуть ; s'exclamer ; Она воскликнула от удивления. ; Elle s'est exclamée de surprise.
+заставить кого-то поверить ; convaincre ; Он заставил меня поверить в свою историю. ; Il m'a convaincu de croire en son histoire.
+щедрый ; généreux ; Он щедро поделился своими знаниями. ; Il a généreusement partagé ses connaissances.
+распутный ; débauché, dissolu ; Он ведет распутный образ жизни. ; Il mène une vie dissolue.
+насмешка ; raillerie ; Он сказал это с насмешкой. ; Il a dit cela avec raillerie.
+покровительство ; patronage ; Он нашел покровительство у влиятельного человека. ; Il a trouvé un patronage auprès d'une personne influente.
+в назначенний час ; à l'heure convenue ; Встреча началась в назначенный час. ; La réunion a commencé à l'heure convenue.
+содержание ; contenu ; Этот сайт имеет интересное содержание. ; Ce site a un contenu intéressant.
+намёк ; allusion ; Он сделал намёк на то, что я должен уйти. ; Il a fait allusion au fait que je devais partir.
+награда ; récompense ; Он получил награду за свои заслуги. ; Il a reçu une récompense pour ses mérites.
+разлучать / разлучить ; séparer ; Они разлучились на вокзале. ; Ils se sont séparés à la gare.
+намекать / намекнуть ; insinuer, faire allusion ; Он намекнул, что у него есть кое-что интересное для нас. ; Il a insinué qu'il avait quelque chose d'intéressant pour nous.
+зовущие ; appelant ; Зовущие голоса разбудили его. ; Les voix appelantes l'ont réveillé.
+упоминание ; mention ; Он сделал упоминание о своем друге. ; Il a fait mention de son ami.
+фарфор ; porcelaine ; Этот столик сделан из фарфора. ; Cette table est faite de porcelaine.
+увешанный ; orné ; Дом был увешан гирляндами. ; La maison était ornée de guirlandes.
+милосердие ; miséricorde ; Он попросил о милосердии. ; Il a demandé miséricorde.
+румяный ; rosé ; Его лицо стало румяным от холода. ; Son visage est devenu rosé à cause du froid.
+жалостно ; pitoyable, lamentable ; Его поведение было жалостно. ; Son comportement était pitoyable.
+завета ; testament ; Он оставил свои деньги в завете. ; Il a laissé son argent dans son testament.
+наизусть ; par cœur ; Он знает эту песню наизусть. ; Il connaît cette chanson par cœur.
+пускать / пустить ; laisser passer ; Пустите меня, я опаздываю. ; Laissez-moi passer, je suis en
+одобрять / одобрить ; approuver ; Он одобрил мою идею без колебаний. ; Il a approuvé mon idée sans hésiter.
+колебание ; hésitation ; Он сделал это без колебаний. ; Il a fait cela sans hésitation.
+сочинять / сочинить ; composer ; Он сочинил музыку к этому фильму. ; Il a composé la musique pour ce film.
+зевание ; bâillement ; У меня было непреодолимое зевание на уроке. ; J'avais un bâillement irrépressible pendant le cours.
+жадно ; avidement ; Он жадно принялся за работу. ; Il s'est mis avidement au travail.
+голубушка ; colombe (façon affective de s'adresser à quelqu'un) ; Голубушка сидела на ветке. ; La colombe était assise sur une branche.
+щёки ; joues ; У неё были красные щёки. ; Elle avait les joues rouges.

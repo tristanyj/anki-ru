@@ -1,5 +1,5 @@
 укрепление ; renforcement ; Укрепление иммунной системы важно для здоровья. ; Le renforcement du système immunitaire est important pour la santé.
-удаление ; suppression, effacement ; В процессе обработки данных произошло удаление важной информации. ; Au cours du traitement des données, une information importante a été supprimée.
+удаление ; éloignement, suppression, effacement ; В процессе обработки данных произошло удаление важной информации. ; Au cours du traitement des données, une information importante a été supprimée.
 излишек ; excès ; Излишек жира в пище вреден для здоровья. ; L'excès de graisse dans l'alimentation est nuisible à la santé.
 по часам ; dans le sens des aiguilles d'une montre ; Мы двигались по часам вокруг стола. ; Nous nous sommes déplacés dans le sens des aiguilles d'une montre autour de la table. 
 бобовые ; légumineuses ; Бобовые - это ценный источник белка. ; Les légumineuses sont une source précieuse de protéines.
