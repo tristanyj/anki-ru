@@ -2,7 +2,6 @@
 служба ; service ; Служба безопасности работает круглосуточно. ; Le service de sécurité fonctionne 24/24.
 верующий ; croyant ; Верующие люди молятся в церкви. ; Les croyants prient à l'église.
 молиться / помолиться ; prier ; Когда я молился, я почувствовал себя спокойным. ; Quand je priais, je me sentais calme.
-обходиться / обойтись ; traiter, se passer, coûter ; Мне пришлось обойтись без тебя. ; J'ai dû me passer de toi.
 праздновать / отпраздновать ; célébrer, fêter ; Мы всегда празднуем Новый год вместе. ; Nous célébrons toujours le Nouvel An ensemble.
 наряжать / нарядить ; décorer, habiller, parer ; Мы нарядили елку к Рождеству. ; Nous avons paré le sapin pour Noël.
 отечественный ; national ; Отечественные фильмы показывают в кинотеатрах. ; Les films nationaux sont projetés dans les cinémas.
