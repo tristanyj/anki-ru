@@ -1,0 +1,10 @@
+ограничено ; limité ; Доступ к этому ресурсу ограничен. ; L'accès à cette ressource est limité. 
+сумасшедший ; fou ; Он совершенно сумасшедший. ; Il est complètement fou.
+окровавленный ; ensanglanté ; Он был окровавленный. ; Il était ensanglanté.
+плодотворный ; fructueux ; Этот период был очень плодотворным для нас. ; Cette période a été très fructueuse pour nous.
+остроумный ; spirituel, vif d'esprit ; Он очень остроумный человек. ; C'est une personne très spirituelle.
+отрицать / отвергнуть ; nier ; Он отрицает свою вину. ; Il nie sa culpabilité.
+пространство ; espace ; Это пространство слишком мало для нас. ; Cet espace est trop petit pour nous.
+пузырь ; bulle ; Вода в котле начинает кипеть, образуя пузыри. ; L'eau dans la bouilloire commence à bouillir, formant des bulles.
+верёвка ; corde ; Он связал верёвку вокруг коробки. ; Il a attaché une corde autour de la boîte.
+прятать / спрятать ; cacher ; Он спрятался за деревом. ; Il s'est caché derrière l'arbre.
