@@ -1,0 +1,61 @@
+
+могила ; tombe ; Он поставил цветы на могилу своей матери. ; Il a mis des fleurs sur la tombe de sa mère.
+негодование ; indignation ; Его негодование было очевидно. ; Son indignation était évidente.
+пуля ; balle ; Пуля пронзила его сердце. ; La balle a traversé son cœur.
+ибо ; car ; Он не пришел, ибо был занят. ; Il n'est pas venu car il était occupé.
+властитель ; seigneur, maître ; Властитель приказал принести ему воды. ; Le seigneur a ordonné de lui apporter de l'eau.
+безобразие ; désordre, chaos ; В комнате было полное безобразие. ; La pièce était en plein désordre.
+очутиваться / очутиться ; se retrouver ; Он очутился в странном месте. ; Il s'est retrouvé dans un endroit étrange.
+облик ; apparence ; Его облик был странным. ; Son apparence était étrange.
+созвездие ; constellation ; Он увидел созвездие на небе. ; Il a vu une constellation dans le ciel.
+отзываться / отозваться ; résonner ; Его слова отзывались в его сердце. ; Ses mots résonnaient dans son cœur.
+возгораться / возгореться ; s'enflammer ; Огонь возгорелся в лесу. ; Le feu s'est enflammé dans la forêt.
+иной ; autre ; Он был иной человек после того, как ушел. ; Il était un autre homme après son départ.
+сверкать / сверкнуть ; briller, étinceler ; Звезды сверкали на небе. ; Les étoiles brillaient dans le ciel.
+отдалённый ; lointain ; Он видел отдалённые горы. ; Il a vu des montagnes lointaines.
+греховный ; pécheur ; Греховный человек всегда ищет путь к искуплению. ; Un homme pécheur cherche toujours un moyen de se racheter.
+грехопадение ; péché ; Грехопадение всегда приводит к плохим последствиям. ; Le péché conduit toujours à de mauvaises conséquences.
+по преданям ; selon la légende ; По преданям, он был героем. ; Selon la légende, il était un héros.
+осквернённый ; souillé ; Он был осквернённый в глазах своих друзей. ; Il a été souillé aux yeux de ses amis.
+хреновина ; truc, machin (slang) ; Эта хреновина не работает. ; Ce truc ne fonctionne pas. 
+ворчливый ; ronchon ; Ворчливый кот не хотел есть свою еду. ; Le chat ronchon ne voulait pas manger sa nourriture.
+невинный ; innocent ; Он был невинным в этом деле. ; Il était innocent dans cette affaire.
+навеки ; pour toujours ; Он останется в моем сердце навеки. ; Il restera dans mon cœur pour toujours.
+изливаться / излиться ; se répandre ; Слова излились из его сердца. ; Les mots se sont répandus de son cœur.
+во многом ; en grande partie ; Его успех во многом зависел от его усилий. ; Son succès dépendait en grande partie de ses efforts.
+проникновение ; pénétration ; Его проникновение в проблему было глубоким. ; Sa pénétration dans le problème était profonde.
+познание ; connaissance ; Его познание мира было широким. ; Sa connaissance du monde était vaste.
+порою ; parfois ; Порою, мне нравится читать книги в тишине. ; Parfois, j'aime lire des livres en silence.
+хвастун ; vantard ; Он был хвастуном и никому не нравился. ; Il était un vantard et personne ne l'aimait.
+блуждать / блудить ; errer, vagabonder ; Он любит блуждать по городу ночью. ; Il aime errer dans la ville la nuit.
+порыв ; élan, impulsion ; Внезапный порыв ветра опрокинул его. ; Une soudaine rafale de vent l'a renversé.
+сладострастие ; volupté ; Он погрузился в сладострастие. ; Il s'est plongé dans la volupté.
+постигать / постигнуть ; comprendre, saisir ; Он постиг суть проблемы. ; Il a compris l'essence du problème.
+грех ; péché ; Грех всегда приводит к плохим последствиям. ; Le péché conduit toujours à de mauvaises conséquences.
+блаженство ; béatitude ; Жизнь в блаженстве - это то, к чему все стремятся. ; La vie en béatitude est ce à quoi tout le monde aspire.
+благословение ; bénédiction ; Благословение родителей - это самое важное. ; La bénédiction des parents est la plus importante.
+напутствие ; conseil, recommandation ; Перед отъездом, мама дала мне последнее напутствие. ; Avant mon départ, ma mère m'a donné un dernier conseil.
+скорби ; chagrin ; Его сердце было полно скорби. ; Son cœur était plein de chagrin.
+беспрерывно ; sans interruption ; Он работал беспрерывно весь день. ; Il a travaillé sans interruption toute la journée.
+единение ; union ; Единение с любимым человеком - это самое важное. ; L'union avec la personne aimée est la plus importante.
+соприкосновение ; contact ; Соприкосновение с природой всегда приносит удовольствие. ; Le contact avec la nature apporte toujours du plaisir.
+слагать / сложить ; composer, assembler ; Он сложил кубик Рубика за 5 минут. ; Il a assemblé le Rubik's Cube en 5 minutes.
+проникать / проникнуть ; pénétrer ; Он проник в тайное общество. ; Il a pénétré dans la société secrète.
+безотчётный ; sans fondement ; Его слова были безотчётными. ; Ses paroles étaient sans fondement.
+столь же ; autant que ; Он был столь же умён, как и она. ; Il était aussi intelligent qu'elle.
+рождать / породить ; engendrer ; Он породил множество идей. ; Il a engendré de nombreuses idées. 
+ничтожный ; insignifiant, minable ; Он чувствовал себя ничтожным после того, как потерял работу. ; Il se sentait insignifiant après avoir perdu son travail.
+откровение ; révélation ; Он получил откровение во сне. ; Il a reçu une révélation en rêve.
+разврат ; débauche, perversion ; Этот город полон разврата. ; Cette ville est pleine de débauche.
+развращать / развратить ; corrompre ; Он развратил своего младшего брата. ; Il a corrompu son petit frère.
+тысячелетие ; millénaire ; Это здание было построено в прошлом тысячелетии. ; Ce bâtiment a été construit au millénaire dernier.
+кокетство ; coquetterie ; Ее кокетство всегда привлекало внимание. ; Sa coquetterie attirait toujours l'attention.
+брызгать / брызнуть ; éclabousser ; Он брызнул воду на своего друга. ; Il a éclaboussé de l'eau sur son ami.
+добродетель ; vertu ; Добродетель всегда приводит к успеху. ; La vertu conduit toujours au succès.
+знамя ; bannière ; Знамя волновалось на ветру. ; La bannière flottait au vent.
+обособление ; mise à part, isolation ; Обособление этого пункта было необходимо для повышения эффективности. ; La mise à part de cet élément était nécessaire pour augmenter l'efficacité.
+разъединение ; séparation ; Разъединение с любимым человеком - это самое страшное. ; La séparation avec la personne aimée est la plus terrible.
+милосердый ; miséricordieux ; Он был милосердным к своим врагам. ; Il était miséricordieux envers ses ennemis.
+умалять / умалить ; diminuer ; Он умалил свои потери. ; Il a diminué ses pertes.
+рабство ; esclavage ; Рабство было отменено в 1865 году. ; L'esclavage a été aboli en 1865.
+наивный ; naïf ; Он был наивным и доверчивым. ; Il était naïf et crédule.

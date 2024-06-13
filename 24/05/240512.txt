@@ -1,0 +1,9 @@
+избранное ; favoris ; В моем браузере много избранного. ; Il y a beaucoup de favoris dans mon navigateur.
+баг ; bug ; В нашей программе обнаружен баг. ; Un bug a été détecté dans notre programme.
+засорять / засорить ; encombrer, obstruer ; Не засоряйте умывальник остатками еды. ; Ne bouchez pas l'évier avec des restes de nourriture.
+в курсе ; au courant ; Я в курсе всех последних новостей. ; Je suis au courant de toutes les dernières nouvelles.
+смена ; changement, relève ; Смена сезонов всегда влияет на мое настроение. ; Le changement de saisons affecte toujours mon humeur.
+нафига ; pourquoi, à quoi bon <langage familier> ; Зачем тебе это нафига? ; Pourquoi en as-tu besoin, à quoi bon ?
+нихрена ; rien, pas du tout <langage familier> ; Нихрена не понимаю. ; Je ne comprends rien du tout.
+тупица ; idiot, imbécile ; Ты такой тупица! ; Tu es vraiment un idiot !
+чмоки ; bisous ; Она отправила мне чмоки через видеосвязь. ; Elle m'a envoyé des bisous par vidéoconférence.
