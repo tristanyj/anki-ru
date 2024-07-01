@@ -1,0 +1,25 @@
+подчеркивать / подчеркнуть ; souligner ; Я хочу подчеркнуть важность этого вопроса. ; Je veux souligner l'importance de cette question.
+там сям ; de-ci de-là ; Он бегал там сям, пытаясь найти свой ключи. ; Il courait de-ci de-là, essayant de trouver ses clés.
+со скрипом ; avec difficulté ; Он открыл дверь со скрипом. ; Il a ouvert la porte avec difficulté.
+промежуток ; intervalle ; Временной промежуток между двумя событиями. ; L'intervalle de temps entre deux événements.
+жвачка для мозгов ; chewing-gum pour le cerveau ; Это книга - настоящая жвачка для мозгов. ; Ce livre est un vrai chewing-gum pour le cerveau.
+курва ; pute ; Эта курва просто пытается выманить у меня деньги. ; Cette pute essaie juste de m'extorquer de l'argent.
+шалить / пошалить ; faire des bêtises ; Он пошалил, но никто не смеялся. ; Il a fait des bêtises, mais personne n'a ri.
+снаружи ; dehors ; Он стоял снаружи и ждал. ; Il était dehors et attendait.
+снаряжение ; équipement ; Он проверил свое снаряжение перед выходом. ; Il a vérifié son équipement avant de sortir.
+зажигалка ; briquet ; Он достал зажигалку и зажег свечу. ; Il a sorti un briquet et allumé une bougie.
+грузовик ; camion ; Он водил грузовик по всей стране. ; Il conduisait un camion à travers tout le pays.
+ёжик ; hérisson ; Ёжик спрятался в кустах. ; Le hérisson s'est caché dans les buissons.
+акула ; requin ; Акула плавала вокруг корабля. ; Le requin nageait autour du bateau.
+обезьяна ; singe ; Обезьяна сидела на ветке и кушала банан ; Le singe était assis sur une branche et mangeait une banane.
+лягушка ; grenouille ; Лягушка прыгала по лужам. ; La grenouille sautait dans les flaques.
+бабочка ; papillon ; Бабочка села на цветок. ; Le papillon s'est posé sur la fleur.
+жилец ; locataire ; Жилец не платил аренду уже месяц. ; Le locataire n'avait pas payé le loyer depuis un mois.
+книговед ; bibliologue ; Книговед анализирует структуру и содержание книги. ; Le bibliologue analyse la structure et le contenu du livre.
+легенда гласит ; la légende dit ; Легенда гласит, что это место проклято. ; La légende dit que cet endroit est maudit.
+особняк ; manoir ; Он жил в старом особняке на окраине города. ; Il vivait dans un vieux manoir à la périphérie de la ville.
+покушение ; tentative d'assassinat ; Полиция предотвратила покушение на президента. ; La police a déjoué une tentative d'assassinat sur le président.
+скрип паркета ; grincement du parquet ; Скрип паркета разбудил меня ночью. ; Le grincement du parquet m'a réveillé la nuit.
+слух ; ouïe, rumeur ; У меня отличный слух. ; J'ai une excellente ouïe.
+соблазнять / соблазнить ; séduire, tenter ; Он пытался соблазнить её своими богатствами. ; Il a essayé de la séduire avec sa richesse.  
+хлопанье дверью ; claquement de porte ; Я услышал хлопанье дверью и понял, что она ушла. ; J'ai entendu un claquement de porte et j'ai compris qu'elle était partie.
