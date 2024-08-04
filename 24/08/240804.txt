@@ -1,0 +1,64 @@
+правдоподобие ; vraisemblance ; Это имеет высокое правдоподобие. ; Cela a une grande vraisemblance.
+колебание ; hésitation, fluctuation ; Это колебание между двуми возможностями сильно его беспокоит. ; Cette hésitation entre deux possibilités le préoccupe beaucoup.
+порох ; poudre ; Этот порох используется для стрельбы. ; Cette poudre est utilisée pour tirer.
+взад и вперёд ; en arrière et en avant, d'avant en arrière ; Мы ходили взад и вперёд по комнате, обсуждая проблему. ; Nous allions en arrière et en avant dans la pièce, discutant du problème.
+остаться в дураках ; rester le dindon de la farce, se faire avoir, être dupé ; Он остался в дураках после этой сделки. ; Il est resté le dindon de la farce après cette affaire.
+наставать / настать ; arriver, survenir ; Наступило время для перемен. ; Il est temps pour le changement.
+трудиться / потрудиться ; faire un effort, se donner la peine ; Если вы потрудитесь, вы добьётесь успеха. ; Si vous vous donnez la peine, vous réussirez. 
+заключаться / заключиться ; consister, se trouver, résider ; В чём заключается ваша работа? ; En quoi consiste votre travail?
+очень кстати ; à propos, opportunément ; Твой визит пришёл очень кстати. ; Ta visite est arrivée à propos.
+грозно ; menaçant ; Он посмотрел на неё грозно. ; Il l'a regardée d'un air menaçant.
+смеяться / рассмеяться ; éclater de rire, rire ; Она рассмеялась, когда услышала шутку. ; Elle a éclaté de rire en entendant la blague.
+избалованный ; gâté, gâtée ; Он был очень избалованным ребёнком. ; Il était un enfant très gâté.
+благослови её бог ; que Dieu la bénisse ; Благослови её бог, она такая добрая. ; Que Dieu la bénisse, elle est si gentille.
+дурные привычки ; mauvaises habitudes ; Он избавился от дурных привычек. ; Il s'est débarrassé de ses mauvaises habitudes.
+осмеливаться / осмелиться ; oser, s'aventurer ; Он осмелился высказать своё мнение на собрании. ; Il a osé exprimer son avis lors de la réunion.
+насмешка ; moquerie, raillerie, dérision ; Его насмешка была жестокой. ; Sa moquerie était cruelle. 
+отрываться / оторваться ; se détacher, se déconnecter, s'éloigner ; Мы часто отрываемся от реальности, чтобы мечтать. ; Nous nous détachons souvent de la réalité pour rêver.
+рассчитывать / рассчитать ; calculer, compter, prévoir ; Я рассчитываю на твою помощь. ; Je compte sur ton aide.
+рано или поздно ; tôt ou tard ; Рано или поздно, ты поймёшь, что я прав. ; Tôt ou tard, tu comprendras que j'ai raison.
+дрянный ; mauvais, de mauvaise qualité, minable ; Этот фильм был дрянный и не стоил просмотра. ; Ce film était mauvais et ne valait pas la peine d'être regardé.
+старушонка ; vieille dame (façon affectueuse de s'adresser à une femme âgée) ; Старушонка сидела на скамейке и вязала. ; La vieille dame était assise sur un banc et tricotait.
+преклоняться / преклониться ; s'incliner, se prosterner ; Я преклоняюсь перед его мудростью. ; Je m'incline devant sa sagesse.
+нарочно ; exprès, intentionnellement ; Он сделал это нарочно, чтобы её разозлить. ; Il a fait cela exprès pour la mettre en colère.
+разбивать / разбить ; briser, casser, fracasser ; Он разбил вазу на мелкие кусочки. ; Il a brisé le vase en petits morceaux.
+прилично ; convenablement, correctement ; Он одевается всегда прилично. ; Il s'habille toujours convenablement.
+непременно ; absolument, sans faute ; Я непременно приду на твою вечеринку. ; Je viendrai absolument à ta fête.
+римский ; romain ; Римский император был очень влиятельным. ; L'empereur romain était très influent.
+нравственность ; moralité ; Нравственность - это важная часть нашей жизни. ; La moralité est une partie importante de notre vie.
+насилие ; violence ; Насилие никогда не решает проблемы. ; La violence ne résout jamais les problèmes.
+меч ; épée ; Он владел мечом лучше всех. ; Il maniait l'épée mieux que quiconque.
+благодетель ; bienfaiteur ; Он был благодетелем для многих нуждающихся. ; Il était un bienfaiteur pour de nombreux nécessiteux.
+скука ; ennui, lassitude ; Скука часто возникает в отсутствие интересных занятий. ; L'ennui survient souvent en l'absence d'activités intéressantes.
+прерываться / прерваться ; s'interrompre ; Он прервался, чтобы подумать над своим ответом. ; Il s'est interrompu pour réfléchir à sa réponse.
+махнуть рукой ; faire un geste de la main, faire signe de la main ; Он махнул рукой, чтобы attirer leur attention. ; Il a fait un geste de la main pour attirer leur attention.
+осколки ; éclats ; Осколки разлетелись во все стороны. ; Les éclats se sont dispersés dans toutes les directions.
+сверкающий ; étincelant, brillant ; Её улыбка была сверкающей. ; Son sourire était étincelant.
+беда ; malheur, désastre ; Беда не приходит одна. ; Un malheur ne vient jamais seul.
+горшок ; pot ; Этот горшок с цветами стоит на подоконнике. ; Ce pot de fleurs est sur le rebord de la fenêtre.
+голубчик ; chéri, mon chéri (façon affectueuse de s'adresser à un homme) ; Голубчик, ты такой милый! ; Mon chéri, tu es si mignon !
+заря ; aube, aurore ; Заря была особенно красива этим утром. ; L'aube était particulièrement belle ce matin.
+дурён ; imbécile, idiot ; Он дурён, если думает, что это сработает. ; Il est idiot s'il pense que cela fonctionnera. 
+посторонный ; étranger, extérieur ; Это посторонний человек, он не имеет к этому отношения. ; C'est un étranger, il n'a rien à voir avec ça.
+огорчение ; chagrin, peine ; Её огорчение было очевидно. ; Son chagrin était évident.
+отчётливо ; distinctement, clairement ; Он говорил отчётливо, чтобы все могли понять. ; Il parlait distinctement pour que tout le monde puisse comprendre.
+наведывать / навестить ; rendre visite, visiter ; Я навестил бабушку на выходных. ; J'ai rendu visite à ma grand-mère ce week-end.
+соперничество ; rivalité, concurrence ; Соперничество между ними было очень острой. ; La rivalité entre eux était très forte.
+вмешиваться / вмешаться ; s'immiscer, intervenir ; Он вмешался в спор, чтобы разрешить его. ; Il est intervenu dans la dispute pour la résoudre.
+поминутно ; minute par minute ; Он следил за событиями поминутно. ; Il suivait les événements minute par minute.
+по какому праву ; par quel droit ; По какому праву ты взял мою книгу? ; Par quel droit as-tu pris mon livre ?
+озлобление ; aigreur, amertume ; Его озлобление было понятно. ; Son amertume était évidente.
+увеселительный ; amusant, divertissant ; Это был увеселительный вечер. ; C'était une soirée amusante.
+рвать / порвать ; déchirer, rompre ; Он порвал письмо ; Il a déchiré la lettre 
+обвенчиваться / обвенчаться ; se marier religieusement <par un rite religieux> ; Мы решили обвенчаться в старинной церкви. ; Nous avons décidé de nous marier religieusement dans une vieille église.
+нарядный ; élégant, chic ; Она была нарядная на вечеринке. ; Elle était élégante à la fête.
+миг ; instant, moment, clin d'œil ; В этот миг всё изменилось. ; À cet instant, tout a changé.
+занавеска ; rideau ; Занавеска была поднята, и спектакль начался. ; Le rideau a été levé et le spectacle a commencé.
+приподниматься / приподняться ; se soulever, se redresser ; Он решил приподняться, чтобы лучше видеть происходящее. ; Il a décidé de se redresser pour mieux voir ce qui se passait.
+обнажённый ; nu, dénudé, exposé ; Она стояла обнажённая перед зеркалом, любуясь своим отражением. ; Elle se tenait nue devant le miroir, admirant son reflet.
+мрамор ; marbre ; Этот стол сделан из мрамора. ; Cette table est faite de marbre.
+в беспамятстве ; inconscient, sans connaissance ; Он был найден в беспамятстве на улице. ; Il a été retrouvé inconscient dans la rue.
+прямой ; direct, droit ; Эти линии абсолютно прямые. ; Ces lignes sont absolument droites.
+освобождён ; libéré, dégagé ; Он был освобождён от всех обвинений. ; Il a été libéré de toutes les accusations.
+по которым ; par lesquels ; Это дорога, по которой мы должны идти. ; C'est le chemin par lequel nous devons passer.
+каторга ; bagne, travaux forcés ; Он был отправлен на каторгу за свои преступления. ; Il a été envoyé au bagne pour ses crimes.

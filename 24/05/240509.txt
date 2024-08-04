@@ -16,7 +16,6 @@
 потомки ; descendants ; Мои потомки будут гордиться мной. ; Mes descendants seront fiers de moi.
 предприниматель ; entrepreneur ; Предприниматель должен быть настойчивым. ; L'entrepreneur doit être persévérant.
 субботники ; journées de travail bénévole ; Субботники проводятся в выходные дни. ; Les journées de travail bénévole ont lieu le week-end.
-трудиться / потрудиться ; travailler dur ; Он потрудился над этим проектом. ; Il a travaillé dur sur ce projet.
 хлопоты ; soucis, tracas ; У нее много хлопот. ; Elle a beaucoup de soucis.
 мало кто ; peu de gens ; Мало кто знает эту тайну. ; Peu de gens connaissent ce secret.
 затратный ; coûteux ; Этот проект очень затратный. ; Ce projet est très coûteux.

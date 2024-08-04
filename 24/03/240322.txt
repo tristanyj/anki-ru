@@ -16,7 +16,6 @@
 перемена ; changement ; У нас сегодня будет перемена планов. ; Nous aurons un changement de plans aujourd'hui.
 тень ; ombre ; Солнце светит, а тень от дерева приятно прохладна. ; Le soleil brille, mais l'ombre de l'arbre est agréablement fraîche.
 прибавлять / прибавить ; ajouter ; Я хочу прибавить еще одну вещь к нашему списку. ; Je veux ajouter une autre chose à notre liste.
-нарочно ; exprès, intentionnellement ; Он сделал это нарочно. ; Il l'a fait exprès.
 прогонять / прогнать ; chasser, évincer ; Мы не можем прогонять кошек с нашего двора. ; Nous ne pouvons pas chasser les chats de notre cour.
 неприлично ; indécent, obscène ; Говорить неприлично на публике - это плохой тон. ; Parler de manière indécente en public est de mauvais goût.
 заложенный ; posé, établi ; Этот план был заложен много лет назад. ; Ce plan a été posé il y a de nombreuses années.
