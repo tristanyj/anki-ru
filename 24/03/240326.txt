@@ -19,7 +19,6 @@
 крик ; cri ; Она услышала крик и побежала на помощь. ; Elle a entendu un cri et est allée aider.
 гудеть / загудеть ; bourdonner ; Пчёлы гудят вокруг улья. ; Les abeilles bourdonnent autour de la ruche.
 предположение ; supposition, hypothèse ; Мое предположение оказалось верным. ; Mon hypothèse s'est avérée correcte.
-ветви ; branches ; Это дерево имеет много ветвей. ; Cet arbre a beaucoup de branches.
 голодать / проголодаться ; avoir faim ; Я голодаю, давай поедим. ; J'ai faim, allons manger.
 наедаться / наесться ; se rassasier ; Он наелся и почувствовал себя удовлетворённым. ; Il s'est rassasié et s'est senti satisfait.
 усилия ; efforts ; Его усилия были вознаграждены. ; Ses efforts ont été récompensés.
@@ -39,7 +38,6 @@
 подстреленный ; blessé par balle ; Он был подстрелен во время охоты. ; Il a été blessé par balle pendant la chasse.
 сдаюсь ; je me rends ; Сдаюсь! ; Je me rends !
 с облегчением ; avec soulagement ; Он вздохнул с облегчением, когда узнал, что его сын жив. ; Il a soupiré de soulagement en apprenant que son fils était vivant.
-пазбежаться / разбежаться ; se disperser, se séparer ; Мы разбежались по парку, чтобы найти потерянного щенка. ; Nous nous sommes dispersés dans le parc pour trouver le chiot perdu.
 разгаворчивость ; loquacité ; Его разговорчивость иногда раздражает. ; Sa loquacité est parfois agaçante.
 разбиваться / разбиться ; se briser ; Она разбилась на куски после падения. ; Elle s'est brisée en morceaux après sa chute.
 замертво ; mort ; Он был найден замертво в своей квартире. ; Il a été retrouvé mort dans son appartement.
