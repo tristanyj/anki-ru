@@ -1,0 +1,34 @@
+{
+  "name": "txt-lang-highlight",
+  "displayName": "TXT Language Highlight",
+  "description": "Language highlighting for TXT files.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "ltxt",
+        "aliases": [
+          "LngTxt",
+          "ltxt"
+        ],
+        "extensions": [
+          ".ltxt"
+        ],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "ltxt",
+        "scopeName": "source.langtxt",
+        "path": "./syntaxes/ltxt.tmLanguage.json"
+      }
+    ]
+  }
+}

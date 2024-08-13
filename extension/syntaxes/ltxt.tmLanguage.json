@@ -1,0 +1,51 @@
+{
+  "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+  "fileTypes": ["ltxt"],
+  "name": "Lang Txt",
+  "patterns": [
+    {
+      "include": "#languages"
+    },
+    {
+      "include": "#punctuation"
+    },
+    {
+      "include": "#characters"
+    }
+  ],
+  "repository": {
+    "languages": {
+      "patterns": [
+        {
+          "name": "lng.russian",
+          "match": "\\b[а-яА-ЯёЁ]+\\b|—|\\/"
+        },
+        {
+          "name": "lng.latin",
+          "match": "\\b[a-zA-ZéèêëçàâÀîïôûüÿùçÇ'œŒ]+\\b"
+        }
+      ]
+    },
+    "characters": {
+      "patterns": [
+        {
+          "name": "char.numeric",
+          "match": "\\b\\d+(\\.\\d+)?\\b"
+        }
+      ]
+    },
+    "punctuation": {
+      "patterns": [
+        {
+          "name": "punc.semicolon",
+          "match": ";"
+        },
+        {
+          "name": "punc.special-characters",
+          "match": "[-,\\.:\\(\\)/<>\\[\\]{}\\*\\+\\=\\!\\?\\$\\%\\^\\&\\|\\~\\`\\'\\\"]"
+        }
+      ]
+    }
+  },
+  "scopeName": "source.langtxt"
+}
