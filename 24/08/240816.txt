@@ -1,0 +1,50 @@
+изречение ; sentence, maxime, aphorisme ; Это изречение очень мудрое. ; Cette maxime est très sage.
+гласить ; proclamer, annoncer, déclarer ; Закон гласит, что все равны перед законом. ; La loi proclame que tous sont égaux devant la loi.
+до добра не доводит ; ne mène à rien de bon ; Эта привычка до добра не доводит. ; Cette habitude ne mène à rien de bon.
+потный ; en sueur, moite ; Он пришёл домой потный после тренировки. ; Il est rentré à la maison en sueur après l'entraînement.
+возбужденный ; excité, enthousiaste, agité ; Он был очень возбужденный после получения новости. ; Il était très excité après avoir reçu la nouvelle.
+скатываться / скатиться ; dévaler, rouler, glisser ; Он скатился с горы. ; Il a dévalé la montagne.
+нахмуриваться / нахмуриться ; se renfrogner, froncer les sourcils ; Когда она нахмурилась, все поняли, что что-то не так ; Quand elle a froncé les sourcils, tout le monde a compris que quelque chose n'allait pas
+ноготь ; ongle ; У меня сломался ноготь. ; Mon ongle est cassé.
+огрызаться / огрызнуться ; répondre sèchement, rétorquer ; Он огрызнулся на учителя, когда его попросили ответить на вопрос. ; Il a rétorqué au professeur quand on lui a demandé de répondre à la question.
+скверный ; mauvais, vilain, abominable ; Это был скверный день. ; C'était une mauvaise journée.
+переделка ; remaniement, révision, refonte ; Эта переделка улучшила проект. ; Cette refonte a amélioré le projet.
+оборудование ; équipement, appareillage ; Новое оборудование улучшило производительность завода. ; Le nouvel équipement a amélioré la productivité de l'usine.
+поверхность ; surface ; Поверхность луны покрыта кратерами. ; La surface de la lune est couverte de cratères.
+гнетущий ; oppressant, accablant ; Это было гнетущее чувство одиночества. ; C'était un sentiment oppressant de solitude.
+заброшенный ; abandonné, délaissé ; Этот заброшенный дом когда-то был полон жизни. ; Cette maison abandonnée était autrefois pleine de vie.
+наладить / налаживать ; ajuster, régler, mettre au point ; Мы наладим оборудование завтра. ; Nous ajusterons l'équipement demain.
+наносить / нанести ; appliquer, infliger, porter ; Я хочу нанести этот рисунок на стену. ; Je veux appliquer ce dessin sur le mur.
+наследие ; héritage, patrimoine ; Культурное наследие нашей страны бесценно. ; Le patrimoine culturel de notre pays est inestimable.
+яростно ; furieusement, rageusement ; Он яростно отрицал обвинения. ; Il a nié les accusations avec fureur.
+ладонь ; paume, paume de la main ; Она положила свою ладонь на его плечо. ; Elle a posé sa paume sur son épaule.
+поодаль ; à distance, à l'écart ; Он стоял поодаль от толпы. ; Il se tenait à distance de la foule.
+скрещивать / скрестить ; croiser, entrecroiser, croiser <animaux ou plantes> ; Чтобы создать новое растение, нужно скрестить два разных вида. ; Pour créer une nouvelle plante, il faut croiser deux espèces différentes. 
+прерывать / прервать ; interrompre, rompre, cesser ; Он прервал своё выступление из-за технических неполадок. ; Il a interrompu son discours à cause de problèmes techniques.
+напускной ; affecté, feint, simulé ; Его напускное равнодушие всех раздражало. ; Son indifférence feinte agaçait tout le monde.
+бурчать / буркнуть ; grogner, marmonner ; Он буркнул что-то невразумительное. ; Il a marmonné quelque chose d'incompréhensible.
+образовываться / образоваться ; se former, se constituer, se créer ; Важно, чтобы у детей развивалась способность образовываться в коллективе ; Il est important que les enfants développent la capacité de se former en groupe
+срамиться / осрамиться ; se couvrir de honte, avoir honte ; Если мы не подготовимся, мы осрамимся перед всеми. ; Si nous ne nous préparons pas, nous nous couvrirons de honte devant tout le monde.
+предпринимать / предпринять ; entreprendre, tenter, essayer ; Он предпринял попытку улучшить ситуацию. ; Il a tenté d'améliorer la situation.
+противостояние ; opposition, résistance, affrontement ; Противостояние между двумя странами продолжалось много лет. ; L'opposition entre les deux pays a duré de nombreuses années.
+ярус ; niveau, étage, gradin ; Этот ярус был построен в прошлом веке. ; Cet étage a été construit au siècle dernier.
+кулак ; poing ; Он сжал кулаки от ярости. ; Il a serré les poings de colère.
+отверстие ; trou, orifice ; Это отверстие было слишком маленьким для провода. ; Ce trou était trop petit pour le fil
+искорка ; étincelle ; Маленькая искорка зажгла большой пожар. ; Une petite étincelle a déclenché un grand incendie.
+хриплый ; enroué, rauque ; Его голос стал хриплым после долгого разговора. ; Sa voix est devenue enrouée après une longue conversation.
+скрипучий ; grinçant, craquant ; Этот стул был очень скрипучим. ; Cette chaise était très grinçante.
+применение ; application, utilisation, emploi ; Это применение новой технологии улучшило производство. ; L'application de la nouvelle technologie a amélioré la production.
+предотвращать / предотвратить ; prévenir, empêcher ; Чтобы предотвратить бедствие, нужно принимать меры заранее. ; Pour prévenir une catastrophe, il faut prendre des mesures à l'avance.
+стрясаться / стрястись ; se produire, arriver, survenir <surtout pour des événements soudains et inattendus> ; Вчера вечером у нас стряслось что-то странное. ; Hier soir, il s'est produit quelque chose d'étrange chez nous.
+вялый ; mou, flasque, languissant ; Его рукопожатие было вялым. ; Sa poignée de main était molle.
+безобразный ; laid, hideux, affreux ; Этот безобразный поступок не останется безнаказанным. ; Cet acte hideux ne restera pas impuni.
+охлаждаться / охладиться ; se refroidir, se rafraîchir ; Вода в реке охлаждается быстро летом. ; L'eau de la rivière se refroidit rapidement en été.
+поучительно ; instructif, édifiant ; Это было очень поучительно. ; C'était très instructif.
+ослепительный ; éblouissant, éclatant ; Его ослепительный успех удивил всех. ; Son succès éclatant a surpris tout le monde.
+сверкание ; éclat, scintillement ; В тёмном небе появилось яркое сверкание. ; Un éclat brillant est apparu dans le ciel sombre.
+ехидно ; sarcastique, narquois, malicieux ; Он посмотрел на меня ехидно. ; Il m'a regardé d'un air sarcastique.
+небрежно ; négligemment, sans soin ; Он сделал это небрежно, и результат был неутешительным. ; Il l'a fait négligemment, et le résultat était décevant.
+дурень ; imbécile, idiot ; Этот дурень опять потерял свои ключи. ; Cet imbécile a encore perdu ses clés.
+кислотный ; acide ; Кислотный дождь может повредить растения. ; La pluie acide peut endommager les plantes.
+сотрясение ; commotion, secousse ; Сотрясение мозга может быть опасным. ; La commotion cérébrale peut être dangereuse.
+хоровод ; farandole ; Дети водят хоровод вокруг ёлки. ; Les enfants font une farandole autour du sapin.
