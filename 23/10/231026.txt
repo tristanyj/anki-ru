@@ -7,13 +7,12 @@
 основной ; principal, fondamental ; Это основной вопрос нашего разговора. ; C'est la question principale de notre conversation.
 рода ; genre ; Это вопрос рода "да или нет". ; C'est une question du genre "oui ou non".
 событие ; événement ; Это событие произошло вчера. ; Cet événement s'est produit hier.
-разворачиваться / развернуться ; se dérouler, se passer ; Это событие разворачивается в нашем городе. ; Cet événement se déroule dans notre ville.
+разворачиваться / развернуться ; se déployer, se déplier, tourner, faire demi-tour ; Когда корабль начал разворачиваться, мы поняли, что он возвращается в порт. ; Quand le navire a commencé à se déployer, nous avons compris qu'il retournait au port.
 название ; nom, titre ; Какое название у этого фильма? ; Quel est le titre de ce film?
 чесно говоря ; pour être honnête, franchement ; Чесно говоря, я не знаю ответа на этот вопрос. ; Pour être honnête, je ne connais pas la réponse à cette question.
 вызывать / вызвать ; provoquer, susciter ; Эта ситуация вызывает у меня негативные эмоции. ; Cette situation suscite en moi des émotions négatives.
 отзыв ; avis, critique ; Я хочу услышать твой отзыв об этом фильме. ; Je veux entendre ton avis sur ce film.
 стало интересно ; ça m'a intéressé, ça m'a intrigué ; Стало интересно, что будет дальше. ; Ça m'a intéressé ce qui va se passer ensuite.
-меня напрягло ; ça m'a dérangé, ça m'a gêné ; Меня напрягло, что он не пришел. ; Ça m'a dérangé qu'il ne soit pas venu.
 отношение ; attitude, rapport ; Мое отношение к этому вопросу положительное. ; Mon attitude envers cette question est positive.
 господи ; mon dieu ; Господи, как же я устала. ; Mon dieu, comme je suis fatiguée.
 потрясающий ; incroyable, formidable ; Это потрясающий фильм. ; C'est un film incroyable.
@@ -27,13 +26,12 @@
 любой ; n'importe quel ; Я любой фильм смотрю с удовольствием. ; Je regarde n'importe quel film avec plaisir.
 пересказывать / пересказать ; raconter, résumer ; Я пересказал ему этот фильм. ; Je lui ai raconté ce film.
 фишка в том что ; le truc c'est que ; Фишка в том, что он не придет. ; Le truc c'est qu'il ne viendra pas.
-но вроде и ; mais en même temps ; Но вроде и не так уж и плохо. ; Mais en même temps ce n'est pas si mal.
+но вроде и ; mais en quelque sorte ; Но вроде и это не так важно ; Mais en quelque sorte, ce n'est pas si important ; 
 на рубеже ; à la frontière ; Этот город находится на рубеже двух стран. ; Cette ville se trouve à la frontière de deux pays.
 ведущий новостей ; présentateur de nouvelles ; Этот ведущий новостей очень популярен. ; Ce présentateur de nouvelles est très populaire.
 яркий ; vif, brillant ; Это яркий пример того, как надо делать. ; C'est un exemple brillant de la façon de faire.
 отдельный ; séparé, individuel ; Это отдельный случай. ; C'est un cas particulier.
 несмотря на то что ; malgré le fait que ; Несмотря на то, что он не пришел, мы все равно веселились. ; Malgré le fait qu'il ne soit pas venu, nous nous sommes quand même amusés.
-передать ; transmettre, passer ; Я хочу передать тебе привет от своей сестры. ; Je veux te transmettre les salutations de ma sœur.
 казалось бы ; on dirait ; Казалось бы, что все хорошо, но на самом деле нет. ; On dirait que tout va bien, mais en fait non.
 оттуда ; de là ; Оттуда открывается красивый вид. ; De là, il y a une belle vue.
 проявление ; manifestation, expression ; Это проявление негативных эмоций. ; C'est une manifestation d'émotions négatives.
