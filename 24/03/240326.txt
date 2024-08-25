@@ -8,7 +8,7 @@
 вступление ; introduction ; Вступление включает в себя краткое описание темы. ; L'introduction comprend une brève description du sujet.
 смесь ; mélange ; Это смесь молока и кофе. ; C'est un mélange de lait et de café.
 отказ ; refus ; Он получил отказ от компании. ; Il a reçu un refus de la part de l'entreprise.
-в первое время ; au début ; В первое время он был очень застенчивым. ; Au début, il était très timide.
+в первое время ; au début, initialement ; В первое время я часто терялся в новом городе. ; Au début, je me perdais souvent dans la nouvelle ville.
 известие ; nouvelle ; Я хочу услышать хорошие новости. ; Je veux entendre de bonnes nouvelles.
 лечить / вылечить ; soigner, guérir ; Он лечит своего пациента с большим вниманием. ; Il soigne son patient avec beaucoup d'attention.
 таять / растаять ; fondre ; Лёд тает при температуре выше нуля градусов Цельсия. ; La glace fond à une température supérieure à zéro degré Celsius.

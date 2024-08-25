@@ -2,4 +2,4 @@
 договор ; contrat ; Мы подписали договор на поставку товаров. ; Nous avons signé un contrat de livraison de marchandises.
 занятие ; cours ; Мы ходим на занятия по английскому языку. ; Nous suivons des cours d'anglais.
 50 на 50 ; 50-50 ; Мы делим прибыль 50 на 50. ; Nous partageons les bénéfices 50-50.
-в виду ; en raison de ; Мы не смогли приехать в виду плохой погоды. ; Nous n'avons pas pu venir en raison du mauvais temps.
+
