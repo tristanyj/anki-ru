@@ -1,0 +1,40 @@
+пламя ; flamme ; Пламя горит ярко в ночи. ; La flamme brille intensément dans la nuit.
+утверждение ; affirmation, déclaration ; Его утверждение вызвало много споров. ; Son affirmation a suscité beaucoup de débats.
+по утверждению ; selon ; По утверждению местных жителей, в городе произошло землетрясение. ; Selon les habitants locaux, un tremblement de terre a eu lieu dans la ville.
+урчание ; grognement ; Он услышал урчание своего животного. ; Il a entendu le grognement de son animal.
+излучатель ; émetteur ; Этот излучатель используется для передачи радиосигналов. ; Cet émetteur est utilisé pour transmettre des signaux radio.
+луч ; rayon, faisceau ; Солнечный луч пробился сквозь облака. ; Un rayon de soleil a percé à travers les nuages.
+пристальный ; intense, perçant, attentif ; Его пристальный взгляд заставил меня нервничать. ; Son regard intense m'a rendu nerveux.
+подавлять / подавить ; réprimer, étouffer, supprimer ; Он подавил свои чувства, чтобы не вызвать беспокойства. ; Il a réprimé ses sentiments pour ne pas causer d'inquiétude.
+мышление ; pensée, réflexion ; Мышление — это основа познания. ; La pensée est la base de la connaissance.
+служащий ; employé, fonctionnaire ; Он работает как служащий в банке. ; Il travaille comme employé dans une banque.
+закорючка ; gribouillage, crochet <familier> ; На стене была странная закорючка. ; Il y avait un étrange gribouillage sur le mur.
+правдоподобный ; plausible, vraisemblable ; Это правдоподобный сценарий для будущего. ; C'est un scénario plausible pour l'avenir.
+намерен ; avoir l'intention de, être déterminé à <utilisé pour exprimer une intention ferme> ; Он намерен закончить проект вовремя. ; Il a l'intention de terminer le projet à temps.
+на ощупь ; au toucher ; Этот материал гладкий на ощупь. ; Ce matériau est lisse au toucher.
+вбок ; de côté ; Он посмотрел вбок и увидел что-то странное. ; Il a regardé de côté et a vu quelque chose d'étrange.
+кнопка ; bouton ; Нажмите на кнопку, чтобы открыть дверь. ; Appuyez sur le bouton pour ouvrir la porte.
+испещренный ; couvert de, parsemé de ; Небо было испещрено звёздами. ; Le ciel était parsemé d'étoiles.
+вещество ; substance, matière ; Это вещество обладает уникальными свойствами. ; Cette substance possède des propriétés uniques.
+пустота ; vide, néant ; В его глазах была пустота. ; Il y avait du vide dans ses yeux.
+замысловатый ; complexe, compliqué ; Его объяснения были слишком замысловатыми для большинства слушателей. ; Ses explications étaient trop complexes pour la plupart des auditeurs.
+неправдоподобный ; invraisemblable, improbable ; Этот фильм был настолько неправдоподобным, что я не мог его досмотреть. ; Ce film était tellement invraisemblable que je n'ai pas pu le finir.
+болван ; imbécile, idiot ; Он всегда был болваном, когда дело касалось математики. ; Il a toujours été un imbécile quand il s'agissait de mathématiques.
+биться об заклад ; parier, faire un pari ; Я бьюсь об заклад, что он придёт вовремя. ; Je parie qu'il arrivera à l'heure.
+распоряжение ; ordre, directive, disposition ; Он отдал распоряжение немедленно начать работу. ; Il a donné l'ordre de commencer le travail immédiatement.
+спятил ; devenir fou, perdre la raison ; Он совсем спятил от этой работы. ; Il est complètement devenu fou à cause de ce travail.
+буря ; tempête, orage ; На горизонте появилась буря. ; Une tempête est apparue à l'horizon.
+напрягаться / напрячься ; se tendre, se crisper ; Он напрягся, когда услышал странный звук. ; Il s'est tendu en entendant un bruit étrange.
+взор ; regard, vue, vision ; Его взор был полон удивления. ; Son regard était plein d'étonnement.
+пророк ; prophète ; Пророк предсказал будущее своей страны. ; Le prophète a prédit l'avenir de son pays.
+недостоин ; indigne ; Он недостоин вашего доверия. ; Il n'est pas digne de votre confiance.
+кощунство ; blasphème, sacrilège ; Кощунство оскорбляет чувства верующих. ; Le blasphème offense les sentiments des croyants.
+бешенство ; rage, fureur, frénésie ; Его охватило бешенство, когда он узнал правду. ; Il a été pris de rage quand il a appris la vérité.
+истолкование ; interprétation ; Его истолкование этого произведения было уникальным. ; Son interprétation de cette œuvre était unique.
+невыразительный ; inexpressif, terne ; Его лицо было невыразительным даже в радостные моменты. ; Son visage était inexpressif même dans les moments joyeux.
+непроницаемый ; impénétrable, imperméable ; Его взгляд оставался непроницаемым. ; Son regard restait impénétrable.
+зрелище ; spectacle, vue, scène <terme utilisé pour désigner quelque chose de visuellement impressionnant ou captivant> ; Это зрелище захватывает дух. ; Ce spectacle coupe le souffle.
+уныло ; tristement, mélancoliquement ; Он уныло смотрел в окно. ; Il regardait tristement par la fenêtre.
+недаром ; non sans raison, à juste titre ; Это недаром, что он получил эту награду ; Ce n'est pas sans raison qu'il a reçu cette récompense 
+неслыханно ; inouï, incroyable, sans précédent ; Это было неслыханно! ; C'était incroyable !
+воплощение ; incarnation, personnification ; Она была воплощением красоты. ; Elle était l'incarnation de la beauté.
