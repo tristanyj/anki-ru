@@ -1,0 +1,27 @@
+сборка ; assemblage, montage, compilation ; Эта сборка программного обеспечения заняла много времени. ; Cette compilation de logiciels a pris beaucoup de temps.
+ручаться / поручиться ; garantir, répondre de, se porter garant ; Я ручаюсь за его честность. ; Je réponds de son honnêteté.
+раздвигаться / раздвинуться ; se séparer, s'écarter, s'ouvrir ; Двери раздвинулись перед нами. ; Les portes se sont ouvertes devant nous.
+добиваться / добиться ; atteindre, obtenir, réussir ; Он добился успеха в своей карьере. ; Il a réussi dans sa carrière.
+сходство ; ressemblance, similitude ; Между ними было удивительное сходство. ; Il y avait une ressemblance étonnante entre eux.
+запинаться / запнуться ; bégayer, bredouiller, hésiter ; Он запнулся, пытаясь выговорить это слово. ; Il a bégayé en essayant de prononcer ce mot.
+соображать / сообразить ; comprendre, saisir, réfléchir ; Он быстро сообразил, что происходит. ; Il a rapidement compris ce qui se passe.
+копаться / покопаться ; fouiller, farfouiller, chercher ; Он копался в своем портфеле, ища ключи. ; Il fouillait dans son sac, cherchant ses clés.
+исключать / исключить ; exclure ; Учитель решил исключить студента за плохое поведение. ; Le professeur a décidé d'exclure l'élève pour mauvaise conduite.
+допущение ; supposition, hypothèse ; Его допущение оказалось неверным. ; Sa supposition s'est révélée incorrecte.
+сказываться / сказаться ; se manifester, s'exprimer, avoir un effet ; Как изменения в политике сказываются на экономике? ; Comment les changements de politique se manifestent-ils sur l'économie ? 
+откладывать / отложить ; remettre, reporter, différer ; Я решил отложить поездку на следующую неделю ; J'ai décidé de reporter le voyage à la semaine prochaine.
+считать / счесть ; considérer, estimer, juger ; Я считаю, что это было несправедливо. ; Je considère que c'était injuste.
+настойчивость ; persévérance, insistance ; Его настойчивость помогла ему добиться успеха. ; Sa persévérance l'a aidé à réussir.
+свирепо ; férocement, sauvagement ; Он свирепо смотрел на врага, готовый к битве. ; Il regardait férocement l'ennemi, prêt pour la bataille.
+упрям ; têtu, obstiné ; Он был упрям и не хотел слушать никого. ; Il était têtu et ne voulait écouter personne.
+храп ; ronflement ; Его храп был слышен из другой комнаты. ; Son ronflement était audible depuis l'autre pièce.
+перепутанный ; confus, embrouillé, mélangé ; Он был настолько перепутанный, что не мог найти выход из леса ; Il était tellement confus qu'il ne pouvait pas trouver la sortie de la forêt.
+зевать / зевнуть ; bâiller ; Он зевнул, показывая, что ему скучно. ; Il a baillé, montrant qu'il s'ennuyait.
+проклятье ; malédiction, anathème ; Это проклятье будет преследовать вас вечно. ; Cette malédiction vous poursuivra éternellement.
+пренебрегать / пренебречь ; négliger, ignorer ; Он часто пренебрегает своими обязанностями ; Il néglige souvent ses devoirs.
+бездарность ; incompétence, incapacité ; Его бездарность была очевидна для всех ; Son incompétence était évidente pour tous.
+отнимать / отнять ; enlever, retirer, ôter, priver ; Он отнял у меня книгу. ; Il m'a enlevé le livre.
+глоток ; gorgée, bouchée ; Я сделал глоток воды и почувствовал облегчение. ; J'ai pris une gorgée d'eau et j'ai ressenti un soulagement.
+ловушка ; piège ; Он попал в ловушку и не мог выбраться. ; Il est tombé dans un piège et ne pouvait pas en sortir.
+задевать / задеть ; toucher, blesser <émotionnellement> ; Он случайно задел её чувства, когда пошутил. ; Il a accidentellement blessé ses sentiments en plaisantant.
+ненароком ; par inadvertance, accidentellement ; Я ненароком увидел его письмо. ; J'ai accidentellement vu sa lettre.
