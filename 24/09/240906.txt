@@ -3,7 +3,7 @@
 раздвигаться / раздвинуться ; se séparer, s'écarter, s'ouvrir ; Двери раздвинулись перед нами. ; Les portes se sont ouvertes devant nous.
 добиваться / добиться ; atteindre, obtenir, réussir ; Он добился успеха в своей карьере. ; Il a réussi dans sa carrière.
 сходство ; ressemblance, similitude ; Между ними было удивительное сходство. ; Il y avait une ressemblance étonnante entre eux.
-запинаться / запнуться ; bégayer, bredouiller, hésiter ; Он запнулся, пытаясь выговорить это слово. ; Il a bégayé en essayant de prononcer ce mot.
+запинаться / запнуться ; bégayer, bredouiller, hésiter, trébucher ; Он запнулся, пытаясь выговорить это слово. ; Il a bégayé en essayant de prononcer ce mot.
 соображать / сообразить ; comprendre, saisir, réfléchir ; Он быстро сообразил, что происходит. ; Il a rapidement compris ce qui se passe.
 копаться / покопаться ; fouiller, farfouiller, chercher ; Он копался в своем портфеле, ища ключи. ; Il fouillait dans son sac, cherchant ses clés.
 исключать / исключить ; exclure ; Учитель решил исключить студента за плохое поведение. ; Le professeur a décidé d'exclure l'élève pour mauvaise conduite.
@@ -25,3 +25,6 @@
 ловушка ; piège ; Он попал в ловушку и не мог выбраться. ; Il est tombé dans un piège et ne pouvait pas en sortir.
 задевать / задеть ; toucher, blesser <émotionnellement> ; Он случайно задел её чувства, когда пошутил. ; Il a accidentellement blessé ses sentiments en plaisantant.
 ненароком ; par inadvertance, accidentellement ; Я ненароком увидел его письмо. ; J'ai accidentellement vu sa lettre.
+- / допустить ; permettre, admettre, laisser entrer ; Мы не можем допустить такую ошибку. ; Nous ne pouvons pas permettre une telle erreur.
+храпеть / захрапеть ; ronfler ; Он захрапел, когда уснул. ; Il a ronflé en s'endormant.
+запутался / запутываться / запутаться ; s'embrouiller, se perdre, se mélanger <impliquant une confusion mentale ou physique> ; Я запутался в этих инструкциях. ; Je me suis embrouillé dans ces instructions.
