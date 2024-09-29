@@ -8,10 +8,10 @@
 промежуток ; intervalle, laps de temps ; Между двумя событиями был небольшой промежуток. ; Il y avait un petit intervalle entre les deux événements.
 отвергать / отвергнуть ; rejeter, repousser ; Он отвергнет все ваши предложения. ; Il rejettera toutes vos propositions.
 замедлять / замедлить ; ralentir, retarder ; Он замедлил шаг, чтобы не наступить на камень. ; Il a ralenti son pas pour ne pas marcher sur la pierre.
-охраняемый ; protégé, surveillé, gardé ; Этот лес охраняемый государством. ; Cette forêt est protégée par l'Etat.
+охраняемый ; protégé, surveillé, gardé ; Это лес, охраняемый государством. ; Cette forêt est protégée par l'Etat.
 всего лишь ; seulement, juste, tout simplement ; Это всего лишь начало. ; Ce n'est que le début.
 вычислять / вычислить ; calculer, évaluer ; Я люблю вычислять сложные математические задачи. ; J'aime calculer des tâches mathématiques complexes.
-пятиться / попятиться ; reculer, se retirer ; Она попятилась назад, испугавшись громкого звука. ; Elle a reculé, effrayée par le bruit fort.
+пятиться / попятиться ; reculer, se retirer ; Она попятилась, испугавшись громкого звука. ; Elle a reculé, effrayée par le bruit fort.
 бегство ; fuite, évasion ; Его бегство из тюрьмы удивило всех. ; Son évasion de la prison a surpris tout le monde.
 ошибочно ; par erreur, à tort ; Он ошибочно подумал, что она его любит. ; Il a pensé à tort qu'elle l'aimait.
 воспаление ; inflammation ; Воспаление может быть вызвано инфекцией. ; L'inflammation peut être causée par une infection.
@@ -22,4 +22,4 @@
 красть / украсть ; voler, dérober ; Он всегда пытается красть что-то у своих коллег. ; Il essaie toujours de voler quelque chose à ses collègues.
 тягучий ; visqueux, collant ; Тягучая жидкость мешает движению. ; Le liquide visqueux entrave le mouvement.
 фасоль ; haricot ; Я купил фасоль на рынке. ; J'ai acheté des haricots au marché.
-навечно ; pour toujours, éternellement ; Он обещал любить её навечно. ; Il a promis de l'aimer pour toujours.
+навечно ; pour toujours, éternellement ; Он уехал туда навечно. ; Il est parti là-bas pour toujours.
