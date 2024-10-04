@@ -1,6 +1,6 @@
 улика ; indice, preuve ; Улика помогла раскрыть преступление. ; L'indice a aidé à résoudre le crime.
 косвенный ; indirect ; Это был косвенный ответ на мой вопрос. ; C'était une réponse indirecte à ma question.
-аренда ; location, loyer ; Аренда квартиры в центре города стоит дорого. ; La location d'un appartement au centre-ville coûte cher. ; location ; Я хочу снять квартиру в аренду. ; Je veux louer un appartement.
+аренда ; location, loyer ; Аренда квартиры в центре города стоит дорого. ; La location d'un appartement au centre-ville coûte cher.
 предубеждение ; préjugé ; У него было предубеждение против незнакомцев. ; Il avait un préjugé contre les étrangers.
 смущение ; confusion, embarras ; Его смущение было заметно всем. ; Sa confusion était évidente pour tout le monde.
 опровергать / опровергнуть ; réfuter, démentir ; Он смог опровергнуть все обвинения. ; Il a pu réfuter toutes les accusations.
@@ -11,11 +11,14 @@
 мелькать / мелькнуть ; apparaître brièvement, passer rapidement ; Он мелькнул в толпе и исчез. ; Il est apparu brièvement dans la foule et a disparu.
 при чём здесь ; en quoi est-ce lié, quel est le rapport ; При чём здесь твои проблемы? ; En quoi tes problèmes sont-ils liés à cela ?
 переубеждать / переубедить ; convaincre, persuader ; Он пытается переубедить своих коллег. ; Il essaie de convaincre ses collègues.
-шепот ; chuchotement ; Он услышал шепот в темноте. ; Il a entendu un chuchotement dans l'obscurité.
+шёпот ; chuchotement ; Он услышал шёпот в темноте. ; Il a entendu un chuchotement dans l'obscurité.
 безразлично ; indifférent, indifféremment ; Ему было безразлично, что они думают. ; Il était indifférent à ce qu'ils pensaient.
 на вашем месте ; à votre place ; На вашем месте, я бы не делал этого. ; À votre place, je ne ferais pas ça.
-- / наплевать ; se moquer, s'en ficher ; Ему наплевать на мнение других. ; Il se moque de l'opinion des autres.
+плевать / наплевать ; se moquer, s'en ficher ; Ему наплевать на мнение других. ; Il se moque de l'opinion des autres.
 тощий ; maigre, décharné, émacié ; Этот тощий кот еле нашёл еду. ; Ce chat maigre a à peine trouvé de la nourriture.
-опровергать / опровергнуть ; réfuter, démentir ; Они опровергли все обвинения против них. ; Ils ont réfuté toutes les accusations portées contre eux.
 раздобывать / раздобыть ; se procurer, obtenir, dénicher ; Он раздобыл билеты на концерт, несмотря на все трудности ; Il a réussi à obtenir des billets pour le concert, malgré toutes les difficultés
 подкупать / подкупить ; corrompre, soudoyer ; Он подкупил свидетеля, чтобы изменить показания. ; Il a soudoyé un témoin pour qu'il change son témoignage.
+снимать / снять ; enlever, retirer, filmer, louer <selon le contexte> ; Я снимаю фильм о природе. ; Je filme un documentaire sur la nature.
+это здесь не причём ; cela n'a rien à voir ici, ce n'est pas pertinent ici ; Это здесь не причём, но я все равно помогу тебе. ; Cela n'a rien à voir ici, mais je vais quand même t'aider.
+я тут ни при чём ; je n'y suis pour rien ; Он сказал, что я тут ни при чём, но я всё равно чувствую себя виноватым ; Il a dit que je n'y suis pour rien, mais je me sens quand même coupable.
+мне без разницы ; ça m'est égal, peu importe ; Мне без разницы, куда мы пойдём. ; Peu importe où nous irons.
