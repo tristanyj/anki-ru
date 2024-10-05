@@ -1,4 +1,3 @@
-пламя ; flamme ; Пламя горит ярко в ночи. ; La flamme brille intensément dans la nuit.
 утверждение ; affirmation, déclaration ; Его утверждение вызвало много споров. ; Son affirmation a suscité beaucoup de débats.
 по утверждению ; selon ; По утверждению местных жителей, в городе произошло землетрясение. ; Selon les habitants locaux, un tremblement de terre a eu lieu dans la ville.
 урчание ; grognement ; Он услышал урчание своего животного. ; Il a entendu le grognement de son animal.
