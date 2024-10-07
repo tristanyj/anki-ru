@@ -1,12 +1,12 @@
 
 могила ; tombe ; Он поставил цветы на могилу своей матери. ; Il a mis des fleurs sur la tombe de sa mère.
 негодование ; indignation ; Его негодование было очевидно. ; Son indignation était évidente.
-пуля ; balle ; Пуля пронзила его сердце. ; La balle a traversé son cœur.
+пуля ; balle <arme à feu> ; Пуля летит быстрее звука. ; La balle vole plus vite que le son.
 ибо ; car ; Он не пришел, ибо был занят. ; Il n'est pas venu car il était occupé.
 властитель ; seigneur, maître ; Властитель приказал принести ему воды. ; Le seigneur a ordonné de lui apporter de l'eau.
 безобразие ; désordre, chaos ; В комнате было полное безобразие. ; La pièce était en plein désordre.
 очутиваться / очутиться ; se retrouver ; Он очутился в странном месте. ; Il s'est retrouvé dans un endroit étrange.
-облик ; apparence ; Его облик был странным. ; Son apparence était étrange.
+облик ; apparence, aspect ; Его облик был величественным и внушал уважение. ; Son apparence était majestueuse et inspirait le respect.
 созвездие ; constellation ; Он увидел созвездие на небе. ; Il a vu une constellation dans le ciel.
 отзываться / отозваться ; résonner ; Его слова отзывались в его сердце. ; Ses mots résonnaient dans son cœur.
 возгораться / возгореться ; s'enflammer ; Огонь возгорелся в лесу. ; Le feu s'est enflammé dans la forêt.
