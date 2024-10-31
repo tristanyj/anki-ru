@@ -1,6 +1,5 @@
-намек на ; allusion à ; Это был намек на его прошлое. ; C'était une allusion à son passé.
 повседневный ; quotidien ; Это повседневная проблема для него. ; C'est un problème quotidien pour lui.
-пускать / пустить ; laisser, permettre, <souvent utilisé pour exprimer la permission ou l'autorisation> ; Пускай он войдёт. ; Qu'il entre.
+пускать / пустить ; laisser, permettre ; Пускай он войдёт. ; Qu'il entre.
 окрестность ; environs ; Он живет в окрестностях города. ; Il vit dans les environs de la ville.
 подозрение ; soupçon ; Он был подозрителен с самого начала. ; Il était suspect dès le début.
 хоть капельку ; même un peu ; Он не понимает хоть капельку французского. ; Il ne comprend même pas un peu de français.
@@ -12,7 +11,6 @@
 хохотать / захохотать ; rire aux éclats ; Он захохотал, услышав эту шутку. ; Il a ri aux éclats en entendant cette blague.
 хлыст ; fouet ; Он взмахнул хлыстом. ; Il a fait claquer le fouet.
 бодрость ; vivacité ; Он всегда полон бодрости. ; Il est toujours plein de vivacité.
-воздушно-капельным ; aéroporté ; Этот вирус передается воздушно-капельным путем. ; Ce virus est transmis par voie aéroportée.
 происшествие ; incident ; Происшествие произошло на улице. ; L'incident s'est produit dans la rue.
 лихорадка ; fièvre ; У меня высокая температура и лихорадка. ; J'ai une forte température et de la fièvre.
-во что бы то ни стало ; quoi qu'il en soit ; Он сделает это во что бы то ни стало. ; Il le fera quoi qu'il en soit.
+во что бы то ни стало ; à tout prix, coûte que coûte ; Он добьётся своей цели во что бы то ни стало. ; Il atteindra son but à tout prix.

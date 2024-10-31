@@ -2,17 +2,10 @@
 из упрямства ; par obstination ; Он отказался просить прощения из упрямства. ; Il a refusé de s'excuser par obstination.
 подлец ; salaud ; Этот подлец обманул меня. ; Ce salaud m'a trompé.
 долговечность ; durabilité ; Долговечность этого товара зависит от условий эксплуатации. ; La durabilité de ce produit dépend des conditions d'utilisation.
-растрескавшийся ; craquelé ; Старая краска на стенах была растрескавшейся. ; La vieille peinture sur les murs était craquelée.
-одеяло лоскутным ; patchwork ; Она сшила одеяло лоскутным способом. ; Elle a cousu un patchwork.
 петля ; boucle ; Он завязал петлю на веревке. ; Il a fait une boucle avec la corde.
-плывут облака ; les nuages flottent ; Плывут облака, несущие дождь. ; Les nuages flottent, apportant la pluie.
-прожитых лет ; années vécues ; Он рассказал мне о своих прожитых лет. ; Il m'a parlé de ses années vécues.
+прожитый год ; année vécue, années vécues ; Каждый прожитый год оставляет свой след в душе человека. ; Chaque année vécue laisse sa trace dans l'âme d'une personne.
 морщина ; ride ; У неё появились морщины на лбу. ; Elle a des rides sur le front.
-дело молодых ; affaire de jeunes ; Это дело молодых, и им нужна ваша помощь. ; C'est une affaire de jeunes, et ils ont besoin de votre aide.
-согрета лучами солнца ; réchauffé par les rayons du soleil ; Она сидела на берегу, согретая лучами солнца. ; Elle était assise au bord de l'eau, réchauffée par les rayons du soleil.
-судьбою ; par le destin ; Он был предназначен встретить её судьбою. ; Il était destiné à la rencontrer par le destin.
 чин ; rang ; Он занимал высокий чин в армии. ; Il occupait un haut rang dans l'armée.
-опалённый огнём ; brûlé par le feu ; Дом был опалённый огнём. ; La maison était brûlée par le feu.
 кукушка ; coucou ; Кукушка сидит на ветке и поет. ; Le coucou est assis sur la branche et chante. 
 чахотка ; tuberculose ; Он умер от чахотки в возрасте 30 лет. ; Il est mort de tuberculose à l'âge de 30 ans.
 соблазны ; tentations ; В жизни человека всегда есть соблазны. ; Il y a toujours des tentations dans la vie d'une personne.
@@ -32,3 +25,4 @@
 начиночка ; débutant ; Он начиночка в этом деле. ; Il est débutant dans cette affaire.
 упадничество ; décadence ; Этот город переживает упадничество. ; Cette ville est en décadence.
 самоотречение ; abnégation ; Его самоотречение поражало всех. ; Son abnégation étonnait tout le monde.
+согревать / согреть ; réchauffer, chauffer ; Он согрел чайник перед приходом гостей. ; Il a réchauffé la bouilloire avant l'arrivée des invités.

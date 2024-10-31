@@ -1,11 +1,10 @@
 сторож ; gardien ; Сторож охраняет здание всю ночь. ; Le gardien surveille le bâtiment toute la nuit.
 лопать / лопнуть ; éclater ; Шар лопнул от избытка воздуха. ; Le ballon a éclaté à cause de l'excès d'air.
 облак ; nuage ; На небе много облаков. ; Il y a beaucoup de nuages dans le ciel.
-угу ; oui ; — Ты пойдешь на концерт? — Угу. ; — Tu iras au concert ? — Oui.
 восклицать / воскликнуть ; s'exclamer ; Она воскликнула от удивления. ; Elle s'est exclamée de surprise.
 щедрый ; généreux ; Он щедро поделился своими знаниями. ; Il a généreusement partagé ses connaissances.
 распутный ; débauché, dissolu ; Он ведет распутный образ жизни. ; Il mène une vie dissolue.
-покровительство ; patronage ; Он нашел покровительство у влиятельного человека. ; Il a trouvé un patronage auprès d'une personne influente.
+покровительство ; protection, patronage <utilisé pour désigner un soutien ou une aide, souvent dans un contexte de pouvoir ou d'influence> ; Его покровительство помогло мне добиться успеха. ; Son patronage m'a aidé à réussir.
 в назначенний час ; à l'heure convenue ; Встреча началась в назначенный час. ; La réunion a commencé à l'heure convenue.
 намёк ; allusion ; Он сделал намёк на то, что я должен уйти. ; Il a fait allusion au fait que je devais partir.
 награда ; récompense ; Он получил награду за свои заслуги. ; Il a reçu une récompense pour ses mérites.
