@@ -1,10 +1,7 @@
 размышление ; réflexion, méditation ; Его размышления были глубоки и проницательны. ; Ses réflexions étaient profondes et perspicaces.
-напроказничать / напроказить ; faire des bêtises, faire des espiègleries ; Он часто напроказничает, чтобы привлечь внимание. ; Il fait souvent des bêtises pour attirer l'attention.
 напрасно ; en vain, inutilement, pour rien ; Напрасно он ждал её весь день. ; En vain, il l'a attendue toute la journée.
 ворчать / проворчать ; grogner, ronchonner ; Он часто ворчит на своих соседей. ; Il grogne souvent contre ses voisins.
 холм ; colline ; Холм виден издалека. ; La colline est visible de loin.
-ворочаться / воротиться ; se retourner, faire demi-tour, revenir ; Он решил воротиться домой после долгого путешествия. ; Il a décidé de revenir à la maison après un long voyage.
-буран ; tempête de neige, blizzard ; На улице начался буран, и все дороги были занесены снегом. ; Une tempête de neige a commencé dehors, et toutes les routes ont été couvertes de neige.
 стал было ; allait, était sur le point de ; Он стал было открыть дверь, но передумал. ; Il était sur le point d'ouvrir la porte, mais il a changé d'avis.
 что толку ; quel intérêt, à quoi bon ; Что толку спорить, если решение уже принято? ; À quoi bon discuter si la décision est déjà prise ?
 ободрять / ободрить ; encourager, réconforter ; Эта музыка ободряет меня каждый раз, когда я её слушаю. ; Cette musique m'encourage chaque fois que je l'écoute.
@@ -13,5 +10,6 @@
 махать / махнуть ; agiter, secouer ; Он начал махать рукой, чтобы привлечь внимание. ; Il a commencé à agiter la main pour attirer l'attention.
 досадно ; fâcheux, regrettable, ennuyeux ; Это досадно, когда планы меняются в последний момент. ; C'est fâcheux quand les plans changent au dernier moment.
 помилуй ; de grâce, aie pitié ; Помилуй меня, я не хотел тебя обидеть. ; Aie pitié de moi, je ne voulais pas te blesser.
-окаянный ; maudit, damnable <souvent utilisé dans un contexte religieux ou littéraire> ; Он был окаянный человек, проклятый судьбой. ; Il était un homme maudit, damné par le destin.
 держать в ежовых рукавицах ; tenir sous sa coupe, tenir en laisse ; Он держал своих подчиненных в ежовых рукавицах. ; Il tenait ses subordonnés sous sa coupe.
+бесит ; énerve, agace, exaspère ; Он меня бесит своими постоянными шутками. ; Il m'énerve avec ses blagues constantes.
+проклятый ; maudit, damné ; Этот дом считается проклятым. ; Cette maison est considérée comme maudite.
