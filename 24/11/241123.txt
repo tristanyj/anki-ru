@@ -1,13 +1,15 @@
 возмущение ; indignation, perturbation, agitation ; Его возмущение было очевидно всем. ; Son indignation était évidente pour tout le monde.
 повиновение ; obéissance, soumission ; Он проявил полное повиновение начальнику. ; Il a montré une obéissance totale au chef.
-убиение ; meurtre, assassinat ; Убиение царя изменило ход истории. ; Le meurtre du tsar a changé le cours de l'histoire.
+повиноваться ; obéir, se soumettre ; Он повиновался приказу и ушел. ; Il a obéi à l'ordre et est parti.
+убийство ; meurtre, assassinat ; Убийство было совершено в темном переулке. ; Le meurtre a été commis dans une ruelle sombre.
 своевольный ; arbitraire, capricieux ; Его решение было своевольным и необоснованным. ; Sa décision était arbitraire et injustifiée.
 усмирение ; apaisement, répression, pacification ; Усмирение бунта было быстрым и решительным. ; L'apaisement de la révolte fut rapide et décisif.
 возобновление ; reprise, renouvellement ; Возобновление переговоров было намечено на следующую неделю. ; La reprise des négociations était prévue pour la semaine suivante.
+возобновить ; reprendre, renouveler ; Они решили возобновить переговоры. ; Ils ont décidé de reprendre les négociations.
 дерзость ; audace, insolence ; Его дерзость удивила всех. ; Son audace a surpris tout le monde.
-того ради ; pour cela, à cause de cela ; Он сделал это того ради, чтобы помочь другим. ; Il l'a fait pour cela, afin d'aider les autres.
-преждевременно ; prématurément, trop tôt ; Он ушел преждевременно, не дождавшись окончания собрания. ; Il est parti prématurément, sans attendre la fin de la réunion.
-насвистывать / насвистеть ; siffler, fredonner ; Он насвистывал мелодию, которую услышал по радио. ; Il sifflait une mélodie qu'il avait entendue à la radio. 
+раньшевременный ; prématuré, anticipé ; Раньшевременное завершение проекта было неожиданным. ; La fin prématurée du projet a été inattendue.
+ради ; pour, en vue de, au nom de ; Он сделал это ради своей семьи. ; Il a fait cela pour sa famille.
+свистеть / свистнуть ; siffler, siffloter ; Он свистел мелодию, идя по улице. ; Il sifflotait une mélodie en marchant dans la rue.
 нескладный ; incohérent, inharmonieux ; Его рассказ был нескладным и непонятным. ; Son récit était incohérent et incompréhensible.
 выведывать / выведать ; découvrir, dénicher, tirer <informations, secrets> ; Он пытался выведать все её секреты. ; Il essayait de découvrir tous ses secrets.
 поручение ; mission, tâche, ordre ; Поручение было выполнено в срок. ; La mission a été accomplie dans les délais.
@@ -17,6 +19,7 @@
 пытка ; torture ; Пытка — это нарушение прав человека. ; La torture est une violation des droits de l'homme.
 человеколюбие ; humanité, philanthropie ; Его человеколюбие было известно всем. ; Son humanité était connue de tous.
 потрясение ; secousse, choc, ébranlement ; Потрясение было сильным и продолжительным. ; Le choc a été fort et durable.
+трясти / потрясти ; secouer, agiter ; Он трясёт бутылку, чтобы смешать напиток. ; Il secoue la bouteille pour mélanger la boisson.
 медлить / замедлить ; tarder, hésiter <imperfectif>, retarder <perfectif> ; Он всегда медлит с принятием решений. ; Il tarde toujours à prendre des décisions.
 погружение ; immersion, submersion ; Погружение в новую культуру может быть захватывающим опытом. ; L'immersion dans une nouvelle culture peut être une expérience captivante.
 одушевлять / одушевить ; inspirer, animer ; Она одушевила команду на победу. ; Elle a inspiré l'équipe à gagner.
