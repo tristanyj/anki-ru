@@ -1,13 +1,13 @@
-потчевать / попотчевать ; accueillir, recevoir <contexte formel, hospitalité> ; Он попотчевал гостей с большим радушием. ; Il a accueilli les invités avec beaucoup de chaleur.
 сметливость ; perspicacité, finesse d'esprit ; Он проявил сметливость в решении этой задачи. ; Il a fait preuve de perspicacité dans la résolution de cette tâche.
-под караулом ; sous la garde, sous la surveillance ; Он провел всю ночь под караулом. ; Il a passé toute la nuit sous la garde.
+под арестом ; en état d'arrestation, sous les verrous ; Он был под арестом в течение двух дней. ; Il a été en état d'arrestation pendant deux jours.
 без умолку ; sans arrêt, sans cesse ; Он говорил без умолку весь вечер. ; Il a parlé sans arrêt toute la soirée.
 заглушать / заглушить ; étouffer, assourdir ; Шум заглушил его голос. ; Le bruit a étouffé sa voix.
+глухой ; sourd, insonore ; Этот звук был слишком глухой, чтобы его услышать. ; Ce son était trop sourd pour être entendu.
 вкратце ; en bref, en résumé ; Вкратце, он рассказал о своем путешествии. ; En bref, il a raconté son voyage.
 гнусный ; ignoble, abject, odieux ; Этот человек совершил гнусный поступок. ; Cet homme a commis un acte ignoble.
 подвергать / подвергнуть ; exposer, soumettre ; Он подвергал свои идеи критике. ; Il exposait ses idées à la critique.
 неразрывно ; inséparablement, inextricablement ; Их жизни неразрывно связаны. ; Leurs vies sont inséparablement liées.
-влекать / привлечь ; attirer, séduire ; Его рассказ влекло слушателей в мир фантазий. ; Son récit attirait les auditeurs dans un monde de fantaisie.
+привлекать / привлечь ; attirer, séduire ; Его рассказ увлёк слушателей в мир фантазий. ; Son récit attirait les auditeurs dans un monde de fantaisie.
 пламенно ; ardemment, passionnément ; Он пламенно защищал свою точку зрения. ; Il défendait ardemment son point de vue.
 вырывать / вырвать ; arracher, extraire ; Он вырвал зуб у стоматолога. ; Il a fait arracher une dent chez le dentiste.
 из огня да в полымя ; de mal en pis, de Charybde en Scylla ; Он попал из огня да в полымя. ; Il est passé de Charybde en Scylla.
@@ -16,6 +16,7 @@
 отделываться / отделаться ; s'en tirer, se débarrasser ; Он думал, что легко отделается от этой проблемы. ; Il pensait qu'il s'en tirerait facilement de ce problème.
 буйно ; luxuriant, abondamment ; В этом лесу растут буйные деревья. ; Dans cette forêt poussent des arbres luxuriants.
 предвещать / предвестить ; annoncer, présager ; Это предвещало перемены. ; Cela annonçait des changements.
+весть ; nouvelle, information ; Весть о его приезде разнеслась по всему городу. ; La nouvelle de son arrivée s'est répandue dans toute la ville.
 ссылаться / сослаться ; se référer, mentionner ; Он сослался на источник в своей статье. ; Il s'est référé à une source dans son article.
 оправдание ; justification, excuse ; У него не было оправдания для своего поступка. ; Il n'avait pas d'excuse pour son acte.
 спутывать / спутать ; emmêler, embrouiller ; Он спутал все провода, и теперь они не работают. ; Il a embrouillé tous les fils, et maintenant ils ne fonctionnent plus.
